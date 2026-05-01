@@ -1,0 +1,10 @@
+{
+  "database_name": "model.json",
+  "version": "2026.05.01.1",
+  "schema_version": 1,
+  "updated_at": "2026-05-01T09:00:00+02:00",
+  "source": "github",
+  "models_count": null,
+  "sha256": "",
+  "notes": "Initialer Upload der ModelFinder-Datenbank auf GitHub"
+}
