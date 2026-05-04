@@ -7217,7 +7217,7 @@
   },
   {
     "model_id": "6424",
-    "product_number": "",
+    "product_number": "9HR38ES#ABD",
     "vendor": "HP",
     "cpu": "i5 8265U",
     "ram_onboard": 0,
@@ -7225,17 +7225,17 @@
     "ram_slot2": 4,
     "ram_total": 8,
     "ram_type": "DDR4",
-    "ram_layout": "2x4",
+    "ram_layout": "1x4 + 1x4",
     "ssd": 512,
     "storage_type": "M.2 SATA",
     "optical_drive": "None",
     "inch": 15.6,
     "display_type": "Full HD",
-    "operating_system": "",
+    "operating_system": "Windows 11 Professional",
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Gray",
-    "note": "6HM83ES"
+    "note": "6HM83ES + 9HR38ES"
   },
   {
     "model_id": "8296",
@@ -7918,5 +7918,27 @@
     "condition": "REF",
     "color": "Silver",
     "note": ""
+  },
+  {
+    "model_id": "6198",
+    "product_number": "6HM83ES#ABD",
+    "vendor": "HP",
+    "cpu": "i5 8265U",
+    "ram_onboard": 0,
+    "ram_slot1": 4,
+    "ram_slot2": 4,
+    "ram_total": 8,
+    "ram_type": "DDR4",
+    "ram_layout": "1x4 + 1x4",
+    "ssd": 256,
+    "storage_type": "M.2 SATA",
+    "optical_drive": "None",
+    "inch": 15.6,
+    "display_type": "Full HD",
+    "operating_system": "Windows 11 Professional",
+    "keyboard_layout": "DE",
+    "condition": "REF",
+    "color": "Gray",
+    "note": "6HM83ES + 9HR38ES"
   }
 ]
