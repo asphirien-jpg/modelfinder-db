@@ -8324,5 +8324,28 @@
     "condition": "REF",
     "color": "Silver",
     "note": ""
+  },
+  {
+    "model_id": "8374",
+    "product_number": "X1704VA",
+    "product_number_2": "",
+    "vendor": "Asus",
+    "cpu": "Core5 120U",
+    "ram_onboard": 8,
+    "ram_slot1": 16,
+    "ram_slot2": 0,
+    "ram_total": 24,
+    "ram_type": "DDR4",
+    "ram_layout": "1x8 + 1x16",
+    "ssd": 1000,
+    "storage_type": "NVMe",
+    "optical_drive": "None",
+    "inch": 17.3,
+    "display_type": "Full HD",
+    "operating_system": "Windows 11 Professional",
+    "keyboard_layout": "FR",
+    "condition": "",
+    "color": "Blue",
+    "note": ""
   }
 ]
