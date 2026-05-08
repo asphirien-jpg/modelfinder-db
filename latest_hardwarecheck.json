@@ -1,0 +1,14 @@
+{
+  "manifest_version": 1,
+  "app": "HardwareCheck",
+  "version": "v3.36",
+  "platform": "debian-live",
+  "package_type": "program-update",
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_update_v3.36_test.zip",
+  "sha256": "b0dd53fea79854d289db61bedd1d64d4b6d0c46efa8f97e0a7d6a541b035f555",
+  "size_bytes": 34379,
+  "filename": "HardwareCheck_update_v3.36_test.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_update_v3.36_test.zip",
+  "created_at": "2026-05-08T18:10:32Z",
+  "notes": "HardwareCheck v3.36 Live-Test"
+}
