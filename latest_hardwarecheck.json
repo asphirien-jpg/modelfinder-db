@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v3.39",
+  "version": "v3.40",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_update_v3.39_test.zip",
-  "sha256": "14f9129aa245e26af1c6f29ba4cd34724aa091cc3a411ed3eb6c5cdf6b596d48",
-  "size_bytes": 37308,
-  "filename": "HardwareCheck_update_v3.39_test.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_update_v3.39_test.zip",
-  "created_at": "2026-05-08T19:18:14Z",
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_update_v3.40_test.zip",
+  "sha256": "132b568399c5f7f8cd9b84885c2ba29817b65b9125fdb37f999fdbeef8c7e0cf",
+  "size_bytes": 37804,
+  "filename": "HardwareCheck_update_v3.40_test.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_update_v3.40_test.zip",
+  "created_at": "2026-05-08T19:34:51Z",
   "notes": ""
 }
