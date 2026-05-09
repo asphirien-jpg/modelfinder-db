@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v3.40.3-test",
+  "version": "v3.40.4-test",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.40.2-test_to_v3.40.3-test.zip",
-  "sha256": "ebfa82ad81861ad010dc75b8bd8e35b13c4c1869eadc4e41c721c5f9f1ca5bf1",
-  "size_bytes": 38047,
-  "filename": "HardwareCheck_UPDATE_v3.40.2-test_to_v3.40.3-test.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.40.2-test_to_v3.40.3-test.zip",
-  "created_at": "2026-05-09T18:05:00Z",
-  "notes": "Testupdate v3.40.3-test: Updatepfad-Test nach manueller Kopie von v3.40.2-test; Dialog-Hotkeys bleiben erhalten, Hotkeys werden nach Spaeter wiederhergestellt."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.40.3-test_to_v3.40.4-test.zip",
+  "sha256": "30f151341b6d455e8b9f3b0c3047c02924abdf0f156cd253c1da782e314a5668",
+  "size_bytes": 38185,
+  "filename": "HardwareCheck_UPDATE_v3.40.3-test_to_v3.40.4-test.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.40.3-test_to_v3.40.4-test.zip",
+  "created_at": "2026-05-09T18:20:00Z",
+  "notes": "Testupdate v3.40.4-test: DB- und Programmupdate warten auf laufenden WLAN-Autostart statt parallel einen zweiten Netzwerkaufbau zu starten."
 }
