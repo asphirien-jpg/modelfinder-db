@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v3.40.7-test",
+  "version": "v3.40.8-test",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.40.6-test_to_v3.40.7-test.zip",
-  "sha256": "5d75536f123562b6e1edecf0c17c415e9ca1723b0b1332c7ca761e9139911a94",
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.40.7-test_to_v3.40.8-test.zip",
+  "sha256": "a745b81a3f2bf68d4e95847bbc0ac2f96940e67443383ab6fa8f63ee703011e4",
   "size_bytes": 39673,
-  "filename": "HardwareCheck_UPDATE_v3.40.6-test_to_v3.40.7-test.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.40.6-test_to_v3.40.7-test.zip",
-  "created_at": "2026-05-09T19:00:00Z",
-  "notes": "Testupdate v3.40.7-test: Installer laeuft im HardwareCheck-Prozess mit Fortschritts-Overlay und Neustart per exec, damit xinit/X-Server nicht beendet wird."
+  "filename": "HardwareCheck_UPDATE_v3.40.7-test_to_v3.40.8-test.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.40.7-test_to_v3.40.8-test.zip",
+  "created_at": "2026-05-09T19:30:00Z",
+  "notes": "Testupdate v3.40.8-test: reines Live-Testpaket fuer den neuen In-Prozess-Installer ab v3.40.7-test."
 }
