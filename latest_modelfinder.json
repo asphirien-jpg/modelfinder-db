@@ -1,0 +1,14 @@
+{
+  "manifest_version": 1,
+  "app": "ModelFinder",
+  "version": "V4.5",
+  "platform": "windows",
+  "package_type": "program-update",
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/modelfinder/ModelFinder_update_V4.5.zip",
+  "sha256": "1152c5a6a621beccf4dcd70215ea4434e890c5e7ca1bcac1f03fa434b983fc9a",
+  "size_bytes": 49790136,
+  "filename": "ModelFinder_update_V4.5.zip",
+  "repo_path": "updates/modelfinder/ModelFinder_update_V4.5.zip",
+  "created_at": "2026-05-08T18:07:46Z",
+  "notes": "ModelFinder V4.5: Publisher, Online-Update, HardwareCheck-Paketpruefung, sicherer Fensterstart und Unicode-sicherer PowerShell-Updater"
+}
