@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "3.40.1-test",
+  "version": "v3.40.1-test",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.40_to_v3.40.1-test.zip",
-  "sha256": "dffced3949572198b30c1c6ee22a8c4078affe94435a332fc26be98a252b5816",
-  "size_bytes": 37910,
-  "filename": "HardwareCheck_UPDATE_v3.40_to_v3.40.1-test.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.40_to_v3.40.1-test.zip",
-  "created_at": "2026-05-09T17:30:00Z",
-  "notes": "Fixed preserve_paths validation issue. updates/backups added."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.40_to_v3.40.1-test_FIXED.zip",
+  "sha256": "87cc735e82682c761716f0e7d738e78355cd8d150a13bf2f667c1912b13013b4",
+  "size_bytes": 37885,
+  "filename": "HardwareCheck_UPDATE_v3.40_to_v3.40.1-test_FIXED.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.40_to_v3.40.1-test_FIXED.zip",
+  "created_at": "2026-05-09T17:21:48Z",
+  "notes": ""
 }
