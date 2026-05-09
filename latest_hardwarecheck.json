@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v3.40.2-test",
+  "version": "v3.40.3-test",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.40.1-test_to_v3.40.2-test.zip",
-  "sha256": "ccc108916635b15109263352cb5c5e3b71935a261b9c74c09eef5db2858f2c1b",
-  "size_bytes": 38041,
-  "filename": "HardwareCheck_UPDATE_v3.40.1-test_to_v3.40.2-test.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.40.1-test_to_v3.40.2-test.zip",
-  "created_at": "2026-05-09T17:55:00Z",
-  "notes": "Testupdate v3.40.2-test: Installationsabfrage mit fest sichtbaren Buttons und Tastenkürzeln I/Enter/J/Leertaste."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.40.2-test_to_v3.40.3-test.zip",
+  "sha256": "ebfa82ad81861ad010dc75b8bd8e35b13c4c1869eadc4e41c721c5f9f1ca5bf1",
+  "size_bytes": 38047,
+  "filename": "HardwareCheck_UPDATE_v3.40.2-test_to_v3.40.3-test.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.40.2-test_to_v3.40.3-test.zip",
+  "created_at": "2026-05-09T18:05:00Z",
+  "notes": "Testupdate v3.40.3-test: Updatepfad-Test nach manueller Kopie von v3.40.2-test; Dialog-Hotkeys bleiben erhalten, Hotkeys werden nach Spaeter wiederhergestellt."
 }
