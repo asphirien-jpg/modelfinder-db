@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v3.40.4-test",
+  "version": "v3.40.5-test",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.40.3-test_to_v3.40.4-test.zip",
-  "sha256": "30f151341b6d455e8b9f3b0c3047c02924abdf0f156cd253c1da782e314a5668",
-  "size_bytes": 38185,
-  "filename": "HardwareCheck_UPDATE_v3.40.3-test_to_v3.40.4-test.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.40.3-test_to_v3.40.4-test.zip",
-  "created_at": "2026-05-09T18:20:00Z",
-  "notes": "Testupdate v3.40.4-test: DB- und Programmupdate warten auf laufenden WLAN-Autostart statt parallel einen zweiten Netzwerkaufbau zu starten."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.40.4-test_to_v3.40.5-test.zip",
+  "sha256": "87835b40b22572c40ecd8c0bb5344c8bbcb94c93e5c0bcfe0fc7ed293970fb9b",
+  "size_bytes": 38176,
+  "filename": "HardwareCheck_UPDATE_v3.40.4-test_to_v3.40.5-test.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.40.4-test_to_v3.40.5-test.zip",
+  "created_at": "2026-05-09T18:35:00Z",
+  "notes": "Testupdate v3.40.5-test: repariert Installationsdialog; tuple-pady wurde entfernt, damit Text und Buttons auf Debian erscheinen."
 }
