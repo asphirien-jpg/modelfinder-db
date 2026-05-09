@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v3.40.1-test",
+  "version": "v3.40.2-test",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.40_to_v3.40.1-test.zip",
-  "sha256": "87cc735e82682c761716f0e7d738e78355cd8d150a13bf2f667c1912b13013b4",
-  "size_bytes": 37885,
-  "filename": "HardwareCheck_UPDATE_v3.40_to_v3.40.1-test.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.40_to_v3.40.1-test.zip",
-  "created_at": "2026-05-09T17:21:48Z",
-  "notes": "Testupdate v3.40.1-test; korrigiertes Manifest zeigt auf vorhandenes ZIP."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.40.1-test_to_v3.40.2-test.zip",
+  "sha256": "ccc108916635b15109263352cb5c5e3b71935a261b9c74c09eef5db2858f2c1b",
+  "size_bytes": 38041,
+  "filename": "HardwareCheck_UPDATE_v3.40.1-test_to_v3.40.2-test.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.40.1-test_to_v3.40.2-test.zip",
+  "created_at": "2026-05-09T17:55:00Z",
+  "notes": "Testupdate v3.40.2-test: Installationsabfrage mit fest sichtbaren Buttons und Tastenkürzeln I/Enter/J/Leertaste."
 }
