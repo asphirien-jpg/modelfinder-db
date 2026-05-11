@@ -4,11 +4,11 @@
   "version": "v3.50",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.40.8_to_v3.50.zip",
-  "sha256": "00ca6247a179d4be20ede202db0fa1cca75220950f6cf8668707f6faf5d4849a",
-  "size_bytes": 40339,
-  "filename": "HardwareCheck_UPDATE_v3.40.8_to_v3.50.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.40.8_to_v3.50.zip",
-  "created_at": "2026-05-11T08:38:31Z",
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.40.8_to_v3.50_pythonzip.zip",
+  "sha256": "e80c300f876ed9f79b1e1e555179236538172587e2a08056c6e93c8d7e087ecc",
+  "size_bytes": 39558,
+  "filename": "HardwareCheck_UPDATE_v3.40.8_to_v3.50_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.40.8_to_v3.50_pythonzip.zip",
+  "created_at": "2026-05-11T08:42:01Z",
   "notes": ""
 }
