@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v3.40.8-test",
+  "version": "v3.40.8",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.40.7-test_to_v3.40.8-test.zip",
-  "sha256": "a745b81a3f2bf68d4e95847bbc0ac2f96940e67443383ab6fa8f63ee703011e4",
-  "size_bytes": 39673,
-  "filename": "HardwareCheck_UPDATE_v3.40.7-test_to_v3.40.8-test.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.40.7-test_to_v3.40.8-test.zip",
-  "created_at": "2026-05-09T19:30:00Z",
-  "notes": "Testupdate v3.40.8-test: reines Live-Testpaket fuer den neuen In-Prozess-Installer ab v3.40.7-test."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.40.8-test_to_v3.40.8.zip",
+  "sha256": "3b03bd8813e50d810071e8a8d9dc321cce694c64737b2da7dac641ee681f3498",
+  "size_bytes": 40234,
+  "filename": "HardwareCheck_UPDATE_v3.40.8-test_to_v3.40.8.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.40.8-test_to_v3.40.8.zip",
+  "created_at": "2026-05-11T08:07:47Z",
+  "notes": "evtl release version"
 }
