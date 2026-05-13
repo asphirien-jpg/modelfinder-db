@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "ModelFinder",
-  "version": "V4.7",
+  "version": "V4.8",
   "platform": "windows",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/modelfinder/ModelFinder_update_V4.7.zip",
-  "sha256": "fde859304f04f6326864c460eaf01009536140fd2e9af2251224d37804b8d896",
-  "size_bytes": 49239524,
-  "filename": "ModelFinder_update_V4.7.zip",
-  "repo_path": "updates/modelfinder/ModelFinder_update_V4.7.zip",
-  "created_at": "2026-05-12T13:44:11Z",
-  "notes": "ModelFinder V4.7: Programm-Update online pruefen ohne Admin-Code, Admin-Aktionen im Optionen-Dialog erst nach Freigabe sichtbar"
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/modelfinder/ModelFinder_update_V4.8.zip",
+  "sha256": "928a1071fa9229c70734d8235ed4ac0bc8fe707ae358c23609dabc90fa0c967a",
+  "size_bytes": 49245645,
+  "filename": "ModelFinder_update_V4.8.zip",
+  "repo_path": "updates/modelfinder/ModelFinder_update_V4.8.zip",
+  "created_at": "2026-05-13T13:43:39Z",
+  "notes": "ModelFinder V4.8: automatische Hintergrundpruefung auf Programmupdates mit Statushinweis, ohne automatischen Download oder Installation"
 }
