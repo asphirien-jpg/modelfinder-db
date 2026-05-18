@@ -9273,5 +9273,30 @@
     "condition": "REF",
     "color": "Black",
     "note": ""
+  },
+  {
+    "model_id": "8571",
+    "product_number": "",
+    "product_number_2": "17-cp0439ng",
+    "vendor": "HP",
+    "cpu": "AMD Ryzen 3 5300U",
+    "ram_onboard": 0,
+    "ram_slot1": 8,
+    "ram_slot2": 8,
+    "ram_total": 16,
+    "ram_type": "DDR4",
+    "ram_layout": "1x8 + 1x8",
+    "ssd": 1000,
+    "storage_type": "NVMe",
+    "ssd_2": 0,
+    "storage_type_2": "",
+    "optical_drive": "None",
+    "inch": 17.3,
+    "display_type": "Full HD",
+    "operating_system": "Windows 11 Professional",
+    "keyboard_layout": "DE",
+    "condition": "REF",
+    "color": "",
+    "note": ""
   }
 ]
