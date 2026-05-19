@@ -9298,5 +9298,30 @@
     "condition": "REF",
     "color": "",
     "note": ""
+  },
+  {
+    "model_id": "Muss Chris noch erstellen",
+    "product_number": "LENOVO_MT_20VL_BU_Think_FM_ThinkPad",
+    "product_number_2": "L13 Yoga Gen 2",
+    "vendor": "Lenovo",
+    "cpu": "Intel Core i5 1135G7",
+    "ram_onboard": 0,
+    "ram_slot1": 8,
+    "ram_slot2": 8,
+    "ram_total": 16,
+    "ram_type": "DDR4",
+    "ram_layout": "1x8 + 1x8",
+    "ssd": 256,
+    "storage_type": "NVMe",
+    "ssd_2": 0,
+    "storage_type_2": "NVMe",
+    "optical_drive": "None",
+    "inch": 13.3,
+    "display_type": "Full HD",
+    "operating_system": "Windows 11 Professional",
+    "keyboard_layout": "DE",
+    "condition": "REF",
+    "color": "Black",
+    "note": ""
   }
 ]
