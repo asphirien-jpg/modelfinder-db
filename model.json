@@ -8711,7 +8711,7 @@
     "ram_total": 8,
     "ram_type": "DDR4",
     "ram_layout": "1x8",
-    "ssd": 480,
+    "ssd": 256,
     "storage_type": "M.2 SATA",
     "ssd_2": 0,
     "storage_type_2": "",
