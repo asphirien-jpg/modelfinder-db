@@ -8718,7 +8718,7 @@
     "optical_drive": "DVD-RW",
     "inch": 15.6,
     "display_type": "Full HD",
-    "operating_system": "",
+    "operating_system": "Windows 11 Professional",
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Gray",
@@ -9300,7 +9300,7 @@
     "note": ""
   },
   {
-    "model_id": "Muss Chris noch erstellen",
+    "model_id": "8596",
     "product_number": "LENOVO_MT_20VL_BU_Think_FM_ThinkPad",
     "product_number_2": "L13 Yoga Gen 2",
     "vendor": "Lenovo",
