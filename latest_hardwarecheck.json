@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v3.56",
+  "version": "v3.58",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.54_to_v3.56_pythonzip.zip",
-  "sha256": "33948aa9d9d39fd6e2f63855ea0a3ff2f81cb0222b55219aa897daa04b92b6f1",
-  "size_bytes": 41044,
-  "filename": "HardwareCheck_UPDATE_v3.54_to_v3.56_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.54_to_v3.56_pythonzip.zip",
-  "created_at": "2026-05-18T09:25:32Z",
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.56_to_v3.58_pythonzip.zip",
+  "sha256": "d99cdf37c50b9f2b15772739a7d41393b8bb8479abfcbd71fe5e8857660ebabf",
+  "size_bytes": 43543,
+  "filename": "HardwareCheck_UPDATE_v3.56_to_v3.58_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.56_to_v3.58_pythonzip.zip",
+  "created_at": "2026-05-21T12:12:26Z",
   "notes": ""
 }
