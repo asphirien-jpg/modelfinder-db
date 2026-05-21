@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "ModelFinder",
-  "version": "V4.11",
+  "version": "V4.12",
   "platform": "windows",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/modelfinder/ModelFinder_update_V4.11.zip",
-  "sha256": "c9640bf280c7f545474553b825da84c8f697cc945dd7bc6e171656be0334847c",
-  "size_bytes": 49565426,
-  "filename": "ModelFinder_update_V4.11.zip",
-  "repo_path": "updates/modelfinder/ModelFinder_update_V4.11.zip",
-  "created_at": "2026-05-21T13:15:06Z",
-  "notes": "ModelFinder V4.11: speichert den Status-Token und zeigt Geräte als übersichtliche Tabelle mit Ampelstatus"
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/modelfinder/ModelFinder_update_V4.12.zip",
+  "sha256": "c3e7b987894ce26c70cbfa6096f63110ed8b0b3feceb9b0cbb30bff8cb0eacde",
+  "size_bytes": 49565205,
+  "filename": "ModelFinder_update_V4.12.zip",
+  "repo_path": "updates/modelfinder/ModelFinder_update_V4.12.zip",
+  "created_at": "2026-05-21T13:49:36Z",
+  "notes": "ModelFinder V4.12: korrigiert die Geräte-Status-Tabelle und nutzt gespeicherte Status-Tokens zuverlässig"
 }
