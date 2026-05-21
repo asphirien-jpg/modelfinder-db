@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "ModelFinder",
-  "version": "V4.15",
+  "version": "V4.16",
   "platform": "windows",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/modelfinder/ModelFinder_update_V4.15.zip",
-  "sha256": "c2b6c278cb6f42b127a14de32823b9ad4b90acaffd364ee02eb4a16239d2b306",
-  "size_bytes": 49312381,
-  "filename": "ModelFinder_update_V4.15.zip",
-  "repo_path": "updates/modelfinder/ModelFinder_update_V4.15.zip",
-  "created_at": "2026-05-21T17:24:05Z",
-  "notes": "ModelFinder V4.15: Status-Token wird gespeichert, Token pro PC-Profil, ModelFinder-Status pro PC statt gegenseitigem Ueberschreiben"
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/modelfinder/ModelFinder_update_V4.16.zip",
+  "sha256": "7e55c3331890693bfba973b69c8dce944a34fe1af753aae2d63f5183ffc7a56e",
+  "size_bytes": 49318705,
+  "filename": "ModelFinder_update_V4.16.zip",
+  "repo_path": "updates/modelfinder/ModelFinder_update_V4.16.zip",
+  "created_at": "2026-05-21T18:01:41Z",
+  "notes": "ModelFinder V4.16: Status-Button oben, Status-Eintraege umbenennen/loeschen, DB-Status farbig markieren"
 }
