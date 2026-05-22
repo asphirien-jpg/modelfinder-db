@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "ModelFinder",
-  "version": "V4.18",
+  "version": "V4.19",
   "platform": "windows",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/modelfinder/ModelFinder_update_V4.18.zip",
-  "sha256": "DBE111602BF386ADBE966218C0F37C5E5ED6FD03EBB67F3ADB16153850C97D86",
-  "size_bytes": 49596445,
-  "filename": "ModelFinder_update_V4.18.zip",
-  "repo_path": "updates/modelfinder/ModelFinder_update_V4.18.zip",
-  "created_at": "2026-05-22T08:18:14Z",
-  "notes": "ModelFinder V4.18: Statusuebersicht kennt HardwareCheck v3.59 als aktuelle Version."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/modelfinder/ModelFinder_update_V4.19.zip",
+  "sha256": "BF7B57DCBB3B2CDD46BD42C4F7D839BCBFC3B6A1B30740ADE37672B6A68F2711",
+  "size_bytes": 49339404,
+  "filename": "ModelFinder_update_V4.19.zip",
+  "repo_path": "updates/modelfinder/ModelFinder_update_V4.19.zip",
+  "created_at": "2026-05-22T12:26:05Z",
+  "notes": "ModelFinder V4.19: Geraete-Status gleicht Programmversionen live gegen GitHub-Manifeste ab und trennt kopierte ModelFinder-Installationen per Maschinen-/Installations-Scope."
 }
