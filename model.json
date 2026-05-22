@@ -5647,7 +5647,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Black",
-    "note": "you can use 512GB"
+    "note": "you can use 512GB M.2 SATA SSD"
   },
   {
     "model_id": "8065",
@@ -8147,7 +8147,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Black",
-    "note": "you can use 512GB M.2 SSD"
+    "note": "you can use 512GB M.2 SATA SSD"
   },
   {
     "model_id": "8515",
