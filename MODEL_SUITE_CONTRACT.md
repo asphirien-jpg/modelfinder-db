@@ -71,17 +71,20 @@ Statusdateien liegen in:
 hardwarecheck-status/status/<device_id>.json
 ```
 
+Neue Implementierungen sollen die kanonischen Feldnamen schreiben. Bestehende Tools duerfen die genannten kompatiblen Alias-Felder weiter liefern; Consumer muessen beide Formen lesen, damit alte Sticks/portable ModelFinder-Installationen nicht brechen.
+
 Erwartete Felder:
 
 - `device_id`
-- `display_name` oder `employee_name`
+- Anzeigename: `display_name`, `employee_name` oder `device_name`
 - `tool`
 - `app_version`
 - `db_version`
-- `db_model_count`
+- Modellanzahl: kanonisch `db_model_count`, kompatibel auch `db_models_count`
 - `event`
-- `last_seen`
-- optional `hint` / `update_state`
+- Zeitstempel: kanonisch `last_seen`, kompatibel auch `last_seen_utc`
+- optional Updatehinweise: `hint`, `update_state`, `program_message`, `db_message`
+- optional ModelFinder-Scope: `portable_device_id`, `local_profile`, `status_scope`
 
 Status-Tokens muessen Low-Scope-Tokens sein. Niemals den Admin-/Publisher-Token auf Mitarbeitersticks speichern.
 
@@ -93,7 +96,7 @@ Status-Tokens muessen Low-Scope-Tokens sein. Niemals den Admin-/Publisher-Token 
 
 - Vor Arbeiten an einem ModelSuite-Repo diese Datei lesen.
 - Versionsupdates immer in Source, Manifest und Doku synchron halten.
-- Statusschema nicht still brechen.
+- Statusschema nicht still brechen; kompatible Erweiterungen muessen hier dokumentiert werden.
 - Token-Regeln nicht aufweichen.
 - Bei UI-Aenderungen keine Update-/Statuslogik nebenbei veraendern.
 - Nach Aenderungen `TASKS_NEXT.md` und relevante Handover-Dateien aktualisieren.
