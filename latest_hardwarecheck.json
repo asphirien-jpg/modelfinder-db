@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v3.59",
+  "version": "v3.60",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.58_to_v3.59_pythonzip.zip",
-  "sha256": "f9a2eb6aea563a74aa3b6fe4087819fcb6252b5f6acc64b6f0801c80e13ea529",
-  "size_bytes": 43616,
-  "filename": "HardwareCheck_UPDATE_v3.58_to_v3.59_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.58_to_v3.59_pythonzip.zip",
-  "created_at": "2026-05-22T07:29:39Z",
-  "notes": "v3.59: korrigiert Innovation-IT-SATA-SSDs, die faelschlich als M.2 SATA SSD angezeigt wurden."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.59_to_v3.60_pythonzip.zip",
+  "sha256": "CC9E98695D2B8197D3B23CD9CC6D7218436110293CB613FD4828F4BFE8A44AFC",
+  "size_bytes": 45992,
+  "filename": "HardwareCheck_UPDATE_v3.59_to_v3.60_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.59_to_v3.60_pythonzip.zip",
+  "created_at": "2026-05-22T11:33:37Z",
+  "notes": "v3.60: auffaelliger Lauftext fuer verfuegbare DB-/Programmupdates, DB-Version als TT.MM.JJJJ.x, uebersetzte Statusmeldungen."
 }
