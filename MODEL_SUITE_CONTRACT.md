@@ -88,6 +88,12 @@ Erwartete Felder:
 
 Status-Tokens muessen Low-Scope-Tokens sein. Niemals den Admin-/Publisher-Token auf Mitarbeitersticks speichern.
 
+Aktueller Implementierungsstand ab 2026-05-22:
+
+- HardwareCheck `v3.61` schreibt `db_model_count` und `last_seen` plus `db_models_count` und `last_seen_utc`.
+- ModelFinder `V4.21` schreibt fuer eigene Statusmeldungen dieselben kanonischen Felder plus Aliase.
+- ModelFinder `V4.21` liest `last_seen` oder `last_seen_utc` sowie `hint`, `update_state`, `program_message` oder `db_message`.
+
 ### Debian Live
 
 `Debian_DEV` darf HardwareCheck-Versionen nicht erraten. Es muss die stabile Source aus `HardwareCheck_DEV` und/oder das aktuelle Manifest aus `modelfinder-db` pruefen.
