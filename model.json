@@ -1,7 +1,7 @@
 [
   {
     "model_id": "5680",
-    "product_number": "Release v4.20",
+    "product_number": "Release v4.21",
     "product_number_2": "",
     "vendor": "HP",
     "cpu": "N3350",
@@ -4976,16 +4976,16 @@
   },
   {
     "model_id": "7969",
-    "product_number": "",
-    "product_number_2": "",
+    "product_number": "X515EA_F515EA",
+    "product_number_2": "BQ1263",
     "vendor": "Asus",
-    "cpu": "i3 1115G4",
-    "ram_onboard": 0,
-    "ram_slot1": 0,
+    "cpu": "Intel i3 1115G4",
+    "ram_onboard": 4,
+    "ram_slot1": 16,
     "ram_slot2": 0,
     "ram_total": 20,
     "ram_type": "DDR4",
-    "ram_layout": "",
+    "ram_layout": "1x4 + 1x16",
     "ssd": 512,
     "storage_type": "SATA SSD 2.5",
     "ssd_2": 0,
@@ -4993,10 +4993,10 @@
     "optical_drive": "",
     "inch": 15.6,
     "display_type": "Full HD",
-    "operating_system": "",
+    "operating_system": "Windows 11 Professional",
     "keyboard_layout": "DE",
     "condition": "",
-    "color": "",
+    "color": "Silver",
     "note": ""
   },
   {
@@ -7576,10 +7576,10 @@
   },
   {
     "model_id": "8439",
-    "product_number": "",
-    "product_number_2": "",
+    "product_number": "X515EA_F515EA",
+    "product_number_2": "BQ1263",
     "vendor": "Asus",
-    "cpu": "i3 1115G4",
+    "cpu": "Intel i3 1115G4",
     "ram_onboard": 4,
     "ram_slot1": 16,
     "ram_slot2": 0,
@@ -7593,11 +7593,11 @@
     "optical_drive": "",
     "inch": 15.6,
     "display_type": "Full HD",
-    "operating_system": "",
+    "operating_system": "Windows 11 Professional",
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Silver",
-    "note": "ASUS F515EA-BQ1263"
+    "note": ""
   },
   {
     "model_id": "8449",
