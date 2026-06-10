@@ -9523,5 +9523,30 @@
     "condition": "REF",
     "color": "Silver",
     "note": ""
+  },
+  {
+    "model_id": "8535",
+    "product_number": "2FZ83AV",
+    "product_number_2": "",
+    "vendor": "HP",
+    "cpu": "Intel Core i5 8350U",
+    "ram_onboard": 0,
+    "ram_slot1": 8,
+    "ram_slot2": 8,
+    "ram_total": 16,
+    "ram_type": "DDR4",
+    "ram_layout": "1x8 + 1x8",
+    "ssd": 256,
+    "storage_type": "NVMe",
+    "ssd_2": 0,
+    "storage_type_2": "NVMe",
+    "optical_drive": "None",
+    "inch": 13.3,
+    "display_type": "Full HD",
+    "operating_system": "Windows 11 Professional",
+    "keyboard_layout": "DE",
+    "condition": "REF",
+    "color": "Silver",
+    "note": ""
   }
 ]
