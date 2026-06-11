@@ -1,15 +1,15 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v3.61",
+  "version": "v3.62",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.60_to_v3.61_pythonzip.zip",
-  "sha256": "5B8D1EA436BF04D20BC666DBAE4EE7022CB433529B363B89289A35C5B509DE09",
-  "size_bytes": 45582,
-  "filename": "HardwareCheck_UPDATE_v3.60_to_v3.61_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.60_to_v3.61_pythonzip.zip",
-  "created_at": "2026-05-22T18:56:29Z",
-  "notes": "v3.61: Statusschema schreibt db_model_count/last_seen und kompatible Aliase db_models_count/last_seen_utc."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.61_to_v3.62_pythonzip.zip",
+  "sha256": "50492C11B029C0603F7124A5C0FAFE3F6AFB35B72A2FE084F8A73FF39A9DED26",
+  "size_bytes": 46119,
+  "filename": "HardwareCheck_UPDATE_v3.61_to_v3.62_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.61_to_v3.62_pythonzip.zip",
+  "created_at": "2026-06-11T10:06:28Z",
+  "notes": "v3.62: robustere DB-Schreibpfade, fsync/sync fuer model.json und klare Meldung bei read-only/corrupt FAT32-Sticks."
 }
 
