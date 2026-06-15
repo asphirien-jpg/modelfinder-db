@@ -1,15 +1,15 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v3.62",
+  "version": "v3.63",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.61_to_v3.62_pythonzip.zip",
-  "sha256": "50492C11B029C0603F7124A5C0FAFE3F6AFB35B72A2FE084F8A73FF39A9DED26",
-  "size_bytes": 46119,
-  "filename": "HardwareCheck_UPDATE_v3.61_to_v3.62_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.61_to_v3.62_pythonzip.zip",
-  "created_at": "2026-06-11T10:06:28Z",
-  "notes": "v3.62: robustere DB-Schreibpfade, fsync/sync fuer model.json und klare Meldung bei read-only/corrupt FAT32-Sticks."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.62_to_v3.63_pythonzip.zip",
+  "sha256": "81A05F4FF8F1BD26D353B9957A1B2BACE1858909C2342AC830055616EB3EB061",
+  "size_bytes": 46737,
+  "filename": "HardwareCheck_UPDATE_v3.62_to_v3.63_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.62_to_v3.63_pythonzip.zip",
+  "created_at": "2026-06-15T13:24:17Z",
+  "notes": "v3.63: HP 255 G7 / 8330 Matching korrigiert, SATA-SSD-Bauform vorsichtiger angezeigt, letztes erfolgreiches WLAN wird bevorzugt."
 }
 
