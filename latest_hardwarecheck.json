@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v3.65",
+  "version": "v3.66",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.64_to_v3.65_pythonzip.zip",
-  "sha256": "978895AF1E661666FBEB98F13B9FF9EE457E45EE35307CC6BE75051B4B83308F",
-  "size_bytes": 47650,
-  "filename": "HardwareCheck_UPDATE_v3.64_to_v3.65_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.64_to_v3.65_pythonzip.zip",
-  "created_at": "2026-06-16T09:06:38Z",
-  "notes": "v3.65: letztes bekanntes WLAN wird zuerst ohne Scan versucht; WLAN-Scan nur als Fallback; gelbe Update-Hinweise laufen immer als sichtbarer Ticker."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.65_to_v3.66_pythonzip.zip",
+  "sha256": "79ED0A73FB7443C6364B2851E40383A2C05B10DDEA2C7F981B76C01158C893E9",
+  "size_bytes": 50175,
+  "filename": "HardwareCheck_UPDATE_v3.65_to_v3.66_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.65_to_v3.66_pythonzip.zip",
+  "created_at": "2026-06-16T12:11:50Z",
+  "notes": "v3.66: Druckoption speichert den Bericht und sendet ihn optional per lokaler printer_config.json ueber CUPS/IPP an einen WLAN-Drucker; printer_config.json bleibt bei Updates geschuetzt."
 }
