@@ -1,15 +1,15 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v3.63",
+  "version": "v3.64",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.62_to_v3.63_pythonzip.zip",
-  "sha256": "81A05F4FF8F1BD26D353B9957A1B2BACE1858909C2342AC830055616EB3EB061",
-  "size_bytes": 46737,
-  "filename": "HardwareCheck_UPDATE_v3.62_to_v3.63_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.62_to_v3.63_pythonzip.zip",
-  "created_at": "2026-06-15T13:24:17Z",
-  "notes": "v3.63: HP 255 G7 / 8330 Matching korrigiert, SATA-SSD-Bauform vorsichtiger angezeigt, letztes erfolgreiches WLAN wird bevorzugt."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.63_to_v3.64_pythonzip.zip",
+  "sha256": "711C31258E1C01D9D8167B450AF420D31134E917ECCDA6956A7036FA85AFBFED",
+  "size_bytes": 47452,
+  "filename": "HardwareCheck_UPDATE_v3.63_to_v3.64_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.63_to_v3.64_pythonzip.zip",
+  "created_at": "2026-06-16T07:53:53Z",
+  "notes": "v3.64: aktive WLAN-Verbindung wird wiederverwendet; gespeicherte WLANs vor LAN/Scan; DB-/Programmupdates starten keine zweite WLAN-Suche."
 }
 
