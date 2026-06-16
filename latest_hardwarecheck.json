@@ -1,15 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v3.64",
+  "version": "v3.65",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.63_to_v3.64_pythonzip.zip",
-  "sha256": "711C31258E1C01D9D8167B450AF420D31134E917ECCDA6956A7036FA85AFBFED",
-  "size_bytes": 47452,
-  "filename": "HardwareCheck_UPDATE_v3.63_to_v3.64_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.63_to_v3.64_pythonzip.zip",
-  "created_at": "2026-06-16T07:53:53Z",
-  "notes": "v3.64: aktive WLAN-Verbindung wird wiederverwendet; gespeicherte WLANs vor LAN/Scan; DB-/Programmupdates starten keine zweite WLAN-Suche."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.64_to_v3.65_pythonzip.zip",
+  "sha256": "978895AF1E661666FBEB98F13B9FF9EE457E45EE35307CC6BE75051B4B83308F",
+  "size_bytes": 47650,
+  "filename": "HardwareCheck_UPDATE_v3.64_to_v3.65_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.64_to_v3.65_pythonzip.zip",
+  "created_at": "2026-06-16T09:06:38Z",
+  "notes": "v3.65: letztes bekanntes WLAN wird zuerst ohne Scan versucht; WLAN-Scan nur als Fallback; gelbe Update-Hinweise laufen immer als sichtbarer Ticker."
 }
-
