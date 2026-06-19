@@ -1,14 +1,14 @@
 {
     "manifest_version":  1,
     "app":  "ModelFinder",
-    "version":  "V4.25",
+    "version":  "V4.26",
     "platform":  "windows",
     "package_type":  "program-update",
-    "download_url":  "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/modelfinder/ModelFinder_update_V4.25.zip",
-    "sha256":  "E5E99CB66E3E46E1A1AFFC441948922656BB0100F2733F0E88484360DB6960DC",
-    "size_bytes":  68008390,
-    "filename":  "ModelFinder_update_V4.25.zip",
-    "repo_path":  "updates/modelfinder/ModelFinder_update_V4.25.zip",
-    "created_at":  "2026-06-19T11:09:00Z",
-    "notes":  "ModelFinder V4.25: KI Import sendet verbesserte Bildvarianten und priorisiert Speicher-Detailzeilen wie SSD M2 gegenueber generischem SSD-Kopftext."
+    "download_url":  "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/modelfinder/ModelFinder_update_V4.26.zip",
+    "sha256":  "6D31E60254019764C5D31B46DED19438ABD5B13D60868B4FED7F74C9DE21AC7B",
+    "size_bytes":  68012168,
+    "filename":  "ModelFinder_update_V4.26.zip",
+    "repo_path":  "updates/modelfinder/ModelFinder_update_V4.26.zip",
+    "created_at":  "2026-06-19T11:55:23Z",
+    "notes":  "ModelFinder V4.26: KI Import plausibilisiert RAM- und CPU-Felder, verhindert 24/48 GB Einzelmodule und normalisiert Ryzen-OCR-Fehler wie 55000 zu 5500U."
 }
