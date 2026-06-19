@@ -1,14 +1,14 @@
-﻿{
+{
     "manifest_version":  1,
     "app":  "ModelFinder",
-    "version":  "V4.23",
+    "version":  "V4.24",
     "platform":  "windows",
     "package_type":  "program-update",
-    "download_url":  "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/modelfinder/ModelFinder_update_V4.23.zip",
-    "sha256":  "ADCF02C8E51C726C0E68AA63F7C10DA0D23F9B5586B89B6EB388961E32C6720D",
-    "size_bytes":  67997633,
-    "filename":  "ModelFinder_update_V4.23.zip",
-    "repo_path":  "updates/modelfinder/ModelFinder_update_V4.23.zip",
-    "created_at":  "2026-06-19T10:14:45Z",
-    "notes":  "ModelFinder V4.23: Foto/Text-Import kuerzt Notizen auf den Kopftext, verbessert OCR-Normalisierung, verarbeitet mehrere Bilder und ergaenzt optionalen KI-Import mit lokal geschuetztem OpenAI API-Key."
+    "download_url":  "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/modelfinder/ModelFinder_update_V4.24.zip",
+    "sha256":  "A7010BCE0C20178AB950107B88A13F7AAED70CCD6D5FB61718F1E26B018AD0C8",
+    "size_bytes":  68005924,
+    "filename":  "ModelFinder_update_V4.24.zip",
+    "repo_path":  "updates/modelfinder/ModelFinder_update_V4.24.zip",
+    "created_at":  "2026-06-19T10:53:57Z",
+    "notes":  "ModelFinder V4.24: KI Import verarbeitet kopierte Bilder direkt aus der Zwischenablage, nutzt lokale OCR als Hilfstext und gleicht KI-Felder gegen den lokalen Parser ab."
 }
