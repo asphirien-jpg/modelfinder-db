@@ -1,15 +1,15 @@
 {
   "manifest_version": 1,
   "app": "ModelFinder",
-  "version": "V4.21",
+  "version": "V4.22",
   "platform": "windows",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/modelfinder/ModelFinder_update_V4.21.zip",
-  "sha256": "F20DCDD4B78ED9ACC217AD560B051FDBFC0BABCDFA87E0B962C72A5EA42F3121",
-  "size_bytes": 48635506,
-  "filename": "ModelFinder_update_V4.21.zip",
-  "repo_path": "updates/modelfinder/ModelFinder_update_V4.21.zip",
-  "created_at": "2026-05-22T18:56:29Z",
-  "notes": "ModelFinder V4.21: Statusschema an MODEL_SUITE_CONTRACT.md angeglichen; schreibt kanonische Statusfelder plus Aliase und liest beide Zeitstempel-/Hinweisformen."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/modelfinder/ModelFinder_update_V4.22.zip",
+  "sha256": "D70BD848B4DF51F44855C1301647EF4186A6401EF6AFD4AE3F3828082C45BC4E",
+  "size_bytes": 49491061,
+  "filename": "ModelFinder_update_V4.22.zip",
+  "repo_path": "updates/modelfinder/ModelFinder_update_V4.22.zip",
+  "created_at": "2026-06-19T06:56:35Z",
+  "notes": "ModelFinder V4.22: Datenbank-Tab erhaelt Foto/Text-Import mit lokaler OCR-Option und Parser fuer Modell-ID, PN/SKU, praezise CPU, RAM, Speicher, Anzeige und OS."
 }
 
