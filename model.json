@@ -9748,5 +9748,30 @@
     "condition": "REF",
     "color": "Black",
     "note": ""
+  },
+  {
+    "model_id": "7292",
+    "product_number": "A317 51G 743L",
+    "product_number_2": "",
+    "vendor": "Acer",
+    "cpu": "Intel i7 8565U",
+    "ram_onboard": 4,
+    "ram_slot1": 16,
+    "ram_slot2": 0,
+    "ram_total": 20,
+    "ram_type": "DDR4",
+    "ram_layout": "1x4 + 1x16",
+    "ssd": 1000,
+    "storage_type": "SATA SSD 2.5",
+    "ssd_2": 0,
+    "storage_type_2": "",
+    "optical_drive": "",
+    "inch": 17.3,
+    "display_type": "Full HD",
+    "operating_system": "Windows 11 Professional",
+    "keyboard_layout": "DE",
+    "condition": "Neuware",
+    "color": "Silver",
+    "note": "Acer Ultra i7 SSD Gaming (17,3 Zoll Full-HD) Notebook (Intel 8-Thread Core i71165G7 mit 4.70 GHZ, 20GB DDR4 1000 GB SSD, NVIDIA Geforce 350 GDDR5, HDMI, Windows 11"
   }
 ]
