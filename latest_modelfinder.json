@@ -1,15 +1,14 @@
-{
-  "manifest_version": 1,
-  "app": "ModelFinder",
-  "version": "V4.22",
-  "platform": "windows",
-  "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/modelfinder/ModelFinder_update_V4.22.zip",
-  "sha256": "D70BD848B4DF51F44855C1301647EF4186A6401EF6AFD4AE3F3828082C45BC4E",
-  "size_bytes": 49491061,
-  "filename": "ModelFinder_update_V4.22.zip",
-  "repo_path": "updates/modelfinder/ModelFinder_update_V4.22.zip",
-  "created_at": "2026-06-19T06:56:35Z",
-  "notes": "ModelFinder V4.22: Datenbank-Tab erhaelt Foto/Text-Import mit lokaler OCR-Option und Parser fuer Modell-ID, PN/SKU, praezise CPU, RAM, Speicher, Anzeige und OS."
+﻿{
+    "manifest_version":  1,
+    "app":  "ModelFinder",
+    "version":  "V4.23",
+    "platform":  "windows",
+    "package_type":  "program-update",
+    "download_url":  "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/modelfinder/ModelFinder_update_V4.23.zip",
+    "sha256":  "ADCF02C8E51C726C0E68AA63F7C10DA0D23F9B5586B89B6EB388961E32C6720D",
+    "size_bytes":  67997633,
+    "filename":  "ModelFinder_update_V4.23.zip",
+    "repo_path":  "updates/modelfinder/ModelFinder_update_V4.23.zip",
+    "created_at":  "2026-06-19T10:14:45Z",
+    "notes":  "ModelFinder V4.23: Foto/Text-Import kuerzt Notizen auf den Kopftext, verbessert OCR-Normalisierung, verarbeitet mehrere Bilder und ergaenzt optionalen KI-Import mit lokal geschuetztem OpenAI API-Key."
 }
-
