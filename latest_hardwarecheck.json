@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v3.67",
+  "version": "v3.68",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.66_to_v3.67_pythonzip.zip",
-  "sha256": "EEE2595A80B7268A01CF53A39410C5CB4D7AA0810CC0F2D173B166F811C87469",
-  "size_bytes": 65950,
-  "filename": "HardwareCheck_UPDATE_v3.66_to_v3.67_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.66_to_v3.67_pythonzip.zip",
-  "created_at": "2026-06-18T13:47:28Z",
-  "notes": "v3.67: getesteter Druck-Stand wird stable; Netzwerkdrucker-Auswahl mit Profilen, letzter Drucker bleibt erhalten, IPP/PWG- und RAW/PCL-Druck robuster, Canon iB4100 nutzt A4/Kassette-2 per IPP media-col. Lokale printer_config.json und printer_profiles.json bleiben bei Updates geschuetzt."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.67_to_v3.68_pythonzip.zip",
+  "sha256": "6D668E48158F72E7165DD1827D9F7950C167AA3A6BB2585F5E87C72135C1A7E9",
+  "size_bytes": 68993,
+  "filename": "HardwareCheck_UPDATE_v3.67_to_v3.68_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.67_to_v3.68_pythonzip.zip",
+  "created_at": "2026-06-19T11:54:20Z",
+  "notes": "v3.68: Bedienung wird mausfreundlicher. Globale Tastenkurzel werden entfernt, Buttons zeigen keine Hotkeys mehr, Eingabefelder bekommen eine virtuelle Bildschirmtastatur fuer WLAN-/Drucker-/IP-Eingaben. Einstellungen buendeln Layout, WLAN und Drucker. Update-Hinweise bleiben als farbwechselnder Laufticker sichtbar. Lokale WLAN-, Drucker- und Statusdateien bleiben bei Updates geschuetzt."
 }
