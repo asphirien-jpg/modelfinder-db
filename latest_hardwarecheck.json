@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v3.68",
+  "version": "v3.69",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.67_to_v3.68_pythonzip.zip",
-  "sha256": "6D668E48158F72E7165DD1827D9F7950C167AA3A6BB2585F5E87C72135C1A7E9",
-  "size_bytes": 68993,
-  "filename": "HardwareCheck_UPDATE_v3.67_to_v3.68_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.67_to_v3.68_pythonzip.zip",
-  "created_at": "2026-06-19T11:54:20Z",
-  "notes": "v3.68: Bedienung wird mausfreundlicher. Globale Tastenkurzel werden entfernt, Buttons zeigen keine Hotkeys mehr, Eingabefelder bekommen eine virtuelle Bildschirmtastatur fuer WLAN-/Drucker-/IP-Eingaben. Einstellungen buendeln Layout, WLAN und Drucker. Update-Hinweise bleiben als farbwechselnder Laufticker sichtbar. Lokale WLAN-, Drucker- und Statusdateien bleiben bei Updates geschuetzt."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.68_to_v3.69_pythonzip.zip",
+  "sha256": "8DEA51D24E3E8746F3A7CB5F6051DA02C5FBB66BB6DD796321ADAA1CB66C0B6A",
+  "size_bytes": 70036,
+  "filename": "HardwareCheck_UPDATE_v3.68_to_v3.69_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.68_to_v3.69_pythonzip.zip",
+  "created_at": "2026-06-22T14:45:00Z",
+  "notes": "v3.69: Getesteter Druckerprofil-Stand als Stable. Netzwerkdrucker koennen beim Speichern lokale Namen bekommen, vorhandene Druckerprofile lassen sich direkt umbenennen, und die Bildschirmtastatur trennt Einzelzeichen-Loeschen von Alles-loeschen."
 }
