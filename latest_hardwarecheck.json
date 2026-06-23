@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v3.70",
+  "version": "v3.71",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.69_to_v3.70_pythonzip.zip",
-  "sha256": "29DED18B574D8BE5ECF38A5ADA9BB951BD5B3CA24ECDE99D14488226381F0537",
-  "size_bytes": 75686,
-  "filename": "HardwareCheck_UPDATE_v3.69_to_v3.70_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.69_to_v3.70_pythonzip.zip",
-  "created_at": "2026-06-22T19:25:00Z",
-  "notes": "v3.70: Zuhause getesteter WLAN-/Drucker-Workflow. WLAN-Scan zeigt sichtbare und gespeicherte Netze, merkt erkannte WPA2/WPA3-Sicherheit und verbindet gezielter. Druckersuche zeigt Treffer live, Profile/WLANs/Drucker können gelöscht und Druckerprofile erweitert bearbeitet werden. Virtuelle Tastatur nutzt deutsches Layout mit AltGr; physische Tastatur bleibt als offener Gerätetreiber/Input-Follow-up dokumentiert."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.70_to_v3.71_pythonzip.zip",
+  "sha256": "6FE45A264CBAF8351FAFE2D9D79FC024AA7CADC7FB98CDD1425F76D54377D309",
+  "size_bytes": 76097,
+  "filename": "HardwareCheck_UPDATE_v3.70_to_v3.71_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.70_to_v3.71_pythonzip.zip",
+  "created_at": "2026-06-23T10:41:09Z",
+  "notes": "v3.71: Getestete Drucker-Suche fuer grosse 10.40.x.x-Buero-Netze. Bekannte Drucker-Teilnetze werden zusaetzlich gescannt, fremde Netze bleiben generisch ueber aktuelles Subnetz, Service-Discovery, gespeicherte Profile und optionale printer_scan_ranges.json. Druckberichte normalisieren DE/CZ-Sonderzeichen fuer lesbaren RAW/PDF/PWG-Druck. Lokale Druckerprofile und Scanbereiche bleiben bei Updates geschuetzt."
 }
