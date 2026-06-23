@@ -1,8 +1,8 @@
 {
-  "version": "2026.06.23.3",
+  "version": "2026.06.23.4",
   "models_count": 398,
-  "sha256": "6ef2521b855e6ab7f22f3ac921ffed44b545c3c80c7b8786dad78c8372ed378b",
-  "updated_at": "2026-06-23T12:22:19Z",
+  "sha256": "013bdfff9852882f73b2e50b14e997dc078d80c339ce4964a991d09822803a91",
+  "updated_at": "2026-06-23T12:37:46Z",
   "database_file": "model.json",
   "database_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/model.json",
   "source_local_file": "model.json"
