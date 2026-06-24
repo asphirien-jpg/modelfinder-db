@@ -5026,10 +5026,10 @@
   },
   {
     "model_id": "7977",
-    "product_number": "",
+    "product_number": "A3DP3ES#ABD",
     "product_number_2": "",
     "vendor": "HP",
-    "cpu": "N100",
+    "cpu": "Intel N100",
     "ram_onboard": 0,
     "ram_slot1": 16,
     "ram_slot2": 0,
@@ -5043,11 +5043,11 @@
     "optical_drive": "",
     "inch": 15.6,
     "display_type": "Full HD",
-    "operating_system": "",
+    "operating_system": "Windows 11 Professional 64-Bit",
     "keyboard_layout": "DE",
     "condition": "",
     "color": "Black",
-    "note": "HP 250 G10 A3DP3ES"
+    "note": "HP (15,6 Zoll FullHD) Notebook (Intel 13th Gen N100, Quad Core, 3.40 GHz, 16 GB DDR4, 512 GB SSD, Intel UHD, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 11"
   },
   {
     "model_id": "7978",
