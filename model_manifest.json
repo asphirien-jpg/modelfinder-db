@@ -1,9 +1,9 @@
 {
-  "version": "2026.06.24.1",
-  "models_count": 399,
-  "sha256": "d206a8a6f2bede93cf1568e3269da521865ad60d284f378fc8f9547565192f18",
-  "updated_at": "2026-06-24T11:21:29Z",
+  "version": "2026.06.25.10",
+  "models_count": 2029,
+  "sha256": "d932cbad59a7d4312ae4f68987f6b114ec2ef70b1ac62bab30ce455a0b2bb5f3",
+  "updated_at": "2026-06-25T09:23:43Z",
   "database_file": "model.json",
   "database_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/model.json",
-  "source_local_file": "model.json"
+  "source_local_file": "notebooks_hmcw2.json + 399er ModelFinder-Basis + cpu/os cleanup + final cpu fill"
 }
