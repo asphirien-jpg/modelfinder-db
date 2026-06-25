@@ -2681,11 +2681,11 @@
     "vendor": "Lenovo",
     "cpu": "Intel Celeron N5100",
     "ram_onboard": 0,
-    "ram_slot1": 0,
+    "ram_slot1": 8,
     "ram_slot2": 0,
-    "ram_total": 0,
+    "ram_total": 8,
     "ram_type": "DDR4",
-    "ram_layout": "0 GB",
+    "ram_layout": "1x8",
     "ssd": 512,
     "storage_type": "NVMe",
     "ssd_2": 0,
@@ -2696,7 +2696,7 @@
     "operating_system": "Windows 11 Professional 64-Bit",
     "keyboard_layout": "DE",
     "condition": "",
-    "color": "",
+    "color": "Black",
     "note": ""
   },
   {
@@ -6225,8 +6225,8 @@
     "note": "France Lenovo IdeaPad 3 17IAU7"
   },
   {
-    "model_id": "8206 FR",
-    "product_number": "",
+    "model_id": "8206",
+    "product_number": "IdeaPad 3 17IAU7",
     "product_number_2": "",
     "vendor": "Lenovo",
     "cpu": "Intel Core i7 1355U",
