@@ -1,14 +1,14 @@
 ﻿{
     "manifest_version":  1,
     "app":  "ModelFinder",
-    "version":  "V4.30",
+    "version":  "V4.31",
     "platform":  "windows",
     "package_type":  "program-update",
-    "download_url":  "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/modelfinder/ModelFinder_update_V4.30.zip",
-    "sha256":  "209A2179906454988F97E223CAE038E6CB9B3F2C00003A47788F7AD7BA1710BA",
-    "size_bytes":  49854489,
-    "filename":  "ModelFinder_update_V4.30.zip",
-    "repo_path":  "updates/modelfinder/ModelFinder_update_V4.30.zip",
-    "created_at":  "2026-06-25T09:22:50Z",
-    "notes":  "ModelFinder V4.30: Hauptseiten-Modellvergleich, 2029er Datenbankstruktur, erweiterte CPU/OS-Normalisierung und sichtbarer Update-Lauftext bei verfuegbaren Programmupdates."
+    "download_url":  "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/modelfinder/ModelFinder_update_V4.31.zip",
+    "sha256":  "8844AC62D1588F206331EBF1A4775D66304E1D67360571C417164AF615FBC217",
+    "size_bytes":  49857134,
+    "filename":  "ModelFinder_update_V4.31.zip",
+    "repo_path":  "updates/modelfinder/ModelFinder_update_V4.31.zip",
+    "created_at":  "2026-06-25T09:51:51Z",
+    "notes":  "ModelFinder V4.31: Hotfix fuer Datenbank-Updates. GitHub-Raw-URLs nutzen jetzt /main/... statt /refs/heads/main/... und bestehende Update-Konfigurationen werden automatisch migriert."
 }
