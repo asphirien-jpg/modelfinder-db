@@ -1,14 +1,14 @@
 ﻿{
     "manifest_version":  1,
     "app":  "ModelFinder",
-    "version":  "V4.31",
+    "version":  "V4.32",
     "platform":  "windows",
     "package_type":  "program-update",
-    "download_url":  "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/modelfinder/ModelFinder_update_V4.31.zip",
-    "sha256":  "8844AC62D1588F206331EBF1A4775D66304E1D67360571C417164AF615FBC217",
-    "size_bytes":  49857134,
-    "filename":  "ModelFinder_update_V4.31.zip",
-    "repo_path":  "updates/modelfinder/ModelFinder_update_V4.31.zip",
-    "created_at":  "2026-06-25T09:51:51Z",
-    "notes":  "ModelFinder V4.31: Hotfix fuer Datenbank-Updates. GitHub-Raw-URLs nutzen jetzt /main/... statt /refs/heads/main/... und bestehende Update-Konfigurationen werden automatisch migriert."
+    "download_url":  "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/modelfinder/ModelFinder_update_V4.32.zip",
+    "sha256":  "6BED2F47F233080D61E890B23FD8DEA27C53FD81AAF34E44ED65C2794A4E8A7F",
+    "size_bytes":  49858053,
+    "filename":  "ModelFinder_update_V4.32.zip",
+    "repo_path":  "updates/modelfinder/ModelFinder_update_V4.32.zip",
+    "created_at":  "2026-06-25T13:02:21Z",
+    "notes":  "ModelFinder V4.32: Aktuell verglichene Modelle werden im Vergleichs-Header und in der Ergebnisliste mit einem Stern markiert."
 }
