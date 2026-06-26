@@ -22,7 +22,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Gray",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP Notebook 15,6 Zoll - Intel 2,40 GHz - 128 GB SSD - 8 GB RAM - Windows 11"
   },
   {
@@ -100,7 +100,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Gray",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP (15,6 Zoll) Notebook - AMD A4-9125 Dual Core 2x2.6 GHz, 8GB DDR4 RAM, 256GB SSD, DVD±R/RW, Radeon R3, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -1405,18 +1405,18 @@
   },
   {
     "model_id": "7277",
-    "product_number": "",
+    "product_number": "IdeaPad 3 17IAU7",
     "product_number_2": "",
     "vendor": "Lenovo",
     "cpu": "Intel Core i7 1355U",
-    "ram_onboard": 0,
-    "ram_slot1": 0,
+    "ram_onboard": 8,
+    "ram_slot1": 16,
     "ram_slot2": 0,
     "ram_total": 24,
     "ram_type": "DDR4",
-    "ram_layout": "",
+    "ram_layout": "1x8 + 1x16",
     "ssd": 1000,
-    "storage_type": "M.2 SATA",
+    "storage_type": "NVMe",
     "ssd_2": 0,
     "storage_type_2": "",
     "optical_drive": "",
@@ -1425,8 +1425,8 @@
     "operating_system": "Windows 11 Professional 64-Bit",
     "keyboard_layout": "DE",
     "condition": "",
-    "color": "",
-    "asset_status": "",
+    "color": "Black",
+    "asset_status": "Config",
     "note": "Lenovo i7 (17,3 Zoll IPS FullHD) Notebook (Intel® Core™ i7 1355U, 10 Kerne, 5.00 GHz, 24 GB DDR4, 1000 GB SSD, Intel® Iris® Xe, HDMI, Webcam, BT, USB-C/3.0, WLAN, Windows 11"
   },
   {
@@ -1509,7 +1509,7 @@
   },
   {
     "model_id": "7302",
-    "product_number": "",
+    "product_number": "7J034AA#ABD",
     "product_number_2": "",
     "vendor": "HP",
     "cpu": "AMD Ryzen 5 5500U",
@@ -1530,7 +1530,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Gray",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP (FullHD 15,6 Zoll) Gaming Notebook (AMD Ryzen™ 5 5500U 12-Thread CPU, 4.0 GHz, 20GB DDR4, 1000 GB SSD, Vega™ 7-Kern Grafik, HDMI, BT, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -1724,9 +1724,9 @@
     "ram_onboard": 0,
     "ram_slot1": 0,
     "ram_slot2": 0,
-    "ram_total": 16,
+    "ram_total": 0,
     "ram_type": "DDR4",
-    "ram_layout": "2x8",
+    "ram_layout": "0 GB",
     "ssd": 512,
     "storage_type": "SATA SSD 2.5",
     "ssd_2": 0,
@@ -1738,7 +1738,7 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "",
-    "asset_status": "",
+    "asset_status": "Image",
     "note": "ASUS (15,6 Zoll FullHD) Notebook (1.6kg), 6h Akku, Intel® Pentium® Gold 7505, 4 Threads, 3.50 GHz, 16 GB, 512 GB SSD, Intel UHD, HDMI, Webcam, BT, USB 3.0, WLAN, Win11"
   },
   {
@@ -1842,7 +1842,7 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "Black",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "HP High-End i5 Laptop (17,3 Zoll Full-HD), Intel Core i5-1334U, 10 Kerne, 4.6 GHz, 32 GB DDR4, 1000 GB SSD, Intel Iris Xe, HDMI, BT, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -1951,8 +1951,8 @@
   },
   {
     "model_id": "7385",
-    "product_number": "",
-    "product_number_2": "",
+    "product_number": "853U4ES#ABD",
+    "product_number_2": "7N034ES#ABD",
     "vendor": "HP",
     "cpu": "Intel Core i5 1135G7",
     "ram_onboard": 0,
@@ -1960,7 +1960,7 @@
     "ram_slot2": 8,
     "ram_total": 16,
     "ram_type": "DDR4",
-    "ram_layout": "2x8",
+    "ram_layout": "1x8 + 1x8",
     "ssd": 1000,
     "storage_type": "NVMe",
     "ssd_2": 0,
@@ -1972,7 +1972,7 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "Black",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "HP Laptop | 15,6 Zoll IPS Full-HD | Intel Core i5 4 x 4,20 GHz | 16 GB DDR4 RAM | 1000 GB SSD | Intel Iris Xe Grafik | Schwarz | Windows 11"
   },
   {
@@ -2262,30 +2262,30 @@
     "note": "[REFURBISHED] Lenovo (15,6 Zoll FullHD) Notebook (1.8kg), großer 7h Akku, Core i3-1005G1, 4 Threads, 3.4 GHz, 8GB DDR4, 512 GB SSD, Intel UHD, HDMI, Webcam, BT, USB 3.0, WLAN, Win10"
   },
   {
-    "model_id": "7438 FR",
-    "product_number": "",
-    "product_number_2": "",
+    "model_id": "7438",
+    "product_number": "V17-IAP",
+    "product_number_2": "IdeaPad 3 17IAU7",
     "vendor": "Lenovo",
     "cpu": "Intel Core i7 1355U",
-    "ram_onboard": 0,
-    "ram_slot1": 0,
+    "ram_onboard": 8,
+    "ram_slot1": 16,
     "ram_slot2": 0,
     "ram_total": 24,
     "ram_type": "DDR4",
-    "ram_layout": "",
+    "ram_layout": "1x8 + 1x16",
     "ssd": 1000,
-    "storage_type": "M.2 SATA",
+    "storage_type": "NVMe",
     "ssd_2": 0,
     "storage_type_2": "",
     "optical_drive": "",
     "inch": 17.3,
     "display_type": "Full HD",
-    "operating_system": "",
+    "operating_system": "Windows 11 Professional 64-Bit",
     "keyboard_layout": "FR",
     "condition": "",
-    "color": "",
-    "asset_status": "",
-    "note": "Notebook Notebook | Intel Core i7 1355U | 24 GB DDR4 | 1000 GB M.2 SATA"
+    "color": "Black",
+    "asset_status": "Config",
+    "note": "[FR] Lenovo i7 (17,3 Zoll IPS FHD) Ordinateur Portable (Intel® Core™ i7 1355U, 10 cœurs , 5.00 GHz, 24 Go DDR4, 1 To SSD, Intel® Iris® Xe, HDMI, Cam, BT, WLAN, Windows 11"
   },
   {
     "model_id": "7440",
@@ -2470,8 +2470,8 @@
     "note": "Notebook Notebook | AMD Ryzen 5 7520U | 16 GB DDR5 | 512 GB NVMe"
   },
   {
-    "model_id": "7471 *old",
-    "product_number": "",
+    "model_id": "7471",
+    "product_number": "V15 IRL",
     "product_number_2": "",
     "vendor": "Lenovo",
     "cpu": "Intel Core 5 120U",
@@ -2492,7 +2492,7 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "Black",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "version with DDR5"
   },
   {
@@ -2574,17 +2574,17 @@
     "note": "difinity (FullHD 17,3 Zoll) Gaming Notebook (AMD Ryzen™ 5 5500U 12-Thread CPU, 4.0 GHz, 16 GB DDR4, 512 GB SSD, Radeon™, HDMI, BT, USB 3.0, WLAN, Windows 11"
   },
   {
-    "model_id": "7482 FR",
-    "product_number": "",
+    "model_id": "7482",
+    "product_number": "Ideapad3 17IRU7",
     "product_number_2": "",
     "vendor": "Lenovo",
     "cpu": "Intel Core i3 1315U",
-    "ram_onboard": 0,
-    "ram_slot1": 0,
+    "ram_onboard": 8,
+    "ram_slot1": 16,
     "ram_slot2": 0,
     "ram_total": 24,
     "ram_type": "DDR4",
-    "ram_layout": "",
+    "ram_layout": "1x8 + 1x16",
     "ssd": 1000,
     "storage_type": "M.2 SATA",
     "ssd_2": 0,
@@ -2592,12 +2592,12 @@
     "optical_drive": "",
     "inch": 17.3,
     "display_type": "Full HD",
-    "operating_system": "",
+    "operating_system": "Windows 11 Professional 64-Bit",
     "keyboard_layout": "FR",
     "condition": "",
-    "color": "",
-    "asset_status": "",
-    "note": "Notebook Notebook | Intel Core i3 1315U | 24 GB DDR4 | 1000 GB M.2 SATA"
+    "color": "Gray/Black",
+    "asset_status": "Config",
+    "note": "[FR] Lenovo i3 (17,3 Zoll IPS FHD) Ordinateur Portable (Intel® Core™ i3 1315U, 6 cœurs , 4.50 GHz, 24 Go DDR4, 1 To SSD, Intel® Iris® Xe, HDMI, Cam, BT, WLAN, Windows 11"
   },
   {
     "model_id": "7483",
@@ -2752,8 +2752,8 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "Blue",
-    "asset_status": "",
-    "note": "ASUS (15,6 Zoll FullHD) Notebook mit MS Office 2024 Pro (Intel® Core™ 5 Prozessor 120U, 10 Kerne, 5 GHz, 16 GB DDR5 RAM, 1000 GB SSD,HDMI, BT, Webcam, USB-C/3.0, WLAN, Windows 11"
+    "asset_status": "Image",
+    "note": "ASUS (15,6 Zoll FullHD) Notebook mit MS Office 2024 Pro (Intel® Core™ 5 Prozessor 120U, 10 Kerne, 5 GHz, 16 GB DDR5 RAM, 1000 GB SSD,HDMI, BT, Webcam, USB-C/3.0, WLAN, Windows 11 + Office 2024 Professional Plus"
   },
   {
     "model_id": "7526",
@@ -2778,7 +2778,7 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "Black",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "Lenovo Laptop | 15,6 Zoll FHD Display | Intel N4500 2 x 2.80 GHz | 8 GB DDR4 RAM | 256 GB SSD | Intel UHD Graphics | Windows 11 Pro"
   },
   {
@@ -3142,7 +3142,7 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "Black",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "Lenovo (15,6 Zoll Full-HD Notebook (Intel® Quad N5100 4x2.80 GHz, 16GB DDR4, 512 GB SSD, Intel UHD, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 11 Prof. 64"
   },
   {
@@ -3610,7 +3610,7 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "Silver",
-    "asset_status": "",
+    "asset_status": "Image",
     "note": "ASUS (FullHD 17,3 Zoll) Gaming Notebook (Intel® Core™ i7 1355U 10 Kern CPU, 5.0 GHz, 40 GB DDR4, 2000 GB SSD, Intel® Iris® Xe 3D, HDMI, BT, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -4187,7 +4187,7 @@
   },
   {
     "model_id": "7770",
-    "product_number": "",
+    "product_number": "15s-eq2431ng",
     "product_number_2": "",
     "vendor": "HP",
     "cpu": "AMD Ryzen 3 5300U",
@@ -4196,7 +4196,7 @@
     "ram_slot2": 8,
     "ram_total": 16,
     "ram_type": "DDR4",
-    "ram_layout": "2x8",
+    "ram_layout": "1x8 + 1x8",
     "ssd": 512,
     "storage_type": "NVMe",
     "ssd_2": 0,
@@ -4208,7 +4208,7 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "Silver",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "HP (15,6 Zoll Full-HD) Ultrabook (1.8kg), großer 8h Akku, AMD Ryzen3 5300U 8-Thread, 16 GB, 512GB SSD, 4GB RX Vega 6, HDMI, BT, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -4499,7 +4499,7 @@
   },
   {
     "model_id": "7834",
-    "product_number": "",
+    "product_number": "17-cp0176ng",
     "product_number_2": "",
     "vendor": "HP",
     "cpu": "AMD Ryzen 7 5700U",
@@ -4508,7 +4508,7 @@
     "ram_slot2": 16,
     "ram_total": 32,
     "ram_type": "DDR4",
-    "ram_layout": "2x16",
+    "ram_layout": "1x16 + 1x16",
     "ssd": 1000,
     "storage_type": "NVMe",
     "ssd_2": 0,
@@ -4520,7 +4520,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Silver",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP (FullHD 17,3 Zoll) Gaming Notebook (AMD Ryzen™ 7 5700U 16-Thread CPU, 4.3 GHz, 32 GB DDR4, 1000 GB SSD, Radeon Grafik, HDMI, BT, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -4754,7 +4754,7 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "Black",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "Lenovo Laptop | 15,6 Zoll FHD Display | Intel N4500 2 x 2.80 GHz | 16 GB DDR4 RAM | 256 GB SSD | Intel UHD Graphics | Windows 11 Pro"
   },
   {
@@ -4785,16 +4785,16 @@
   },
   {
     "model_id": "7875",
-    "product_number": "",
-    "product_number_2": "",
+    "product_number": "VivoBook Go 15 OLED",
+    "product_number_2": "E1504FA-L1284",
     "vendor": "Asus",
     "cpu": "AMD Ryzen 5 7520U",
     "ram_onboard": 0,
-    "ram_slot1": 0,
-    "ram_slot2": 0,
+    "ram_slot1": 8,
+    "ram_slot2": 8,
     "ram_total": 16,
     "ram_type": "DDR5",
-    "ram_layout": "",
+    "ram_layout": "1x8 + 1x8",
     "ssd": 1000,
     "storage_type": "M.2 SATA",
     "ssd_2": 0,
@@ -4806,7 +4806,7 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "",
-    "asset_status": "",
+    "asset_status": "Image",
     "note": "ASUS OLED FullHD 15,6 Zoll High-End Notebook - AMD Ryzen 5 7520U 8-Thread CPU, 4.3 GHz, 16 GB DDR5, 1000 GB SSD, Radeon 610M 3D, HDMI, BT, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -4863,7 +4863,7 @@
   },
   {
     "model_id": "7907",
-    "product_number": "",
+    "product_number": "8X8R2ES#ABD",
     "product_number_2": "",
     "vendor": "HP",
     "cpu": "AMD Ryzen 3 7330",
@@ -4872,7 +4872,7 @@
     "ram_slot2": 8,
     "ram_total": 16,
     "ram_type": "DDR4",
-    "ram_layout": "2x8",
+    "ram_layout": "1x8 + 1x8",
     "ssd": 512,
     "storage_type": "NVMe",
     "ssd_2": 0,
@@ -4884,7 +4884,7 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "Black",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "HP (15,6 Zoll Full-HD) Ultrabook (1.8kg), großer 8h Akku, AMD Ryzen3 7330 U 8-Thread, 16 GB, 512GB SSD, 4GB, HDMI, BT, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -4915,7 +4915,7 @@
   },
   {
     "model_id": "7912",
-    "product_number": "",
+    "product_number": "X1504VA-BQ1407",
     "product_number_2": "",
     "vendor": "Asus",
     "cpu": "Intel Core i7 1355U",
@@ -4936,7 +4936,7 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "Silver",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "ASUS (FullHD 15,6 Zoll) Gaming Notebook (Intel® Core™ i7 1355U 10 Kern CPU, 5.0 GHz, 40 GB DDR4, 1000 GB SSD, Intel® Iris® Xe 3D, HDMI, BT, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -5019,7 +5019,7 @@
   },
   {
     "model_id": "7948",
-    "product_number": "",
+    "product_number": "V17-IAP",
     "product_number_2": "",
     "vendor": "Lenovo",
     "cpu": "Intel Core i5 13420H",
@@ -5040,7 +5040,7 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "Gray",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "Lenovo i5 17,3 Zoll IPS FullHD Notebook - Intel Core™ i5 13420H, 8 Kerne, 4.60 GHz, 24 GB DDR4, 1000 GB SSD, Intel UHD, HDMI, Webcam, BT, USB-C/3.0, WLAN, Windows 11"
   },
   {
@@ -5092,7 +5092,7 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "Black",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "HP High-End i5 Laptop (17,3 Zoll Full-HD), Intel Core i5-1334U, 10 Kerne, 4.6 GHz, 32 GB DDR4, 1000 GB SSD, Intel Iris Xe, HDMI, BT, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -5149,7 +5149,7 @@
   },
   {
     "model_id": "7967",
-    "product_number": "",
+    "product_number": "V17-IAP",
     "product_number_2": "",
     "vendor": "Lenovo",
     "cpu": "Intel Core i5 13420H",
@@ -5169,8 +5169,8 @@
     "operating_system": "Windows 11 Professional 64-Bit",
     "keyboard_layout": "DE",
     "condition": "",
-    "color": "",
-    "asset_status": "",
+    "color": "Black",
+    "asset_status": "Config",
     "note": "Lenovo i5 17,3 Zoll IPS FullHD Notebook - Intel Core™ i5 13420H, 8 Kerne, 4.60 GHz, 40 GB DDR4, 2000 GB SSD, Intel UHD, HDMI, Webcam, BT, USB-C/3.0, WLAN, Windows 11"
   },
   {
@@ -5248,7 +5248,7 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "Black",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "HP (15,6 Zoll FullHD) Notebook (Intel 13th Gen N100, Quad Core, 3.40 GHz, 16 GB DDR4, 512 GB SSD, Intel UHD, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -5638,7 +5638,7 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "Black",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "Lenovo 17,3 Zoll FullHD Notebook - Intel Core i3 1315U, 6 Kerne, 4.50 GHz, 16 GB DDR4, 512 GB SSD, Intel UHD, HDMI, Webcam, Bluetooth, USB-C + USB 3.0, WLAN, Windows 11"
   },
   {
@@ -5669,7 +5669,7 @@
   },
   {
     "model_id": "8048",
-    "product_number": "",
+    "product_number": "17-cn010",
     "product_number_2": "",
     "vendor": "HP",
     "cpu": "Intel Celeron N4020",
@@ -5678,7 +5678,7 @@
     "ram_slot2": 4,
     "ram_total": 8,
     "ram_type": "DDR4",
-    "ram_layout": "2x4",
+    "ram_layout": "1x4 + 1x4",
     "ssd": 512,
     "storage_type": "SATA SSD 2.5",
     "ssd_2": 0,
@@ -5690,7 +5690,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Black",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP (17,3 Zoll) Notebook (Intel N4020 2Core 2x2.60 GHz, 8GB RAM, 512 GB SSD, Intel HD600, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, leichte 2kg, Windows 11"
   },
   {
@@ -5794,7 +5794,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Black",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP (17,3 Zoll) FHD Notebook (Intel® Core™ i3 1215U, 6 Kerne, 4.40 GHz, 40 GB DDR4, 2000 GB SSD, Intel UHD, HDMI, Webcam, Bluetooth, USB-C + USB 3.0, WLAN, Windows 11"
   },
   {
@@ -5846,7 +5846,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Silver",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP (FullHD 17,3 Zoll Gaming Notebook (AMD Ryzen™ 7 7730U 16-Thread CPU, 4.5 GHz, 32 GB DDR4, 1000 GB SSD, 8-Core Vega 3D™, HDMI, BT, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -5872,7 +5872,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Black",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP (17,3 Zoll HD+) Notebook (Intel Celeron N4000, 16 GB DDR4, 512 GB SSD, Intel HD605, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -5903,18 +5903,18 @@
   },
   {
     "model_id": "8076",
-    "product_number": "",
+    "product_number": "X1704VA-AU352",
     "product_number_2": "",
     "vendor": "Asus",
     "cpu": "Intel Core i7 1355U",
-    "ram_onboard": 0,
-    "ram_slot1": 0,
+    "ram_onboard": 8,
+    "ram_slot1": 16,
     "ram_slot2": 0,
     "ram_total": 24,
     "ram_type": "DDR4",
-    "ram_layout": "",
+    "ram_layout": "1x8 + 1x16",
     "ssd": 1000,
-    "storage_type": "M.2 SATA",
+    "storage_type": "NVMe",
     "ssd_2": 0,
     "storage_type_2": "",
     "optical_drive": "",
@@ -5924,21 +5924,21 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "",
-    "asset_status": "",
+    "asset_status": "Image",
     "note": "ASUS (FullHD 17,3 Zoll) Gaming Notebook (Intel® Core™ i7 1355U 10 Kern CPU, 5.0 GHz, 24 GB DDR4, 1000 GB SSD, Intel® Iris® Xe 3D, HDMI, BT, USB 3.0, WLAN, Windows 11"
   },
   {
     "model_id": "8084",
-    "product_number": "",
+    "product_number": "X1605VA-MB561",
     "product_number_2": "",
     "vendor": "Asus",
     "cpu": "Intel Core i3 1315U",
     "ram_onboard": 0,
     "ram_slot1": 0,
     "ram_slot2": 0,
-    "ram_total": 16,
+    "ram_total": 0,
     "ram_type": "DDR4",
-    "ram_layout": "2x8",
+    "ram_layout": "0 GB",
     "ssd": 512,
     "storage_type": "NVMe",
     "ssd_2": 0,
@@ -5950,23 +5950,23 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "",
-    "asset_status": "",
+    "asset_status": "Image",
     "note": "ASUS (FullHD+ 16,0 Zoll) Notebook (Intel® Core™ i3 1315U 6 Kern CPU, 4.50 GHz, 16 GB DDR4, 512 GB SSD, Intel® UHD® 3D, HDMI, BT, USB 3.0, WLAN, Windows 11"
   },
   {
     "model_id": "8085",
-    "product_number": "",
+    "product_number": "X1605VA-MB561",
     "product_number_2": "",
     "vendor": "Asus",
     "cpu": "Intel Core i3 1315U",
-    "ram_onboard": 0,
-    "ram_slot1": 0,
+    "ram_onboard": 8,
+    "ram_slot1": 16,
     "ram_slot2": 0,
     "ram_total": 24,
     "ram_type": "DDR4",
-    "ram_layout": "",
+    "ram_layout": "1x8 + 1x16",
     "ssd": 1000,
-    "storage_type": "M.2 SATA",
+    "storage_type": "NVMe",
     "ssd_2": 0,
     "storage_type_2": "",
     "optical_drive": "",
@@ -5976,12 +5976,12 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "",
-    "asset_status": "",
+    "asset_status": "Image",
     "note": "ASUS (FullHD+ 16,0 Zoll) Notebook (Intel® Core™ i3 1315U 6 Kern CPU, 4.50 GHz, 24 GB DDR4, 1000 GB SSD, Intel® UHD® 3D, HDMI, BT, USB 3.0, WLAN, Windows 11"
   },
   {
     "model_id": "8087",
-    "product_number": "",
+    "product_number": "X1704VA-AU901",
     "product_number_2": "",
     "vendor": "Asus",
     "cpu": "Intel Core i3 1315U",
@@ -6002,7 +6002,7 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "Blue",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "ASUS (FullHD 17,0 Zoll) Notebook (Intel® Core™ i3 1315U 6 Kern CPU, 4.50 GHz, 16 GB DDR4, 512 GB SSD, Intel® UHD® 3D, HDMI, BT, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -6136,8 +6136,8 @@
     "note": "[REFURBISHED] Lenovo FullHD 15,6 Zoll Gaming Notebook - AMD Ryzen 3 7320U 8-Thread CPU, 4.1 GHz, 8 GB DDR5, 512 GB SSD, Radeon 610M, HDMI, BT, USB 3.0, WLAN, Windows 11"
   },
   {
-    "model_id": "8117 FR",
-    "product_number": "",
+    "model_id": "8117",
+    "product_number": "V15-AMN",
     "product_number_2": "",
     "vendor": "Lenovo",
     "cpu": "AMD Ryzen 5 7520U",
@@ -6154,12 +6154,12 @@
     "optical_drive": "",
     "inch": 15.6,
     "display_type": "Full HD",
-    "operating_system": "",
+    "operating_system": "Windows 11 Professional 64-Bit",
     "keyboard_layout": "FR",
     "condition": "",
     "color": "Black",
-    "asset_status": "",
-    "note": "Notebook Notebook | AMD Ryzen 5 7520U | 8 GB LPDDR5 | 512 GB NVMe | Black"
+    "asset_status": "Config",
+    "note": "[FR] Lenovo (FullHD 15,6 Zoll) Ordinateur Portable Gaming (AMD® Ryzen5 7520U 8 Threads, 4.30 GHz, 8Go DDR5, 512 Go SSD, Radeon™ 610M, HDMI, BT, USB 3.0, Cam, Windows 11"
   },
   {
     "model_id": "8119",
@@ -6444,7 +6444,7 @@
     "keyboard_layout": "FR",
     "condition": "",
     "color": "Black",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[FR] Lenovo (FullHD 15,6 Zoll) Ordinateur Portable (Intel® Dual N4500 2x2.80 GHz, 8 Go DDR4, 256 Go SSD, Intel™ UHD, HDMI, BT, USB 3.0, Webcam, WLAN, Windows 11"
   },
   {
@@ -6527,7 +6527,7 @@
   },
   {
     "model_id": "8215",
-    "product_number": "",
+    "product_number": "8MH68ES#ABD",
     "product_number_2": "",
     "vendor": "HP",
     "cpu": "Intel Celeron N4000",
@@ -6548,7 +6548,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Gray",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP (15,6 Zoll) Notebook (Intel Dual N4000, 8GB DDR4, 256GB SSD, DVD±RW, UHD Graphics 600, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 11 Prof. 64 Bit)"
   },
   {
@@ -6605,7 +6605,7 @@
   },
   {
     "model_id": "8228",
-    "product_number": "",
+    "product_number": "X1505VA-MA921",
     "product_number_2": "",
     "vendor": "Asus",
     "cpu": "Intel Core i9 13900H",
@@ -6626,7 +6626,7 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "Silver",
-    "asset_status": "",
+    "asset_status": "Image",
     "note": "ASUS High-End (3K OLED 15.6 Zoll) Notebook (Intel® Core™ i9 13900H 14 Kern CPU, 5.4 GHz, 24 GB DDR4, 1000 GB SSD, Intel® Iris® Xe 3D, HDMI, BT, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -6704,7 +6704,7 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "Silver",
-    "asset_status": "",
+    "asset_status": "Image",
     "note": "ASUS Premium Laptop | 17,3 Zoll FHD Display | Intel U300 5 x 4.40 GHz | 16 GB DDR4 RAM | 512 GB SSD | Intel UHD Graphics | Windows 11 Pro | MS Office | USB-C laden"
   },
   {
@@ -6730,7 +6730,7 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "Blue",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "ASUS (15,6 Zoll FullHD) Premium Notebook (Intel® Core™ 5 120U, 10 Kerne, 5 GHz, 16 GB RAM, 512 GB SSD, Intel Graphics, HDMI, BT, Webcam, USB-C/3.0, WLAN, Windows 11, Office"
   },
   {
@@ -6782,7 +6782,7 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "Silver",
-    "asset_status": "",
+    "asset_status": "Image",
     "note": "ASUS Premium Laptop | 17,3 Zoll FHD Display | Intel U300 5 x 4.40 GHz | 24 GB DDR4 RAM | 512 GB SSD | Intel UHD Graphics | Windows 11 Pro | MS Office | USB-C laden"
   },
   {
@@ -6995,7 +6995,7 @@
   },
   {
     "model_id": "8277",
-    "product_number": "",
+    "product_number": "17-cn3150ng",
     "product_number_2": "",
     "vendor": "HP",
     "cpu": "Intel Core i5 1334U",
@@ -7016,7 +7016,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Black",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP Laptop 17,3 Zoll IPS Full-HD, Intel Core i5 1334U, 10 x 4.60 GHz, 24 GB RAM, 1000 GB SSD, Intel Iris Xe, Windows 11"
   },
   {
@@ -7076,13 +7076,13 @@
     "product_number": "",
     "product_number_2": "",
     "vendor": "Difinity",
-    "cpu": "3020E",
+    "cpu": "AMD 3020e",
     "ram_onboard": 0,
     "ram_slot1": 0,
     "ram_slot2": 0,
-    "ram_total": 8,
+    "ram_total": 0,
     "ram_type": "DDR4",
-    "ram_layout": "",
+    "ram_layout": "0 GB",
     "ssd": 256,
     "storage_type": "M.2 SATA",
     "ssd_2": 0,
@@ -7354,7 +7354,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Gray",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP (15,6 Zoll Full-HD) Ultrabook (1.8kg), großer 10h Akku, AMD 4-Thread 3150U (Ryzen Core) 3.3 GHz, 8GB DDR4, 512GB SSD, DVD, 4GB RX Vega 3, HDMI, BT, USB 3.0, WLAN, Win11 Prof, MS Office Laptop"
   },
   {
@@ -7671,16 +7671,16 @@
   },
   {
     "model_id": "8387",
-    "product_number": "",
-    "product_number_2": "",
+    "product_number": "X1504VAP",
+    "product_number_2": "MO2KR0",
     "vendor": "Asus",
     "cpu": "Intel Core 5 120U",
-    "ram_onboard": 0,
-    "ram_slot1": 0,
+    "ram_onboard": 8,
+    "ram_slot1": 8,
     "ram_slot2": 0,
-    "ram_total": 0,
-    "ram_type": "DDR4",
-    "ram_layout": "0 GB",
+    "ram_total": 16,
+    "ram_type": "DDR5",
+    "ram_layout": "1x8 + 1x8",
     "ssd": 512,
     "storage_type": "NVMe",
     "ssd_2": 0,
@@ -7692,8 +7692,8 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "",
-    "asset_status": "",
-    "note": "ASUS (15,6 Zoll FullHD) Premium Notebook (Intel® Core™ 5 120U, 10 Kerne, 5 GHz, 16 GB RAM, 512 GB SSD, Intel Graphics, HDMI, BT, Webcam, USB-C/3.0, WLAN, Windows 11, Office 2024"
+    "asset_status": "Image",
+    "note": "ASUS (15,6 Zoll FullHD) Premium Notebook (Intel® Core™ 5 120U, 10 Kerne, 5 GHz, 16 GB RAM, 512 GB SSD, Intel Graphics, HDMI, BT, Webcam, USB-C/3.0, WLAN, Windows 11, Office 2024 Professional Plus"
   },
   {
     "model_id": "8389",
@@ -7770,7 +7770,7 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "Black",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "Lenovo Laptop, 15,6 Zoll FHD Display, Intel Core™ 5 120U, 10 Kerne - 5.0 GHz, 8 GB DDR5, 256 GB NVME SSD, Intel Graphics, Windows 11"
   },
   {
@@ -7900,7 +7900,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Silver",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] ASUS (FullHD 15,6 Zoll) Gaming Notebook (Intel® Core™ i3 1115G4 4 Thread CPU, 4.1 GHz, 20 GB DDR4, 512 GB SSD, Intel® UHD® 3D, HDMI, BT, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -7908,13 +7908,13 @@
     "product_number": "",
     "product_number_2": "",
     "vendor": "Difinity",
-    "cpu": "3020E",
+    "cpu": "AMD 3020e",
     "ram_onboard": 0,
-    "ram_slot1": 0,
-    "ram_slot2": 0,
+    "ram_slot1": 4,
+    "ram_slot2": 4,
     "ram_total": 8,
     "ram_type": "DDR4",
-    "ram_layout": "2x4",
+    "ram_layout": "1x4 + 1x4",
     "ssd": 128,
     "storage_type": "M.2 SATA",
     "ssd_2": 0,
@@ -7925,22 +7925,22 @@
     "operating_system": "Windows 11 Professional 64-Bit",
     "keyboard_layout": "DE",
     "condition": "",
-    "color": "",
-    "asset_status": "",
+    "color": "Silver",
+    "asset_status": "Config",
     "note": "difinity 15.6 Zoll FullHD lautloses Premium Notebook - Made in Germany mit USB-C laden und 3 Jahren Garantie! AMD 3020E 2x2.6 GHz, Radeon Vega3, 8 GB, 128 GB SSD, USB C, WLAN, BT, Windows 11"
   },
   {
     "model_id": "8457",
-    "product_number": "",
+    "product_number": "ThinkPad L480",
     "product_number_2": "",
     "vendor": "Lenovo",
     "cpu": "Intel Core i7 8550U",
     "ram_onboard": 0,
-    "ram_slot1": 0,
-    "ram_slot2": 0,
+    "ram_slot1": 8,
+    "ram_slot2": 8,
     "ram_total": 16,
     "ram_type": "DDR4",
-    "ram_layout": "2x8",
+    "ram_layout": "1x8 + 1x8",
     "ssd": 256,
     "storage_type": "M.2 SATA",
     "ssd_2": 0,
@@ -7951,8 +7951,8 @@
     "operating_system": "Windows 11 Professional 64-Bit",
     "keyboard_layout": "DE",
     "condition": "",
-    "color": "",
-    "asset_status": "",
+    "color": "Black",
+    "asset_status": "Config",
     "note": "Lenovo i7 ThinkPad L480 Business Laptop, 14,0 Zoll FHD Display, Intel Core i7-8550U, 8 Threads, 4.00 GHz, 16 GB DDR4 RAM, 256 GB SSD, USB-C laden, Windows 11"
   },
   {
@@ -7978,7 +7978,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Black",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP (17,3 Zoll HD+) Notebook (Intel Celeron N4000, 8 GB DDR4, 256 GB SSD, Intel HD605, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -8290,7 +8290,7 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "Blue",
-    "asset_status": "",
+    "asset_status": "Image",
     "note": "ASUS (17,3 Zoll FullHD) Premium Notebook (Intel® Core™ 5 120U, 10 Kerne, 5 GHz, 24 GB RAM, 1000 GB SSD, Intel Graphics, HDMI, BT, Webcam, USB-C/3.0, WLAN, Windows 11"
   },
   {
@@ -8373,7 +8373,7 @@
   },
   {
     "model_id": "8411",
-    "product_number": "",
+    "product_number": "6HM78ES#ABD",
     "product_number_2": "",
     "vendor": "HP",
     "cpu": "Intel Core i3 7020U",
@@ -8394,7 +8394,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Black",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP 255 G7 (15,6 Zoll Full-HD) Notebook (Intel Core i3-7020U, 8GB DDR4, 256 GB SSD M2, Intel HD Grafik mit HDMI, Bluetooth, WLAN, USB 3.0, Windows 11 Prof, MS Office 2010)"
   },
   {
@@ -8425,8 +8425,8 @@
   },
   {
     "model_id": "8424",
-    "product_number": "",
-    "product_number_2": "",
+    "product_number": "IdeaPad 3",
+    "product_number_2": "15IRH10R",
     "vendor": "Lenovo",
     "cpu": "Intel Core 7 240H",
     "ram_onboard": 8,
@@ -8442,12 +8442,12 @@
     "optical_drive": "None",
     "inch": 15.6,
     "display_type": "Full HD",
-    "operating_system": "",
+    "operating_system": "Windows 11 Professional 64-Bit",
     "keyboard_layout": "FR",
     "condition": "",
     "color": "Silver",
-    "asset_status": "",
-    "note": "Notebook | Intel Core 7 240H | 16 GB DDR5 | 512 GB NVMe | Silver"
+    "asset_status": "Config",
+    "note": "[FR] Lenovo IdeaPad3 Premium Core7 15,3 pouces IPS FullHD+ Ordinateur portable - Intel Core7 240H, 16 threads, 5,20 GHz, 16 Go DDR5, 512 Go SSD, Wi-Fi 7, HDMI, Webcam, BT, USB-C/3, WLAN, Windows 11"
   },
   {
     "model_id": "8495",
@@ -8472,7 +8472,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Black",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP (17,3 Zoll HD+) Notebook (Intel Celeron N4000, 16 GB DDR4, 1000 GB SSD, Intel HD605, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -8503,7 +8503,7 @@
   },
   {
     "model_id": "8355",
-    "product_number": "",
+    "product_number": "7N023ES#ABD",
     "product_number_2": "",
     "vendor": "HP",
     "cpu": "Intel Celeron N4500",
@@ -8524,7 +8524,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Black",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP Laptop | 15,6 Zoll Full-HD | N4500 2 x 2,80 GHz | 8 GB DDR4 RAM | 256 GB SSD | Intel UHD Grafik | Windows 11 Pro | Office 2010 Starter"
   },
   {
@@ -8550,12 +8550,12 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Gray",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP Notebook 15,6 Zoll, i5 8265U 8GB RAM, 512 GB SSD Win11 Prof. 64"
   },
   {
     "model_id": "8296",
-    "product_number": "",
+    "product_number": "17-cp0439ng",
     "product_number_2": "",
     "vendor": "HP",
     "cpu": "AMD Ryzen 3 5300U",
@@ -8564,7 +8564,7 @@
     "ram_slot2": 8,
     "ram_total": 16,
     "ram_type": "DDR4",
-    "ram_layout": "2x8",
+    "ram_layout": "1x8 + 1x8",
     "ssd": 512,
     "storage_type": "NVMe",
     "ssd_2": 0,
@@ -8576,7 +8576,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Black",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP (17,3 Zoll FHD) Notebook (AMD Ryzen3 5300U 8-Thread 3.80 GHz, 16 GB DDR4, 512 GB SSD, Radeon 6-Kern Grafik 4GB, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -8607,7 +8607,7 @@
   },
   {
     "model_id": "8505",
-    "product_number": "",
+    "product_number": "17-ca2121ng",
     "product_number_2": "",
     "vendor": "HP",
     "cpu": "AMD Athlon Silver 3050U",
@@ -8616,7 +8616,7 @@
     "ram_slot2": 8,
     "ram_total": 16,
     "ram_type": "DDR4",
-    "ram_layout": "2x8",
+    "ram_layout": "1x8 + 1x8",
     "ssd": 512,
     "storage_type": "NVMe",
     "ssd_2": 0,
@@ -8628,7 +8628,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Black",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP (17,3 Zoll HD++ Notebook (AMD Athlon Silver 3050U 2x3.20 GHz, 16 GB DDR4, 512 GB SSD, AMD Radeon Graphics, BT, USB 3.0, LAN, WLAN, Windows 11"
   },
   {
@@ -8680,12 +8680,12 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Gray",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP (FullHD 15,6 Zoll) Gaming Notebook (AMD Ryzen™ 3 3200U 4-Thread CPU, 3.5 GHz, 8GB DDR4, 512 GB SSD, Radeon™ Vega 8, DVD±RW, HDMI, BT, USB 3.0, WLAN, Windows 11"
   },
   {
     "model_id": "8508",
-    "product_number": "",
+    "product_number": "8FB87EA#ABD",
     "product_number_2": "",
     "vendor": "HP",
     "cpu": "AMD Ryzen 3 3200U",
@@ -8694,7 +8694,7 @@
     "ram_slot2": 4,
     "ram_total": 8,
     "ram_type": "DDR4",
-    "ram_layout": "2x4",
+    "ram_layout": "1x4 + 1x4",
     "ssd": 256,
     "storage_type": "NVMe",
     "ssd_2": 0,
@@ -8706,7 +8706,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Black",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP (FullHD 15,6 Zoll) Notebook (AMD Ryzen™ 3 3200U 4-Thread CPU, 3.5 GHz, 8GB DDR4, 256 GB SSD, Radeon™ Vega 3, DVD±RW, HDMI, BT, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -8810,7 +8810,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Gray",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP (15,6 Zoll) Notebook (AMD A4-9125 Dual Core 2x2.6 GHz, 8GB DDR4 RAM, 512 GB SDD, DVD±R/RW, Radeon R3, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 11)"
   },
   {
@@ -8867,7 +8867,7 @@
   },
   {
     "model_id": "8541",
-    "product_number": "7QK65ES",
+    "product_number": "7QK65ES#ABD",
     "product_number_2": "",
     "vendor": "HP",
     "cpu": "AMD A4 9125",
@@ -8888,7 +8888,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Silver",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP (15,6 Zoll) Notebook - AMD A4-9125 Dual Core 2x2.6 GHz, 8GB DDR4 RAM, 512 GB SSD, DVD±R/RW, Radeon R3, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -8914,7 +8914,7 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "Black",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "Lenovo 15,6 Zoll Full-HD Notebook - Intel 14th Gen N100 4x3.40 GHz, 8GB DDR5-4800 , 512 GB NVME SSD, Intel UHD, HDMI, Webcam, Bluetooth, LAN, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -8940,7 +8940,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Black",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP (17,3 Zoll HD+) Notebook (Intel Celeron N5030 Quad-Core, 3.10 GHz, 16 GB DDR4, 1 TB SSD, Intel HD605, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -8966,7 +8966,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Gray",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP (15,6 Zoll) HD+ Notebook (Intel N5030 4x3.10 GHz, 8GB DDR4, 512 GB SSD, Intel UHD, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, MS Office, Windows 11"
   },
   {
@@ -9018,7 +9018,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Gray",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP (15,6 Zoll) HD+ Notebook (Intel N4020 2x2.80 GHz, 8GB DDR4, 512 GB SSD, Intel UHD, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, MS Office, Windows 11"
   },
   {
@@ -9044,7 +9044,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Silver",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "DELL Latitude 5420 14 Zoll Full-HD i7 1185G7 | 16 GB DDR4 RAM | 256 GB SSD | Intel Graphics | HDMI | BT | Webcam | USB-C/3.0, WLAN | Windows 11 Pro"
   },
   {
@@ -9070,7 +9070,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Gray",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP (15,6 Zoll) Full-HD Notebook (AMD A6 9225, 8GB DDR4, 256 GB SSD, Radeon R2, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 11 Prof. 64 Bit)"
   },
   {
@@ -9122,7 +9122,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Gray",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP (15,6 Zoll) HD+ Notebook (Intel N4020 2x2.80 GHz, 8GB DDR4, 512 GB SSD, Intel UHD, HDMI, Webcam, Bluetooth, USB 3.0, DVD, WLAN, MS Office, Windows 11"
   },
   {
@@ -9148,7 +9148,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Gray",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP (Full-HD 15,6 Zoll) Notebook, Intel Core™ i5 1035G1 8-Thread CPU, 3.6 GHz, 8 GB DDR4, 512 GB SSD, Intel™ UHD, HDMI, BT, DVD, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -9174,7 +9174,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Black",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP (17,3 Zoll IPS Full-HD) Notebook (AMD Ryzen3 3250U 4-Thread 3.50 GHz, 16 GB DDR4, 1000 GB SSD, Radeon 3-Kern Grafik 4GB, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -9200,7 +9200,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP G7 (15,6 Zoll HD) Notebook (Intel Core i3-7020U, 8GB DDR4, 256 GB SSD, Intel HD Grafik mit HDMI, Bluetooth, WLAN, USB 3.0, Windows 11 Prof, MS Office 2010)"
   },
   {
@@ -9226,7 +9226,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP EliteBook (15,6 Zoll Full-HD) (1.75g), großer 8h Akku, AMD Ryzen 5 PRO 12-Thread 5650U 4.2 GHz, 16 GB, 512GB SSD, RX Vega 7, HDMI, BT, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -9252,7 +9252,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Gray",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP (15,6 Zoll) Full-HD Notebook (AMD A6 9225, 8GB DDR4, 512 GB SSD, Radeon R2, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 11 Prof. 64 Bit)"
   },
   {
@@ -9278,7 +9278,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Silver",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP (15,6 Zoll) Notebook (Intel N3350 Dual Core 2x2.40 GHz, 8GB RAM, 512GB S-ATA SSD, DVD±RW, Intel HD 400, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -9304,7 +9304,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Silver",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP (15,6 Zoll) Notebook (Intel N3350 Dual Core 2x2.40 GHz, 8GB RAM, 128GB S-ATA SSD, DVD±RW, Intel HD 400, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -9356,7 +9356,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Silver",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP (15,6 Zoll) Notebook (Intel N3350 Dual Core 2x2.40 GHz, 8GB RAM, 480GB S-ATA SSD, DVD±RW, Intel HD 400, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -9382,7 +9382,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Gray",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP Notebook 15,6 Zoll, i5 8265U 8GB RAM, 256GB SSD Win11 Prof. 64"
   },
   {
@@ -9408,7 +9408,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Silver",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP (FullHD 17,3 Zoll Premium Notebook (AMD Ryzen™ 7 7730U 16-Thread CPU, 4.5 GHz, 16 GB DDR4, 512 GB SSD, 8-Core Vega 3D™, HDMI, BT, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -9486,7 +9486,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "White",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] ASUS SSD (17,3 Zoll HD++) Notebook (AMD A4-9125 2x2.60 GHz, 8GB DDR4, 256 GB SSD, 4GB Radeon R3 Graphics, HDMI, Webcam, Bluetooth, USB 3.0, Windows 11"
   },
   {
@@ -9512,7 +9512,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Silver",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] ASUS Ultra Ryzen3 SSD (17,3 Zoll HD++) Notebook (AMD Ryzen3 3200U mit 3.50 GHz, 8GB DDR4, 256GB SSD, 1000GB HDD, 4GB Radeon Vega 3 Graphics, HDMI, Windows 11"
   },
   {
@@ -9538,7 +9538,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Silver",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] ASUS Ultra Ryzen3 SSD (17,3 Zoll HD++) Notebook (AMD Ryzen3 3200U mit 3.50 GHz, 8GB DDR4, 512 GB SSD, 4GB Radeon Vega 3 Graphics, HDMI, Windows 11"
   },
   {
@@ -9642,7 +9642,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Black",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP (15,6 Zoll - Full HD) Notebook (AMD A10 9620P Quad Core, 3.4 GHz, 8GB DDR4, 256 GB SSD S-ATA III, DVD±RW, Radeon R5, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 11 Prof. 64 Bit)"
   },
   {
@@ -9668,7 +9668,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP (17,3 Zoll FHD) Notebook (AMD Ryzen3 5300U 8-Thread 3.80 GHz, 16 GB DDR4, 1000 GB SSD, Radeon 6-Kern Grafik 4GB, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -9694,7 +9694,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Black",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] Lenovo Touch Thinkpad L13 Gen2 (FullHD 13,3 Zoll) Business Notebook (Intel Core i5-1135G7 8-Threads, 4.2 GHz, 16 GB, 256 GB SSD, Intel Xe™, HDMI, BT, USB C, WLAN, Windows 11 P"
   },
   {
@@ -9720,7 +9720,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Silver",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] ASUS Ultra Ryzen3 SSD (17,3 Zoll HD++) Notebook (AMD Ryzen3 3200U mit 3.50 GHz, 8GB DDR4, 512 GB SSD, 4GB Radeon Vega 3 Graphics, HDMI, Windows 11"
   },
   {
@@ -9746,7 +9746,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Silver",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] ASUS Ultra Ryzen7 SSD (17,3 Zoll FullHD) Notebook (AMD 8-Thread Ryzen7 3700U mit 4 GHz, 20GB DDR4, 1000 GB SSD, 8GB Radeon RX 10 Graphics, HDMI, Windows 11"
   },
   {
@@ -9772,7 +9772,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Silver",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] ASUS i5 Gaming (17,3 Zoll) HD+ Notebook (Intel Core i5 1135G7 8-Thread CPU 4.20 GHz, 20GB DDR4, 1 TB SSD, Intel® Iris® Xe, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -9798,7 +9798,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Silver",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] ASUS i7 Gaming (17,3 Zoll) FullHD Notebook (Intel Core i7 1165G7 8-Thread CPU 4.70 GHz, 20GB DDR4, 1 TB SSD, Intel® Iris® Xe, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -9850,7 +9850,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Black",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP (17,3 Zoll FHD) Notebook (Intel Pentium N5030 Quad-Core, 3.10 GHz, 16 GB DDR4, 1000 GB SSD, Intel HD605, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -9902,7 +9902,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Silver",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP (FullHD 17,3 Zoll) Gaming Notebook (AMD Ryzen™ 5 5500U 12-Thread CPU, 4.0 GHz, 20GB DDR4, 1000 GB SSD, Radeon™, HDMI, BT, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -9928,13 +9928,13 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Silver",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP EliteBook 830 G5 (13,3 Zoll Full-HD) (1.35g), großer 8h Akku, Intel Core i58-Thread 8350U 3.60 GHz, 16 GB, 256GB SSD, UHD Graphics, Touch, BT, USB 3.0, WLAN, Windows 11"
   },
   {
     "model_id": "8605",
-    "product_number": "90NB13X2",
-    "product_number_2": "M00P80",
+    "product_number": "90NB13X2-M00P80",
+    "product_number_2": "",
     "vendor": "Asus",
     "cpu": "Intel Core 3 100U",
     "ram_onboard": 8,
@@ -9954,7 +9954,7 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "Blue",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "ASUS i3 Laptop 17,3 Zoll FullHD (Intel® Core™ 3 Prozessor 100U, 6 Kerne, 4.70 GHz, 8 GB DDR5 RAM, 256 GB NVME SSD, HDMI, BT, Webcam, USB-C/3.0, WLAN, Windows 11"
   },
   {
@@ -9980,13 +9980,13 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Gray",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP 255 G7 (15,6 Zoll Full-HD) Notebook (Intel Core i3-7020U, 16GB DDR4, 512 GB SSD M2, Intel HD Grafik mit HDMI, Bluetooth, WLAN, USB 3.0, Windows 11 Prof, MS Office 2010)"
   },
   {
     "model_id": "8624",
-    "product_number": "",
-    "product_number_2": "2UB88ES",
+    "product_number": "2UB88ES#ABD",
+    "product_number_2": "",
     "vendor": "HP",
     "cpu": "AMD A6 9220",
     "ram_onboard": 0,
@@ -10006,7 +10006,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Silver",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP Notebook 15,6 Zoll - AMD Core 2,90 GHz - 512 GB SSD - 8 GB DDR4 - Windows 11 Pro"
   },
   {
@@ -10032,7 +10032,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Gray",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP (FullHD 15,6 Zoll) Notebook (AMD Ryzen-Core 3020e 2x2.6 GHz, 16 GB DDR4, 512 GB SSD, Radeon™ RX Grafik, HDMI, BT, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -10110,7 +10110,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Black",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP Notebook 15,6 Zoll, AMD A6-7310 Quad Core 4x2.40 GHz, 8GB RAM, 128GB SSD, AMD Radeon R4, BT, USB 3.0, WLAN, Win11 Prof. 64"
   },
   {
@@ -10136,7 +10136,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Black",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP Notebook 15,6 Zoll, AMD A6-7310 Quad Core 4x2.40 GHz, 8GB RAM, 512GB SSD, AMD Radeon R4, BT, USB 3.0, WLAN, Win11 Prof. 64"
   },
   {
@@ -10188,7 +10188,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Silver",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP (FullHD 17,3 Zoll) Notebook (AMD Ryzen™ 5 7520U 8-Thread CPU, 4.3 GHz, 8 GB DDR5, 512 GB SSD, Radeon Grafik, HDMI, BT, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -10214,7 +10214,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Black",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP High-End i5 Laptop (17,3 Zoll Full-HD), Intel Core i5-1334U, 10 Kerne, 4.6 GHz, 32 GB DDR4, 1000 GB SSD, Intel Iris Xe, HDMI, BT, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -10240,7 +10240,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Silver",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP (FullHD 17,3 Zoll) Gaming Notebook (AMD Ryzen™ 5 7520U, 16GB DDR5, 512 GB SSD, HDMI, BT, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -10344,7 +10344,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Black",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP (17,3 Zoll) FHD Notebook (Intel® Core™ i3 1215U, 6 Kerne, 4.40 GHz, 24 GB DDR4, 1000 GB SSD, Intel UHD, HDMI, Webcam, Bluetooth, USB-C + USB 3.0, WLAN, Windows 11"
   },
   {
@@ -10370,7 +10370,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Silver",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP (15,6 Zoll Full-HD) Gaming Notebook (1.69kg), großer 8h Akku, AMD Ryzen5 5625U, 12 Threads, 4.3 GHz, 16 GB, 1000 GB SSD, 4GB Radeon, HDMI, BT, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -46900,7 +46900,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[REFURBISHED] HP (17,3 Zoll HD++) Notebook (AMD Ryzen3 5300U 8-Thread 3.80 GHz, 16 GB DDR4, 512 GB SSD, Radeon 6-Kern Grafik 4GB, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -49734,7 +49734,7 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "ASUS FullHD+ 18.4 Zoll High-End Notebook - AMD Ryzen 7 260 16-Thread CPU, 5.1 GHz, 32 GB DDR5, 1000 GB SSD, Radeon 780M 12-Kern 3D, HDMI, BT, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -51377,8 +51377,8 @@
   },
   {
     "model_id": "8397",
-    "product_number": "IdeaPad 3 17IRU7 - Core i3-1315U",
-    "product_number_2": "",
+    "product_number": "IdeaPad 3 17IRU7",
+    "product_number_2": "82X90032FR",
     "vendor": "Lenovo",
     "cpu": "Intel Core i3 1315U",
     "ram_onboard": 0,
@@ -51397,8 +51397,8 @@
     "operating_system": "Windows 11 Professional 64-Bit",
     "keyboard_layout": "FR",
     "condition": "",
-    "color": "",
-    "asset_status": "",
+    "color": "Gray/Black",
+    "asset_status": "Config",
     "note": "[FR] Lenovo (17,3 Zoll IPS FHD) Ordinateur Portable (Intel® Core™ i3 1315U, 16 Go DDR4, 512 SSD, Intel® UHD®, HDMI, Cam, BT, WLAN, Windows 11"
   },
   {
@@ -51450,7 +51450,7 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "ASUS FullHD+ 18 Zoll High-End Notebook - AMD Ryzen 7 260 16-Thread CPU, 5.1 GHz, 16 GB DDR5, 1000 GB SSD, Radeon 780M 12-Kern 3D, HDMI, BT, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -51663,7 +51663,7 @@
   },
   {
     "model_id": "8466",
-    "product_number": "ASUS X1704VA-AU352 - i7 1355U - WLAN",
+    "product_number": "ASUS X1704VA-AU352",
     "product_number_2": "",
     "vendor": "Asus",
     "cpu": "Intel Core i7 1355U",
@@ -51684,7 +51684,7 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "",
-    "asset_status": "",
+    "asset_status": "Image",
     "note": "ASUS (17,3 Zoll FullHD) Notebook mit MS Office 2024 Pro (Intel® Core™ i7 13th Gen, 10 Kerne, 5.00 GHz, 24 GB RAM, 1000 GB SSD, Intel UHD, HDMI, BT, Webcam, USB-C/3.0, WLAN, Windows 11"
   },
   {
@@ -51715,7 +51715,7 @@
   },
   {
     "model_id": "8472",
-    "product_number": "ASUS X1704VA-AU352 - i7 1355U - WLAN",
+    "product_number": "ASUS X1704VA-AU352",
     "product_number_2": "",
     "vendor": "Asus",
     "cpu": "Intel Core i7 1355U",
@@ -51736,7 +51736,7 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "ASUS (FullHD 17,3 Zoll) Gaming Notebook (Intel® Core™ i7 1355U 10 Kern CPU, 5.0 GHz, 16 GB DDR4, 512 GB SSD, Intel® Iris® Xe 3D, HDMI, BT, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -51996,8 +51996,8 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "",
-    "asset_status": "",
-    "note": "ASUS (17,3 Zoll FullHD) Notebook mit MS Office 2024 Pro (Intel® Core™ 5 Prozessor 120U, 10 Kerne, 5 GHz, 16 GB DDR5 RAM, 1000 GB SSD,HDMI, BT, Webcam, USB-C/3.0, WLAN, Windows 11"
+    "asset_status": "Image",
+    "note": "ASUS (17,3 Zoll FullHD) Notebook mit MS Office 2024 Pro (Intel® Core™ 5 Prozessor 120U, 10 Kerne, 5 GHz, 16 GB DDR5 RAM, 1000 GB SSD,HDMI, BT, Webcam, USB-C/3.0, WLAN, Windows 11 + Office 2024 Professional Plus"
   },
   {
     "model_id": "8511",
@@ -52229,8 +52229,8 @@
     "operating_system": "Windows 11 Professional 64-Bit",
     "keyboard_layout": "FR",
     "condition": "",
-    "color": "",
-    "asset_status": "",
+    "color": "Black",
+    "asset_status": "Config",
     "note": "[FR] Lenovo (FullHD 15,6 Zoll) Ordinateur Portable (Intel® Dual N4500 2x2.80 GHz, 16Go DDR4, 256 Go SSD, Intel™ UHD, HDMI, BT, USB 3.0, Webcam, WLAN, Windows 11"
   },
   {
@@ -52469,7 +52469,7 @@
   },
   {
     "model_id": "8595",
-    "product_number": "V15G2IJL",
+    "product_number": "V15 G2 IJL",
     "product_number_2": "",
     "vendor": "Lenovo",
     "cpu": "Intel Celeron N4500",
@@ -52490,7 +52490,7 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "Lenovo Laptop | 15,6 Zoll FHD Display | Intel N4500 2 x 2.80 GHz | 16 GB DDR4 RAM | 500 GB SSHD | Intel UHD Graphics | Windows 11 Pro"
   },
   {
@@ -52516,7 +52516,7 @@
     "keyboard_layout": "FR",
     "condition": "",
     "color": "",
-    "asset_status": "",
+    "asset_status": "Config",
     "note": "[FR] Ordinateur portable Lenovo, écran 15,6 pouces FHD, Intel Core i5-13420H 8 x 4,60 GHz, 16 Go DDR4 RAM, SSD 1000 Go, Intel UHD Graphics, Windows 11"
   },
   {
@@ -52547,7 +52547,7 @@
   },
   {
     "model_id": "8601",
-    "product_number": "",
+    "product_number": "90NB13X2-M00P80",
     "product_number_2": "",
     "vendor": "Asus",
     "cpu": "Intel Core 3 100U",
@@ -52558,7 +52558,7 @@
     "ram_type": "DDR5",
     "ram_layout": "1x8",
     "ssd": 128,
-    "storage_type": "M.2 SATA",
+    "storage_type": "NVMe",
     "ssd_2": 0,
     "storage_type_2": "",
     "optical_drive": "None",
@@ -52568,8 +52568,8 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "",
-    "asset_status": "",
-    "note": "ASUS (17,3 Zoll FullHD) Premium Notebook (Intel® Core™ 3 100U, 6 Kerne, 4.7 GHz, 8 GB DDR5, 128 GB SSD, Intel Graphics, HDMI, BT, Webcam, USB-C/3.0, WLAN, Windows 11, Office"
+    "asset_status": "Image",
+    "note": "ASUS (17,3 Zoll FullHD) Premium Notebook (Intel® Core™ 3 100U, 6 Kerne, 4.7 GHz, 8 GB DDR5, 128 GB SSD, Intel Graphics, HDMI, BT, Webcam, USB-C/3.0, WLAN, Windows 11, Office + Acronis True Image Halbjahreslizenz"
   },
   {
     "model_id": "8604",
