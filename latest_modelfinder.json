@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "ModelFinder",
-  "version": "V4.33",
+  "version": "V4.34",
   "platform": "windows",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/modelfinder/ModelFinder_update_V4.33.zip",
-  "sha256": "CD367FBC3AD2C77BE8F00E015DA59CFA84D20D927F63A6FC384B0D1FB165CD0F",
-  "size_bytes": 49905243,
-  "filename": "ModelFinder_update_V4.33.zip",
-  "repo_path": "updates/modelfinder/ModelFinder_update_V4.33.zip",
-  "created_at": "2026-06-26T08:35:04Z",
-  "notes": "ModelFinder V4.33: Zeilen per Strg+C kopieren, Info-Feld Config/Image, kompakte Finder-Detailzeile und neue DB-Struktur."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/modelfinder/ModelFinder_update_V4.34.zip",
+  "sha256": "27E3ACA0B70F8D740CFAC3DFF087F3322EF1F835C89BFEA7176F53AB4C93F0E4",
+  "size_bytes": 49910104,
+  "filename": "ModelFinder_update_V4.34.zip",
+  "repo_path": "updates/modelfinder/ModelFinder_update_V4.34.zip",
+  "created_at": "2026-06-26T10:41:04Z",
+  "notes": "ModelFinder V4.34: Finder-Details mit Kopfzeile und Komponenten-Zeilen, exakte Modell-ID blendet Detailbox aus, Optionszellen per Rechtsklick oder Strg+C kopierbar."
 }
