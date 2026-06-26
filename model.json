@@ -1998,7 +1998,7 @@
     "keyboard_layout": "FR",
     "condition": "",
     "color": "Black",
-    "asset_status": "",
+    "asset_status": "Image",
     "note": "[FR] Lenovo (FullHD 15,6 Zoll) Ordinateur Portable (Intel® Quad N5100 4x2.80 GHz, 16Go DDR4, 1000 Go SSD, Intel™ UHD, HDMI, BT, USB 3.0, Webcam, WLAN, Windows 11"
   },
   {
@@ -2444,17 +2444,17 @@
     "note": "difinity (17,3 Zoll HD++) lautloses Notebook (Intel® Celeron® N4120 4 Kerne, 2.70 GHz, 16GB DDR4, 480 GB SSD, USB 3.0, Bluetooth, Intel UHD Graphics 600, HDMI, Windows 11"
   },
   {
-    "model_id": "7467 FR",
-    "product_number": "",
+    "model_id": "7467",
+    "product_number": "V15-AMN",
     "product_number_2": "",
     "vendor": "Lenovo",
     "cpu": "AMD Ryzen 5 7520U",
-    "ram_onboard": 0,
+    "ram_onboard": 16,
     "ram_slot1": 0,
     "ram_slot2": 0,
     "ram_total": 16,
-    "ram_type": "DDR5",
-    "ram_layout": "",
+    "ram_type": "LPDDR5",
+    "ram_layout": "1x16",
     "ssd": 512,
     "storage_type": "NVMe",
     "ssd_2": 0,
@@ -2462,12 +2462,12 @@
     "optical_drive": "",
     "inch": 15.6,
     "display_type": "Full HD",
-    "operating_system": "",
+    "operating_system": "Windows 11 Professional 64-Bit",
     "keyboard_layout": "FR",
     "condition": "",
-    "color": "",
-    "asset_status": "",
-    "note": "Notebook Notebook | AMD Ryzen 5 7520U | 16 GB DDR5 | 512 GB NVMe"
+    "color": "Black",
+    "asset_status": "Image",
+    "note": "[FR] Lenovo (FullHD 15,6 Zoll) Ordinateur Portable Gaming (AMD® Ryzen5 7520U 8 Threads, 4.30 GHz, 16Go DDR5, 512 Go SSD, Radeon™ 610M, HDMI, BT, USB 3.0, Cam, Windows 11"
   },
   {
     "model_id": "7471",
@@ -2882,7 +2882,7 @@
     "keyboard_layout": "FR",
     "condition": "",
     "color": "Gray",
-    "asset_status": "",
+    "asset_status": "Image",
     "note": "[FR] Lenovo (17,3 Zoll IPS FHD) Ordinateur Portable (Intel® Core™ U300 13th Gen, 5 cœurs , 4.40 GHz, 16 Go DDR4, 1 To SSD, Intel® UHD®, HDMI, Cam, BT, WLAN, Windows 11"
   },
   {
@@ -2948,7 +2948,7 @@
     "ram_slot2": 8,
     "ram_total": 16,
     "ram_type": "DDR4",
-    "ram_layout": "2x8",
+    "ram_layout": "1x8 + 1x8",
     "ssd": 512,
     "storage_type": "NVMe",
     "ssd_2": 0,
@@ -2960,7 +2960,7 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "Silver",
-    "asset_status": "",
+    "asset_status": "Image",
     "note": "difinity (HD+ 17,3 Zoll) Multimedia Notebook (AMD Ryzen™ 3 3250U 4-Thread CPU, 3.50 GHz, 16 GB DDR4, 512 GB SSD, Radeon™, HDMI, BT, USB 3.0, WLAN, Windows 11"
   },
   {
@@ -3688,7 +3688,7 @@
     "keyboard_layout": "FR",
     "condition": "",
     "color": "",
-    "asset_status": "",
+    "asset_status": "Image",
     "note": "[FR] Lenovo (FullHD 15,6 Zoll) Ordinateur Portable Gaming (AMD Ryzen7 5825U 16 Threads, 4.50 GHz, 24Go DDR4, 1000 Go SSD, Radeon 8-Core, HDMI, BT, USB C, Cam, Windows 11"
   },
   {
@@ -4078,7 +4078,7 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "Silver",
-    "asset_status": "",
+    "asset_status": "Image",
     "note": "difinity Intel Quad (15,6 Zoll Full-HD) lautlos Notebook (Intel® Celeron® Quad N3450 mit 2.20 GHz, 8GB DDR4, 512 GB SSD, USB 3.0, Intel HD Graphics 500, HDMI, Windows 11, MS Office"
   },
   {
@@ -5420,17 +5420,17 @@
     "ram_type": "DDR4",
     "ram_layout": "1x16 + 1x16",
     "ssd": 1000,
-    "storage_type": "M.2 SATA",
+    "storage_type": "NVMe",
     "ssd_2": 0,
     "storage_type_2": "",
     "optical_drive": "",
     "inch": 17.3,
-    "display_type": "",
+    "display_type": "Full HD",
     "operating_system": "Windows 11 Professional 64-Bit",
     "keyboard_layout": "DE",
     "condition": "",
-    "color": "",
-    "asset_status": "",
+    "color": "Silver",
+    "asset_status": "Image",
     "note": "difinity 17,3 Zoll Premium Notebook Made in Germany mit USB-C laden und 3 Jahren Garantie! Intel 13th Gen N95 4x3.40 GHz, 32GB, 1TB, USB 3.0, WLAN, BT, Intel UHD, HDMI, Windows 11"
   },
   {
@@ -5560,7 +5560,7 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "Silver",
-    "asset_status": "",
+    "asset_status": "Image",
     "note": "difinity Intel Quad SSD (15,6 Zoll Full-HD) lautlos Notebook (Intel® Celeron® Quad N3450 mit 2.20 GHz, 8GB DDR4, 256 GB SSD, USB 3.0, Intel HD Graphics 500, LAN, HDMI, Windows 11, MS Office)"
   },
   {
@@ -5664,7 +5664,7 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "",
-    "asset_status": "",
+    "asset_status": "Image",
     "note": "difinity 17,3 Zoll Premium Notebook Made in Germany mit USB-C laden und 3 Jahren Garantie! Intel 13th Gen N95 4x3.40 GHz, 16GB, 512 GB SSD, USB 3.0, WLAN, BT, Intel UHD, HDMI, Windows 11"
   },
   {
@@ -6224,7 +6224,7 @@
     "ram_slot2": 8,
     "ram_total": 16,
     "ram_type": "DDR5",
-    "ram_layout": "2x8",
+    "ram_layout": "1x8 + 1x8",
     "ssd": 1000,
     "storage_type": "NVMe",
     "ssd_2": 0,
@@ -6236,7 +6236,7 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "Silver",
-    "asset_status": "",
+    "asset_status": "Image",
     "note": "difinity 16,0 Zoll HighEnd Gaming Notebook Made in Germany mit 3 Jahren Garantie! Ryzen9 6900HX 16 Threads 4.9 GHz, Radeon RX 680M 8GB, 16GB DDR5, 1TB, USB 3.0, WLAN, BT, Windows 11"
   },
   {
@@ -6344,17 +6344,17 @@
     "note": "[REFURBISHED] HP (15,6 Zoll FullHD) Notebook (AMD Athlon 3050U 2x3.2 GHz, 16 GB DDR4, 512 GB SSD, Radeon RX, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, DVD, Windows 11"
   },
   {
-    "model_id": "8136 FR",
+    "model_id": "8136",
     "product_number": "",
     "product_number_2": "",
     "vendor": "Difinity",
     "cpu": "Intel Celeron N3450",
-    "ram_onboard": 0,
+    "ram_onboard": 8,
     "ram_slot1": 0,
     "ram_slot2": 0,
     "ram_total": 8,
     "ram_type": "DDR4",
-    "ram_layout": "",
+    "ram_layout": "1x8",
     "ssd": 512,
     "storage_type": "SATA SSD 2.5",
     "ssd_2": 0,
@@ -6362,25 +6362,25 @@
     "optical_drive": "",
     "inch": 15.6,
     "display_type": "Full HD",
-    "operating_system": "",
+    "operating_system": "Windows 11 Professional 64-Bit",
     "keyboard_layout": "FR",
     "condition": "",
-    "color": "",
-    "asset_status": "",
-    "note": "Notebook Notebook | Intel Celeron N3450 | 8 GB DDR4 | 512 GB SATA SSD 2.5"
+    "color": "Silver",
+    "asset_status": "Image",
+    "note": "FR] difinity Intel Quad SSD (15,6 Zoll Full-HD) lautlos Notebook (Intel® Celeron® Quad N3450 mit 2.20 GHz, 8GB DDR4, 512 GB SSD, USB 3.0, Intel HD Graphics 500, HDMI, Windows 11"
   },
   {
-    "model_id": "8146 FR",
-    "product_number": "",
+    "model_id": "8146",
+    "product_number": "V17-IAP",
     "product_number_2": "",
     "vendor": "Lenovo",
     "cpu": "Intel Core i5 13420H",
-    "ram_onboard": 0,
-    "ram_slot1": 0,
+    "ram_onboard": 8,
+    "ram_slot1": 32,
     "ram_slot2": 0,
     "ram_total": 40,
     "ram_type": "DDR4",
-    "ram_layout": "",
+    "ram_layout": "1x8 + 1x32",
     "ssd": 2000,
     "storage_type": "M.2 SATA",
     "ssd_2": 0,
@@ -6388,25 +6388,25 @@
     "optical_drive": "",
     "inch": 17.3,
     "display_type": "Full HD",
-    "operating_system": "",
+    "operating_system": "Windows 11 Professional 64-Bit",
     "keyboard_layout": "FR",
     "condition": "",
-    "color": "",
-    "asset_status": "",
-    "note": "Notebook Notebook | Intel Core i5 13420H | 40 GB DDR4 | 2000 GB M.2 SATA"
+    "color": "Black",
+    "asset_status": "Image",
+    "note": "[FR] Lenovo i5 (17,3 Zoll IPS FHD) Ordinateur Portable (Intel® Core™ i5 13420H, 8 cœurs , 4.60 GHz, 40 Go DDR4, 2 To SSD, Intel® UHD®, HDMI, Cam, BT, WLAN, Windows 11"
   },
   {
-    "model_id": "8147 FR",
-    "product_number": "",
+    "model_id": "8147",
+    "product_number": "V17-IAP",
     "product_number_2": "",
     "vendor": "Lenovo",
     "cpu": "Intel Core i5 13420H",
-    "ram_onboard": 0,
-    "ram_slot1": 0,
+    "ram_onboard": 8,
+    "ram_slot1": 16,
     "ram_slot2": 0,
     "ram_total": 24,
     "ram_type": "DDR4",
-    "ram_layout": "",
+    "ram_layout": "1x8 + 1x16",
     "ssd": 1000,
     "storage_type": "M.2 SATA",
     "ssd_2": 0,
@@ -6414,12 +6414,12 @@
     "optical_drive": "",
     "inch": 17.3,
     "display_type": "Full HD",
-    "operating_system": "",
+    "operating_system": "Windows 11 Professional 64-Bit",
     "keyboard_layout": "FR",
     "condition": "",
-    "color": "",
-    "asset_status": "",
-    "note": "Notebook Notebook | Intel Core i5 13420H | 24 GB DDR4 | 1000 GB M.2 SATA"
+    "color": "Black",
+    "asset_status": "Image",
+    "note": "[FR] Lenovo i5 (17,3 Zoll IPS FHD) Ordinateur Portable (Intel® Core™ i5 13420H, 8 cœurs , 4.60 GHz, 24 Go DDR4, 1 To SSD, Intel® UHD®, HDMI, Cam, BT, WLAN, Windows 11"
   },
   {
     "model_id": "8510",
@@ -6448,8 +6448,8 @@
     "note": "[FR] Lenovo (FullHD 15,6 Zoll) Ordinateur Portable (Intel® Dual N4500 2x2.80 GHz, 8 Go DDR4, 256 Go SSD, Intel™ UHD, HDMI, BT, USB 3.0, Webcam, WLAN, Windows 11"
   },
   {
-    "model_id": "8205 FR",
-    "product_number": "",
+    "model_id": "8205",
+    "product_number": "IdeaPad 3 17IAU7",
     "product_number_2": "",
     "vendor": "Lenovo",
     "cpu": "Intel Core i7 1355U",
@@ -6466,12 +6466,12 @@
     "optical_drive": "",
     "inch": 17.3,
     "display_type": "Full HD",
-    "operating_system": "",
+    "operating_system": "Windows 11 Professional 64-Bit",
     "keyboard_layout": "FR",
     "condition": "",
     "color": "Gray",
-    "asset_status": "",
-    "note": "France Lenovo IdeaPad 3 17IAU7"
+    "asset_status": "Image",
+    "note": "[FR] Lenovo i7 (17,3 Zoll IPS FHD) Ordinateur Portable (Intel® Core™ i7 1355U, 10 cœurs , 5 GHz, 24 Go DDR4, 1 To SSD, Intel® Iris® Xe, HDMI, Cam, BT, WLAN, Windows 11"
   },
   {
     "model_id": "8206",
@@ -6492,11 +6492,11 @@
     "optical_drive": "",
     "inch": 17.3,
     "display_type": "Full HD",
-    "operating_system": "",
+    "operating_system": "Windows 11 Professional 64-Bit",
     "keyboard_layout": "FR",
     "condition": "",
     "color": "Gray",
-    "asset_status": "",
+    "asset_status": "Image",
     "note": "[FR] Lenovo i7 (17,3 Zoll IPS FHD) Ordinateur Portable (Intel® Core™ i7 1355U, 10 cœurs , 5 GHz, 40 Go DDR4, 2 To SSD, Intel® Iris® Xe, HDMI, Cam, BT, WLAN, Windows 11"
   },
   {
@@ -6553,7 +6553,7 @@
   },
   {
     "model_id": "8217",
-    "product_number": "",
+    "product_number": "IdeaPad 3 17IAU7",
     "product_number_2": "",
     "vendor": "Lenovo",
     "cpu": "Intel Core i7 1355U",
@@ -6574,12 +6574,12 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "Gray",
-    "asset_status": "",
+    "asset_status": "Image",
     "note": "Lenovo i7 (17,3 Zoll IPS FullHD) Notebook (Intel® Core™ i7 1355U, 10 Kerne, 5 GHz, 24 GB DDR4, 1000 GB SSD, Intel® Iris® Xe, HDMI, Webcam, BT, USB-C/3.0, WLAN, Windows 11"
   },
   {
     "model_id": "8218",
-    "product_number": "",
+    "product_number": "IdeaPad 3 17IAU7",
     "product_number_2": "",
     "vendor": "Lenovo",
     "cpu": "Intel Core i7 1355U",
@@ -6600,7 +6600,7 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "Gray",
-    "asset_status": "",
+    "asset_status": "Image",
     "note": "Lenovo i7 (17,3 Zoll IPS FullHD) Notebook (Intel® Core™ i7 1355U, 10 Kerne, 5.00 GHz, 40 GB DDR4, 2000 GB SSD, Intel® Iris® Xe, HDMI, Webcam, BT, USB-C/3.0, WLAN, Windows 11"
   },
   {
@@ -6640,7 +6640,7 @@
     "ram_slot2": 8,
     "ram_total": 16,
     "ram_type": "DDR4",
-    "ram_layout": "2x8",
+    "ram_layout": "1x8 + 1x8",
     "ssd": 512,
     "storage_type": "NVMe",
     "ssd_2": 0,
@@ -6652,7 +6652,7 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "Silver",
-    "asset_status": "",
+    "asset_status": "Image",
     "note": "difinity Intel Quad (15,6 Zoll Full-HD) Notebook (Intel® Celeron® Quad N5095, 16GB DDR4, 512 GB SSD, USB 3.0, Intel HD Graphics 600, HDMI, Windows 11, MS Office"
   },
   {
@@ -6734,9 +6734,9 @@
     "note": "ASUS (15,6 Zoll FullHD) Premium Notebook (Intel® Core™ 5 120U, 10 Kerne, 5 GHz, 16 GB RAM, 512 GB SSD, Intel Graphics, HDMI, BT, Webcam, USB-C/3.0, WLAN, Windows 11, Office"
   },
   {
-    "model_id": "8254 FR",
-    "product_number": "",
-    "product_number_2": "",
+    "model_id": "8254",
+    "product_number": "IdeaPad 3 17IRU7",
+    "product_number_2": "82X90032FR",
     "vendor": "Lenovo",
     "cpu": "Intel Core i3 1315U",
     "ram_onboard": 8,
@@ -6752,12 +6752,12 @@
     "optical_drive": "",
     "inch": 17.3,
     "display_type": "Full HD",
-    "operating_system": "",
+    "operating_system": "Windows 11 Professional 64-Bit",
     "keyboard_layout": "FR",
     "condition": "",
     "color": "Gray",
-    "asset_status": "",
-    "note": "Lenovo IdeaPad 3 17IRU7 / 82X90032FR"
+    "asset_status": "Image",
+    "note": "[FR] Lenovo (17,3 Zoll IPS FHD) Ordinateur Portable (Intel® Core™ i3 1315U, 24 Go DDR4, 1 To SSD, Intel® UHD®, HDMI, Cam, BT, WLAN, Windows 11"
   },
   {
     "model_id": "8256",
@@ -6891,7 +6891,7 @@
   },
   {
     "model_id": "8265",
-    "product_number": "",
+    "product_number": "V15 G2 IJL",
     "product_number_2": "",
     "vendor": "Lenovo",
     "cpu": "Intel Celeron N4500",
@@ -6912,7 +6912,7 @@
     "keyboard_layout": "FR",
     "condition": "",
     "color": "Black",
-    "asset_status": "",
+    "asset_status": "Image",
     "note": "[FR] Lenovo (FullHD 15,6 Zoll) Ordinateur Portable (Intel® Dual N4500 2x2.80 GHz, 16Go DDR4, 512 Go SSD, Intel™ UHD, HDMI, BT, USB 3.0, Webcam, WLAN, Windows 11"
   },
   {
@@ -6926,7 +6926,7 @@
     "ram_slot2": 8,
     "ram_total": 16,
     "ram_type": "DDR4",
-    "ram_layout": "2x8",
+    "ram_layout": "1x8 + 1x8",
     "ssd": 512,
     "storage_type": "NVMe",
     "ssd_2": 0,
@@ -6938,7 +6938,7 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "Silver",
-    "asset_status": "",
+    "asset_status": "Image",
     "note": "difinity 15.6 Zoll FullHD lautloses Premium Notebook - Made in Germany mit USB-C laden und 3 Jahren Garantie! AMD 3020E 2x2.6 GHz, Radeon Vega3, 16 GB, 512 GB SSD, USB C, WLAN, BT, Windows 11"
   },
   {
@@ -7150,8 +7150,8 @@
     "note": "[REFURBISHED] DELL i3 11th Gen - 16 GB, 512 GB SSD, USB C, LTE, WLAN, BT, Windows 11"
   },
   {
-    "model_id": "8302 FR",
-    "product_number": "",
+    "model_id": "8302",
+    "product_number": "IdeaPad 3 15IRH10R",
     "product_number_2": "",
     "vendor": "Lenovo",
     "cpu": "Intel Core 7 240",
@@ -7163,17 +7163,17 @@
     "ram_layout": "1x8 + 1x16",
     "ssd": 512,
     "storage_type": "NVMe",
-    "ssd_2": 0,
-    "storage_type_2": "",
-    "optical_drive": "",
+    "ssd_2": 512,
+    "storage_type_2": "NVMe",
+    "optical_drive": "None",
     "inch": 15.6,
     "display_type": "Full HD",
-    "operating_system": "",
+    "operating_system": "Windows 11 Professional 64-Bit",
     "keyboard_layout": "FR",
     "condition": "",
     "color": "Gray",
-    "asset_status": "",
-    "note": "Lenovo IdeaPad 3 15IRH10R / Warning : 2x 512 NVMe SSD !!!!!"
+    "asset_status": "Image",
+    "note": "[FR] Lenovo IdeaPad3 Premium Core7 15,3 pouces IPS FullHD+ Ordinateur portable - Intel Core7 240H, 16 threads, 5,20 GHz, 24 Go DDR5, 1000 Go SSD, Wi-Fi 7, HDMI, Webcam, BT, USB-C/3, WLAN, Windows 11[FR] Lenovo IdeaPad3 Premium Core7 15,3 pouces IPS FullHD+ Ordinateur portable - Intel Core7 240H, 16 threads, 5,20 GHz, 24 Go DDR5, 1000 Go SSD, Wi-Fi 7, HDMI, Webcam, BT, USB-C/3, WLAN, Windows 11"
   },
   {
     "model_id": "8303",
@@ -7184,9 +7184,9 @@
     "ram_onboard": 0,
     "ram_slot1": 0,
     "ram_slot2": 0,
-    "ram_total": 16,
+    "ram_total": 0,
     "ram_type": "DDR4",
-    "ram_layout": "",
+    "ram_layout": "0 GB",
     "ssd": 512,
     "storage_type": "NVMe",
     "ssd_2": 0,
@@ -7198,7 +7198,7 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "",
-    "asset_status": "",
+    "asset_status": "Image",
     "note": "difinity Intel Quad (15,6 Zoll Full-HD) Notebook (Intel® Celeron® Quad N5095, 16GB DDR4, 512 GB SSD, USB 3.0, Intel HD Graphics 600, HDMI, Windows 11, MS Office 2024"
   },
   {
@@ -7229,16 +7229,16 @@
   },
   {
     "model_id": "8307",
-    "product_number": "",
+    "product_number": "IdeaPad 3 17IRU7",
     "product_number_2": "",
     "vendor": "Lenovo",
     "cpu": "Intel Core i3 1315U",
     "ram_onboard": 0,
     "ram_slot1": 0,
     "ram_slot2": 0,
-    "ram_total": 16,
+    "ram_total": 0,
     "ram_type": "DDR4",
-    "ram_layout": "2x8",
+    "ram_layout": "0 GB",
     "ssd": 512,
     "storage_type": "NVMe",
     "ssd_2": 0,
@@ -7250,7 +7250,7 @@
     "keyboard_layout": "DE",
     "condition": "",
     "color": "",
-    "asset_status": "",
+    "asset_status": "Image",
     "note": "Lenovo IdeaPad3 i7 17,3 Zoll IPS FullHD Notebook - Intel Core™ i3 1315U, 6 Kerne, 4.50 GHz, 16 GB DDR4, 512 GB SSD, Intel UHD, HDMI, Webcam, BT, USB-C/3, WLAN, Windows 11"
   },
   {
@@ -7666,7 +7666,7 @@
     "keyboard_layout": "FR",
     "condition": "",
     "color": "Silver",
-    "asset_status": "",
+    "asset_status": "Image",
     "note": "[FR] Lenovo (17,3 Zoll IPS FHD) Ordinateur Portable (Intel® Core™ i3 1315U, 16 Go DDR4, 512 Go SSD, Intel® UHD®, HDMI, Cam, BT, WLAN, Windows 11"
   },
   {
@@ -9434,7 +9434,7 @@
     "keyboard_layout": "FR",
     "condition": "",
     "color": "Blue",
-    "asset_status": "",
+    "asset_status": "Image",
     "note": "[FR] ASUS i5 (17,3 Zoll IPS FHD) Ordinateur Portable (Intel® Core™ 5 120U, 10 cœurs , 4.60 GHz, 24 Go DDR4, 1 To SSD, Intel® UHD®, HDMI, Cam, BT, WLAN, Windows 11"
   },
   {
@@ -40582,7 +40582,7 @@
     "keyboard_layout": "FR",
     "condition": "",
     "color": "Silver",
-    "asset_status": "",
+    "asset_status": "Image",
     "note": "[FR] difinity Intel Quad PC Portable 17.3\" HD+ (Intel N3450 4x2.2 GHz, RAM 8G, 256G SSD, WLAN, Bluetooth, Windows 10 Pro) Clavier AZERTY Français"
   },
   {
@@ -40894,7 +40894,7 @@
     "keyboard_layout": "FR",
     "condition": "",
     "color": "",
-    "asset_status": "",
+    "asset_status": "Image",
     "note": "[FR] difinity Intel Quad PC Portable 15.6\" FullHD (Intel N3450 4x2.2 GHz, RAM 8G, 256G SSD, WLAN, Bluetooth, Windows 11 Pro) Clavier AZERTY Français"
   },
   {
@@ -50046,7 +50046,7 @@
     "keyboard_layout": "FR",
     "condition": "",
     "color": "",
-    "asset_status": "",
+    "asset_status": "Image",
     "note": "[FR] Lenovo (17,3 Zoll IPS FHD) Ordinateur Portable (Intel® Core™ U300 13th Gen, 5 cœurs , 4.40 GHz, 16 Go DDR4, 512 Go SSD, Intel® UHD®, HDMI, Cam, BT, WLAN, Windows 11"
   },
   {
@@ -50638,13 +50638,13 @@
     "ssd_2": 0,
     "storage_type_2": "",
     "optical_drive": "None",
-    "inch": "",
+    "inch": 16,
     "display_type": "Full HD IPS",
     "operating_system": "Windows 11 Professional 64-Bit",
     "keyboard_layout": "FR",
     "condition": "",
     "color": "",
-    "asset_status": "",
+    "asset_status": "Image",
     "note": "Lenovo IdeaPad3 Premium Core7 16\" IPS FullHD+ Notebook – Intel Core7 240H, 16 threads, 5,20 GHz, 24 Go DDR5, 1 To SSD, Wi-Fi 7, HDMI, webcam, BT , USB-C/3, Wi-Fi 7, Windows 11"
   },
   {
@@ -52551,11 +52551,11 @@
     "product_number_2": "",
     "vendor": "Asus",
     "cpu": "Intel Core 3 100U",
-    "ram_onboard": 0,
-    "ram_slot1": 8,
+    "ram_onboard": 8,
+    "ram_slot1": 0,
     "ram_slot2": 0,
     "ram_total": 8,
-    "ram_type": "DDR5",
+    "ram_type": "LPDDR5",
     "ram_layout": "1x8",
     "ssd": 128,
     "storage_type": "NVMe",
@@ -52567,7 +52567,7 @@
     "operating_system": "Windows 11 Professional 64-Bit",
     "keyboard_layout": "DE",
     "condition": "",
-    "color": "",
+    "color": "Blue",
     "asset_status": "Image",
     "note": "ASUS (17,3 Zoll FullHD) Premium Notebook (Intel® Core™ 3 100U, 6 Kerne, 4.7 GHz, 8 GB DDR5, 128 GB SSD, Intel Graphics, HDMI, BT, Webcam, USB-C/3.0, WLAN, Windows 11, Office + Acronis True Image Halbjahreslizenz"
   },
