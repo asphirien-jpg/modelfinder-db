@@ -1,14 +1,14 @@
-﻿{
-    "manifest_version":  1,
-    "app":  "ModelFinder",
-    "version":  "V4.32",
-    "platform":  "windows",
-    "package_type":  "program-update",
-    "download_url":  "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/modelfinder/ModelFinder_update_V4.32.zip",
-    "sha256":  "6BED2F47F233080D61E890B23FD8DEA27C53FD81AAF34E44ED65C2794A4E8A7F",
-    "size_bytes":  49858053,
-    "filename":  "ModelFinder_update_V4.32.zip",
-    "repo_path":  "updates/modelfinder/ModelFinder_update_V4.32.zip",
-    "created_at":  "2026-06-25T13:02:21Z",
-    "notes":  "ModelFinder V4.32: Aktuell verglichene Modelle werden im Vergleichs-Header und in der Ergebnisliste mit einem Stern markiert."
+{
+  "manifest_version": 1,
+  "app": "ModelFinder",
+  "version": "V4.33",
+  "platform": "windows",
+  "package_type": "program-update",
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/modelfinder/ModelFinder_update_V4.33.zip",
+  "sha256": "CD367FBC3AD2C77BE8F00E015DA59CFA84D20D927F63A6FC384B0D1FB165CD0F",
+  "size_bytes": 49905243,
+  "filename": "ModelFinder_update_V4.33.zip",
+  "repo_path": "updates/modelfinder/ModelFinder_update_V4.33.zip",
+  "created_at": "2026-06-26T08:35:04Z",
+  "notes": "ModelFinder V4.33: Zeilen per Strg+C kopieren, Info-Feld Config/Image, kompakte Finder-Detailzeile und neue DB-Struktur."
 }

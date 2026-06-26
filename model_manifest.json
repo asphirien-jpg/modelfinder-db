@@ -1,9 +1,11 @@
 {
-  "version": "2026.06.25.16",
+  "version": "2026.06.26.2",
   "models_count": 2029,
-  "sha256": "c07b953b82e6ffbfb311d74c8464ba913c1386b79a0c6fb2b7da94a5e3abeed9",
-  "updated_at": "2026-06-25T13:10:39Z",
+  "sha256": "3ca2e5a40d032d6f7f25d9e52d772fcec583d4182c10d3ae0b70501ca52d7e08",
+  "updated_at": "2026-06-26T08:41:14Z",
   "database_file": "model.json",
   "database_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/model.json",
-  "source_local_file": "model.json"
+  "source_local_file": "origin/main 2026.06.25.16 + notebooks_hmcw2 mod_name repair + asset_status schema + generated notes for missing headlines",
+  "generated_at": "2026-06-26T08:45:55Z",
+  "model_count": 2029
 }
