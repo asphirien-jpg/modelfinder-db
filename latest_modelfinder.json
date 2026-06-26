@@ -1,14 +1,14 @@
-{
-  "manifest_version": 1,
-  "app": "ModelFinder",
-  "version": "V4.34",
-  "platform": "windows",
-  "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/modelfinder/ModelFinder_update_V4.34.zip",
-  "sha256": "27E3ACA0B70F8D740CFAC3DFF087F3322EF1F835C89BFEA7176F53AB4C93F0E4",
-  "size_bytes": 49910104,
-  "filename": "ModelFinder_update_V4.34.zip",
-  "repo_path": "updates/modelfinder/ModelFinder_update_V4.34.zip",
-  "created_at": "2026-06-26T10:41:04Z",
-  "notes": "ModelFinder V4.34: Finder-Details mit Kopfzeile und Komponenten-Zeilen, exakte Modell-ID blendet Detailbox aus, Optionszellen per Rechtsklick oder Strg+C kopierbar."
+﻿{
+    "manifest_version":  1,
+    "app":  "ModelFinder",
+    "version":  "V4.35",
+    "platform":  "windows",
+    "package_type":  "program-update",
+    "download_url":  "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/modelfinder/ModelFinder_update_V4.35.zip",
+    "sha256":  "B89BEFCDC6AB7CA278F941D1B7081FB90418C6BB1B466DA57B2CB8D8924DBA24",
+    "size_bytes":  68069325,
+    "filename":  "ModelFinder_update_V4.35.zip",
+    "repo_path":  "updates/modelfinder/ModelFinder_update_V4.35.zip",
+    "created_at":  "2026-06-26T13:27:01Z",
+    "notes":  "ModelFinder V4.35: Datenbankfeld Software mit Office/Acronis-Auswahl, Software-Zeile im Modellvergleich und Import-Erkennung."
 }
