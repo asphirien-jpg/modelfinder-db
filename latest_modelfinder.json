@@ -1,14 +1,14 @@
 ﻿{
     "manifest_version":  1,
     "app":  "ModelFinder",
-    "version":  "V4.35",
+    "version":  "V4.36",
     "platform":  "windows",
     "package_type":  "program-update",
-    "download_url":  "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/modelfinder/ModelFinder_update_V4.35.zip",
-    "sha256":  "B89BEFCDC6AB7CA278F941D1B7081FB90418C6BB1B466DA57B2CB8D8924DBA24",
-    "size_bytes":  68069325,
-    "filename":  "ModelFinder_update_V4.35.zip",
-    "repo_path":  "updates/modelfinder/ModelFinder_update_V4.35.zip",
-    "created_at":  "2026-06-26T13:27:01Z",
-    "notes":  "ModelFinder V4.35: Datenbankfeld Software mit Office/Acronis-Auswahl, Software-Zeile im Modellvergleich und Import-Erkennung."
+    "download_url":  "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/modelfinder/ModelFinder_update_V4.36.zip",
+    "sha256":  "C62B516A68D4BC8AB31A0E4FB46CBBDCD4F3905D0C58FE0E0CC20FD7CF0DA5AB",
+    "size_bytes":  68067542,
+    "filename":  "ModelFinder_update_V4.36.zip",
+    "repo_path":  "updates/modelfinder/ModelFinder_update_V4.36.zip",
+    "created_at":  "2026-06-29T07:17:32Z",
+    "notes":  "ModelFinder V4.36: Detailanzeige zeigt alle Zeilen ohne Treffer-Zusatzzeile; RAM-Details werden klarer mit Onboard/Slot-Werten formatiert."
 }
