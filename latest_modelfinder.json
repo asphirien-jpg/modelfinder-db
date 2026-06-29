@@ -1,14 +1,14 @@
 {
-  "manifest_version": 1,
-  "app": "ModelFinder",
-  "version": "V4.37",
-  "platform": "windows",
-  "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/modelfinder/ModelFinder_update_V4.37.zip",
-  "sha256": "1f4ff3beea5b156cd746f2fb4bd80be078fed8b637d659af727e7aa867a2ed4a",
-  "size_bytes": 68072258,
-  "filename": "ModelFinder_update_V4.37.zip",
-  "repo_path": "updates/modelfinder/ModelFinder_update_V4.37.zip",
-  "created_at": "2026-06-29T09:59:13Z",
-  "notes": "ModelFinder V4.37: repariert lokale model.json automatisch, wenn die DB-Version gleich ist, der Inhalt aber von GitHub abweicht (fehlende Info/Config/Image)."
+    "manifest_version": 1,
+    "app": "ModelFinder",
+    "version": "V4.38",
+    "platform": "windows",
+    "package_type": "program-update",
+    "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/modelfinder/ModelFinder_update_V4.38.zip",
+    "sha256": "C0CA1E9E1DBF42921D4634D7FA47CCE2235B7F966670DD65F60087A3299F6FF2",
+    "size_bytes": 68073252,
+    "filename": "ModelFinder_update_V4.38.zip",
+    "repo_path": "updates/modelfinder/ModelFinder_update_V4.38.zip",
+    "created_at": "2026-06-29T11:36:53Z",
+    "notes": "ModelFinder V4.38: kombiniert DB-Inhaltsreparatur bei gleicher DB-Version mit geschuetztem Programm-Update-Runner fuer lokale Config/DB-Metadaten."
 }
