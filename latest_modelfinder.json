@@ -1,14 +1,14 @@
-﻿{
-    "manifest_version":  1,
-    "app":  "ModelFinder",
-    "version":  "V4.36",
-    "platform":  "windows",
-    "package_type":  "program-update",
-    "download_url":  "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/modelfinder/ModelFinder_update_V4.36.zip",
-    "sha256":  "C62B516A68D4BC8AB31A0E4FB46CBBDCD4F3905D0C58FE0E0CC20FD7CF0DA5AB",
-    "size_bytes":  68067542,
-    "filename":  "ModelFinder_update_V4.36.zip",
-    "repo_path":  "updates/modelfinder/ModelFinder_update_V4.36.zip",
-    "created_at":  "2026-06-29T07:17:32Z",
-    "notes":  "ModelFinder V4.36: Detailanzeige zeigt alle Zeilen ohne Treffer-Zusatzzeile; RAM-Details werden klarer mit Onboard/Slot-Werten formatiert."
+{
+  "manifest_version": 1,
+  "app": "ModelFinder",
+  "version": "V4.37",
+  "platform": "windows",
+  "package_type": "program-update",
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/modelfinder/ModelFinder_update_V4.37.zip",
+  "sha256": "1f4ff3beea5b156cd746f2fb4bd80be078fed8b637d659af727e7aa867a2ed4a",
+  "size_bytes": 68072258,
+  "filename": "ModelFinder_update_V4.37.zip",
+  "repo_path": "updates/modelfinder/ModelFinder_update_V4.37.zip",
+  "created_at": "2026-06-29T09:59:13Z",
+  "notes": "ModelFinder V4.37: repariert lokale model.json automatisch, wenn die DB-Version gleich ist, der Inhalt aber von GitHub abweicht (fehlende Info/Config/Image)."
 }
