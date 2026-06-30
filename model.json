@@ -6967,10 +6967,10 @@
   },
   {
     "model_id": "8247",
-    "product_number": "X1504VAP",
-    "product_number_2": "MO2KR0",
+    "product_number": "X1504VAP-MO2KR0",
+    "product_number_2": "X1504VAPE_X1504VA",
     "vendor": "Asus",
-    "cpu": "Intel Core i3 1315U",
+    "cpu": "Intel Core 5 120U",
     "ram_onboard": 8,
     "ram_slot1": 8,
     "ram_slot2": 0,
@@ -6990,7 +6990,7 @@
     "color": "Blue",
     "asset_status": "Config",
     "software": "",
-    "note": "ASUS (15,6 Zoll FullHD) Premium Notebook (Intel® Core™ 5 120U, 10 Kerne, 5 GHz, 16 GB RAM, 512 GB SSD, Intel Graphics, HDMI, BT, Webcam, USB-C/3.0, WLAN, Windows 11, Office"
+    "note": "ASUS (15,6 Zoll FullHD) Premium Notebook (Intel? Core? 5 120U, 10 Kerne, 5 GHz, 16 GB RAM, 512 GB SSD, Intel Graphics, HDMI, BT, Webcam, USB-C/3.0, WLAN, Windows 11, Office"
   },
   {
     "model_id": "8254",
@@ -9913,7 +9913,7 @@
     "product_number": "X1504VAP",
     "product_number_2": "MO2KR0",
     "vendor": "Asus",
-    "cpu": "Intel Core i3 1315U",
+    "cpu": "Intel Core 5 120U",
     "ram_onboard": 8,
     "ram_slot1": 8,
     "ram_slot2": 0,
