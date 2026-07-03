@@ -1,14 +1,14 @@
 {
     "manifest_version": 1,
     "app": "ModelFinder",
-    "version": "V4.40",
+    "version": "V4.41",
     "platform": "windows",
     "package_type": "program-update",
-    "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/modelfinder/ModelFinder_update_V4.40.zip",
-    "sha256": "61359EE9F135530607E06F10F9A8919AA12E3BBCABB1764E29BF9214DF9C71D0",
-    "size_bytes": 66883345,
-    "filename": "ModelFinder_update_V4.40.zip",
-    "repo_path": "updates/modelfinder/ModelFinder_update_V4.40.zip",
-    "created_at": "2026-07-03T09:17:59Z",
-    "notes": "ModelFinder V4.40: Kuerzere Modell-Optionsanzeige; Produktcodes werden robuster erkannt und lange Angebotstexte werden nicht mehr als Produktnummer angezeigt."
+    "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/modelfinder/ModelFinder_update_V4.41.zip",
+    "sha256": "1941433DC3C32A3B2B1399ACFE6D5B0C09742CF543942553B76A317BBFA17D6E",
+    "size_bytes": 66882904,
+    "filename": "ModelFinder_update_V4.41.zip",
+    "repo_path": "updates/modelfinder/ModelFinder_update_V4.41.zip",
+    "created_at": "2026-07-03T10:18:28Z",
+    "notes": "ModelFinder V4.41: Optische Laufwerke wie DVD-RW werden in Speicher-/Festplattenanzeigen mit angezeigt."
 }
