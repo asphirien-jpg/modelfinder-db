@@ -34,8 +34,8 @@ Die aktuellen Versions- und Datenbankstaende stehen zuerst in `modelfinder-db`:
 
 Stand beim letzten Vertragsupdate: 2026-07-03
 
-- DB: `2026.07.03.2`
-- ModelFinder: `V4.39`
+- DB: `2026.07.03.4`
+- ModelFinder: `V4.40`
 - HardwareCheck: `v3.74`
 
 Handover-Dateien in anderen Repos koennen aelter sein. Wenn sie abweichen, gilt zuerst das Manifest in `modelfinder-db`; danach die jeweilige Source-Version pruefen.

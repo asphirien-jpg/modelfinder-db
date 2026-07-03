@@ -1,14 +1,14 @@
 {
     "manifest_version": 1,
     "app": "ModelFinder",
-    "version": "V4.39",
+    "version": "V4.40",
     "platform": "windows",
     "package_type": "program-update",
-    "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/modelfinder/ModelFinder_update_V4.39.zip",
-    "sha256": "99CCA1EC9971F77B4268EE1370843F7BD2F36F210B9F3D14E816CF9DD1E23EDE",
-    "size_bytes": 68074279,
-    "filename": "ModelFinder_update_V4.39.zip",
-    "repo_path": "updates/modelfinder/ModelFinder_update_V4.39.zip",
-    "created_at": "2026-06-30T13:12:36Z",
-    "notes": "ModelFinder V4.39: GitHub-Upload speichert und exportiert den aktuellen Formularstand direkt vor dem Upload; DB 2026.06.30.1 korrigiert 8247/8589."
+    "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/modelfinder/ModelFinder_update_V4.40.zip",
+    "sha256": "61359EE9F135530607E06F10F9A8919AA12E3BBCABB1764E29BF9214DF9C71D0",
+    "size_bytes": 66883345,
+    "filename": "ModelFinder_update_V4.40.zip",
+    "repo_path": "updates/modelfinder/ModelFinder_update_V4.40.zip",
+    "created_at": "2026-07-03T09:17:59Z",
+    "notes": "ModelFinder V4.40: Kuerzere Modell-Optionsanzeige; Produktcodes werden robuster erkannt und lange Angebotstexte werden nicht mehr als Produktnummer angezeigt."
 }
