@@ -165,6 +165,13 @@ Erwartete Felder:
 
 Status-Tokens muessen Low-Scope-Tokens sein. Niemals den Admin-/Publisher-Token auf Mitarbeitersticks speichern.
 
+ModelFinder-Status:
+
+- ModelFinder speichert seinen Status-Token pro Windows-PC geschuetzt in der lokalen ModelFinder-Konfiguration.
+- Ein kopierter ModelFinder kann einen geschuetzten Token von einem anderen PC nicht verlaesslich wiederverwenden.
+- Wenn kein lokaler ModelFinder-Status-Token vorhanden ist, darf ModelFinder den Low-Scope-Token eines eingesteckten registrierten HardwareCheck-Sticks aus `hardwarecheck-status-token.txt` fuer die eigene Statusmeldung verwenden.
+- Dadurch koennen HardwareCheck und ModelFinder auf Mitarbeiter-PCs sichtbar werden, ohne den Admin-/Publisher-Token zu verteilen.
+
 ### Debian Live
 
 `Debian_DEV` darf HardwareCheck-Versionen nicht erraten. Es muss die stabile Source aus `HardwareCheck_DEV` und/oder das aktuelle Manifest aus `modelfinder-db` pruefen.
