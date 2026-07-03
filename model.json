@@ -6583,7 +6583,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "",
-    "asset_status": "",
+    "asset_status": "Config",
     "software": "",
     "note": "[REFURBISHED] HP (15,6 Zoll FullHD) Notebook (AMD Athlon 3050U 2x3.2 GHz, 16 GB DDR4, 512 GB SSD, Radeon RX, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, DVD, Windows 11"
   },
