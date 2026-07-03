@@ -1878,7 +1878,7 @@
     "storage_type": "NVMe",
     "ssd_2": 0,
     "storage_type_2": "",
-    "optical_drive": "DVD-RW",
+    "optical_drive": "None",
     "inch": 17.3,
     "display_type": "Full HD",
     "operating_system": "Windows 11 Professional 64-Bit",
@@ -6582,7 +6582,7 @@
     "operating_system": "Windows 11 Professional 64-Bit",
     "keyboard_layout": "DE",
     "condition": "REF",
-    "color": "",
+    "color": "Gray",
     "asset_status": "Config",
     "software": "",
     "note": "[REFURBISHED] HP (15,6 Zoll FullHD) Notebook (AMD Athlon 3050U 2x3.2 GHz, 16 GB DDR4, 512 GB SSD, Radeon RX, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, DVD, Windows 11"
