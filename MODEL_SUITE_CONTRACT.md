@@ -12,6 +12,18 @@ Diese Repos bilden gemeinsam die ModelSuite:
 - `hardwarecheck-status`: Statusdateien von ModelFinder-PCs und HardwareCheck-Sticks.
 - `Debian_DEV`: Debian-Live-Stick-/Installer-/Release-Vorlagen fuer HardwareCheck.
 
+## Gemeinsame Datenbank-Regel
+
+`modelfinder-db/model.json` ist die einzige gemeinsame Modelldatenbank. ModelFinder und HardwareCheck muessen dieselbe Datei ueber GitHub beziehen.
+
+Wichtig:
+
+- ModelFinder darf `model.json` verwalten und veroeffentlichen.
+- HardwareCheck liest dieselbe `model.json` fuer Modellabgleich und DB-Updates.
+- Keine zweite produktive Modelldatenbank in `HardwareCheck_DEV`, `ModelFinder_DEV` oder lokalen Testordnern einfuehren.
+- Schema-Aenderungen zuerst hier dokumentieren, danach in beiden Tools kompatibel umsetzen.
+- Neue Felder muessen alte Tools tolerieren koennen. Bestehende Felder duerfen nicht still umbenannt oder entfernt werden.
+
 ## Aktuelle Wahrheit
 
 Die aktuellen Versions- und Datenbankstaende stehen zuerst in `modelfinder-db`:
@@ -19,6 +31,12 @@ Die aktuellen Versions- und Datenbankstaende stehen zuerst in `modelfinder-db`:
 - `model_manifest.json`
 - `latest_modelfinder.json`
 - `latest_hardwarecheck.json`
+
+Stand beim letzten Vertragsupdate: 2026-07-03
+
+- DB: `2026.07.03.2`
+- ModelFinder: `V4.39`
+- HardwareCheck: `v3.74`
 
 Handover-Dateien in anderen Repos koennen aelter sein. Wenn sie abweichen, gilt zuerst das Manifest in `modelfinder-db`; danach die jeweilige Source-Version pruefen.
 
@@ -31,15 +49,64 @@ Handover-Dateien in anderen Repos koennen aelter sein. Wenn sie abweichen, gilt 
 - `version`
 - `models_count`
 - `sha256`
+- `source_sha256`
+- `canonical_sha256`
+- `local_file_sha256`
 - `updated_at`
+- `database_file`
 - `database_url`
 
-Aenderungen an `model.json` muessen das Manifest aktualisieren.
+Hash-Bedeutung:
+
+- `sha256` / `source_sha256`: Hash der GitHub-Rohdatei, so wie Updater sie herunterladen.
+- `canonical_sha256`: Hash der normalisierten JSON-Daten; stabiler gegen Formatierungsunterschiede.
+- `local_file_sha256`: Hash der lokal geschriebenen Datei; kann wegen Zeilenenden vom GitHub-Rohhash abweichen.
+
+Aenderungen an `model.json` muessen das Manifest aktualisieren. Vor Upload oder Release ausfuehren:
+
+```powershell
+python tools\verify_release_state.py
+```
+
+### Modelldaten-Schema
+
+Consumer sollen unbekannte Felder ignorieren und bekannte Felder tolerant lesen.
+
+Wichtige aktuelle Felder:
+
+- `model_id`
+- `product_number`
+- `product_number_2`
+- `manufacturer`
+- `cpu`
+- `onboard_ram_gb`
+- `slot1_ram_gb`
+- `slot2_ram_gb`
+- `total_ram_gb`
+- `ram_type`
+- `ram_layout`
+- `ssd_gb`
+- `storage_type`
+- `storage2_gb`
+- `storage2_type`
+- `drive`
+- `screen_size`
+- `display`
+- `os`
+- `keyboard`
+- `condition`
+- `color`
+- `info`
+- `software`
+- `note`
+
+`info` wird fuer Hinweise wie `Config` oder `Image` genutzt. `software` kann z. B. Office- oder Acronis-Hinweise enthalten.
 
 ### Programmupdates
 
 `latest_modelfinder.json` und `latest_hardwarecheck.json` muessen enthalten:
 
+- `manifest_version`
 - `app`
 - `version`
 - `platform`
@@ -53,6 +120,16 @@ Aenderungen an `model.json` muessen das Manifest aktualisieren.
 - `notes`
 
 SHA256 und Groesse muessen zum hochgeladenen ZIP passen.
+
+### Updatepakete
+
+ZIPs unter `updates/` sind Updatepakete, keine Arbeitskopien. Sie duerfen nicht geloescht werden, solange alte Tools noch direkt auf diese Pfade aktualisieren.
+
+Langfristige Regel:
+
+- Alte Pakete erst entfernen oder auslagern, wenn ModelFinder und HardwareCheck eine Retention-/Release-Asset-Strategie unterstuetzen.
+- Grosse ModelFinder-ZIPs moeglichst nicht weiter unendlich im Git-Repo ansammeln.
+- Vor dem Entfernen alter ZIPs pruefen, welche Versionen noch im Umlauf sind.
 
 ### HardwareCheck-Stick-Registrierung
 
@@ -88,12 +165,6 @@ Erwartete Felder:
 
 Status-Tokens muessen Low-Scope-Tokens sein. Niemals den Admin-/Publisher-Token auf Mitarbeitersticks speichern.
 
-Aktueller Implementierungsstand ab 2026-05-22:
-
-- HardwareCheck `v3.61` schreibt `db_model_count` und `last_seen` plus `db_models_count` und `last_seen_utc`.
-- ModelFinder `V4.21` schreibt fuer eigene Statusmeldungen dieselben kanonischen Felder plus Aliase.
-- ModelFinder `V4.21` liest `last_seen` oder `last_seen_utc` sowie `hint`, `update_state`, `program_message` oder `db_message`.
-
 ### Debian Live
 
 `Debian_DEV` darf HardwareCheck-Versionen nicht erraten. Es muss die stabile Source aus `HardwareCheck_DEV` und/oder das aktuelle Manifest aus `modelfinder-db` pruefen.
@@ -101,8 +172,9 @@ Aktueller Implementierungsstand ab 2026-05-22:
 ## Codex-Regeln
 
 - Vor Arbeiten an einem ModelSuite-Repo diese Datei lesen.
+- Vor Arbeiten an HardwareCheck/ModelFinder zuerst `modelfinder-db` aktualisieren und die Manifeste pruefen.
 - Versionsupdates immer in Source, Manifest und Doku synchron halten.
 - Statusschema nicht still brechen; kompatible Erweiterungen muessen hier dokumentiert werden.
 - Token-Regeln nicht aufweichen.
 - Bei UI-Aenderungen keine Update-/Statuslogik nebenbei veraendern.
-- Nach Aenderungen `TASKS_NEXT.md` und relevante Handover-Dateien aktualisieren.
+- Nach DB-/Release-Aenderungen `tools\verify_release_state.py` ausfuehren.
