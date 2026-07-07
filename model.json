@@ -44876,7 +44876,7 @@
   {
     "model_id": "7128",
     "product_number": "HP 17-cn0104ng",
-    "product_number_2": "17-cn0104ng",
+    "product_number_2": "76V77EA#ABD",
     "vendor": "HP",
     "cpu": "Intel Celeron N4120",
     "ram_onboard": 0,
@@ -54808,5 +54808,32 @@
     "asset_status": "Image",
     "software": "",
     "note": "Lenovo (15,6 Zoll) Full-HD Notebook (Intel N4500 2x2.80 GHz, 8GB DDR4, 512 GB SSD, Intel UHD, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 11"
+  },
+  {
+    "model_id": "8649",
+    "product_number": "HP 17-cn0104ng",
+    "product_number_2": "76V77EA#ABD",
+    "vendor": "HP",
+    "cpu": "Intel Celeron N4120",
+    "ram_onboard": 0,
+    "ram_slot1": 8,
+    "ram_slot2": 0,
+    "ram_total": 8,
+    "ram_type": "DDR4",
+    "ram_layout": "1x8",
+    "ssd": 512,
+    "storage_type": "SATA SSD 2.5",
+    "ssd_2": 0,
+    "storage_type_2": "",
+    "optical_drive": "None",
+    "inch": 17.3,
+    "display_type": "",
+    "operating_system": "Windows 11 Professional 64-Bit",
+    "keyboard_layout": "DE",
+    "condition": "REF",
+    "color": "",
+    "asset_status": "",
+    "software": "",
+    "note": "HP (17,3 Zoll) Notebook (Intel N4120 2Core 2x2.60 GHz, 8GB RAM, 512 GB SSD, Intel HD600, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, leichte 2kg, Windows 11"
   }
 ]
