@@ -1,0 +1,14 @@
+{
+  "manifest_version": 1,
+  "app": "HardwareCheck",
+  "version": "v3.75",
+  "platform": "debian-live",
+  "package_type": "program-update",
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.74_to_v3.75_pythonzip.zip",
+  "sha256": "B7994F54AD2AE215459F693F52E633AA75DEFBAC1621D795982C9F3FD6C6B147",
+  "size_bytes": 100199,
+  "filename": "HardwareCheck_UPDATE_v3.74_to_v3.75_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.74_to_v3.75_pythonzip.zip",
+  "created_at": "2026-07-08T12:57:16Z",
+  "notes": "v3.75: Modell-Details stabilisiert: Prozentanzeige wird auf 0-100% begrenzt, Detailfenster nutzt mehr Bildschirmflaeche. Aktueller v3.74-Teststand wird als Stable veroeffentlicht."
+}
