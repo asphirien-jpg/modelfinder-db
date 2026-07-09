@@ -51112,7 +51112,7 @@
   },
   {
     "model_id": "7971",
-    "product_number": "HP 17-cn3437ng",
+    "product_number": "B4QB0EA#ABD",
     "product_number_2": "17-cn3437ng",
     "vendor": "HP",
     "cpu": "Intel Core i3 N305",
@@ -51132,7 +51132,7 @@
     "operating_system": "Windows 11 Professional 64-Bit",
     "keyboard_layout": "DE",
     "condition": "",
-    "color": "",
+    "color": "Black",
     "asset_status": "",
     "software": "",
     "note": "HP (17,3 Zoll) HD+ Notebook (Intel® Core™ i3 N305, 8 Kerne, 3.80 GHz, 32 GB DDR4, 512 GB SSD, Intel Xe, HDMI, Webcam, Bluetooth, USB-C + USB 3.0, WLAN, Windows 11"
@@ -54862,5 +54862,32 @@
     "asset_status": "",
     "software": "",
     "note": "HP (17,3 Zoll) FHD Notebook (Intel® Core™ i3 N305, 8 Kerne, 3.80 GHz, 16 GB DDR4, 512 GB SSD, Intel Xe, HDMI, Webcam, Bluetooth, USB-C + USB 3.0, WLAN, Windows 11"
+  },
+  {
+    "model_id": "8651",
+    "product_number": "B4QB0EA#ABD",
+    "product_number_2": "17-cn3437ng",
+    "vendor": "HP",
+    "cpu": "Intel Core i3 N305",
+    "ram_onboard": 0,
+    "ram_slot1": 32,
+    "ram_slot2": 0,
+    "ram_total": 32,
+    "ram_type": "DDR4",
+    "ram_layout": "1x32",
+    "ssd": 512,
+    "storage_type": "NVMe",
+    "ssd_2": 0,
+    "storage_type_2": "",
+    "optical_drive": "None",
+    "inch": 17.3,
+    "display_type": "HD+",
+    "operating_system": "Windows 11 Professional 64-Bit",
+    "keyboard_layout": "DE",
+    "condition": "",
+    "color": "Black",
+    "asset_status": "",
+    "software": "",
+    "note": "HP (17,3 Zoll) HD+ Notebook (Intel® Core™ i3 N305, 8 Kerne, 3.80 GHz, 32 GB DDR4, 512 GB SSD, Intel Xe, HDMI, Webcam, Bluetooth, USB-C + USB 3.0, WLAN, Windows 11"
   }
 ]
