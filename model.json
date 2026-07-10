@@ -54889,5 +54889,32 @@
     "asset_status": "",
     "software": "",
     "note": "HP (17,3 Zoll) HD+ Notebook (Intel® Core™ i3 N305, 8 Kerne, 3.80 GHz, 32 GB DDR4, 512 GB SSD, Intel Xe, HDMI, Webcam, Bluetooth, USB-C + USB 3.0, WLAN, Windows 11"
+  },
+  {
+    "model_id": "8652",
+    "product_number": "HP 17-by0404ng",
+    "product_number_2": "17-by0404ng",
+    "vendor": "HP",
+    "cpu": "Intel Pentium Gold 4417U",
+    "ram_onboard": 0,
+    "ram_slot1": 8,
+    "ram_slot2": 0,
+    "ram_total": 8,
+    "ram_type": "DDR4",
+    "ram_layout": "1x8",
+    "ssd": 512,
+    "storage_type": "SATA SSD 2.5",
+    "ssd_2": 0,
+    "storage_type_2": "",
+    "optical_drive": "DVD-RW",
+    "inch": 17.3,
+    "display_type": "HD",
+    "operating_system": "Windows 11 Professional 64-Bit",
+    "keyboard_layout": "DE",
+    "condition": "REF",
+    "color": "Black",
+    "asset_status": "Config",
+    "software": "",
+    "note": "HP (17,3 Zoll) Notebook (Intel 4417U Dual Core 2.3 GHz, 8GB RAM, 512GB S-ATA SSDD, DVD±RW, Intel HD 610, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 11"
   }
 ]
