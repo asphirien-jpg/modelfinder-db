@@ -1,11 +1,11 @@
 {
-  "version": "2026.07.15.3",
-  "models_count": 2035,
-  "sha256": "19fa529a2d064f63ef9c18ddf5e5113f852f1ae289caff77f88db2f5e4eb4825",
-  "source_sha256": "19fa529a2d064f63ef9c18ddf5e5113f852f1ae289caff77f88db2f5e4eb4825",
-  "canonical_sha256": "5eee8d86e640d443069c25fa8edb6db234ca28317a1d9813d21ba3bcf78937f7",
-  "local_file_sha256": "45a983ad41cc65337a04a14250c8130fd2f24abfdf95bd31801245fbac9d08a6",
-  "updated_at": "2026-07-15T11:18:06Z",
+  "version": "2026.07.15.5",
+  "models_count": 2036,
+  "sha256": "cf0346594d938f09b70e54f2b12cebd62d1c9e0580779b6ee476f5604edfe14d",
+  "source_sha256": "cf0346594d938f09b70e54f2b12cebd62d1c9e0580779b6ee476f5604edfe14d",
+  "canonical_sha256": "061c57e09233f28b9cfbb90653c9df816abc5eba58be3cfa7228337224e9944e",
+  "local_file_sha256": "01967c5243b3add7e32daa72538c0efd8683c24aaed5b5f9a461dcb1e701d3b6",
+  "updated_at": "2026-07-15T13:27:50Z",
   "database_file": "model.json",
   "database_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/model.json",
   "source_local_file": "model.json"
