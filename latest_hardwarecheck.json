@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v3.76",
+  "version": "v3.77",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.75_to_v3.76_pythonzip.zip",
-  "sha256": "7BBF424431CE8F07F9CB0BED49215C19CD16CA6E1C163EEEB7CAF50B434B9FEC",
-  "size_bytes": 100597,
-  "filename": "HardwareCheck_UPDATE_v3.75_to_v3.76_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.75_to_v3.76_pythonzip.zip",
-  "created_at": "2026-07-10T14:19:27Z",
-  "notes": "v3.76: Modell-Details weiter Richtung ModelFinder: Treffer-Prozente bleiben auf 0-100% begrenzt, Rohwert wird nur als Diagnose angezeigt, Seriennummern werden bei der Modellfindung bewusst ignoriert, Produktkennungen werden in der Detailansicht gezeigt, das Detailfenster nutzt mehr Platz. Zusaetzlich wurde Textfeld-Fokus fuer echte Tastaturen stabilisiert."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.76_to_v3.77_pythonzip.zip",
+  "sha256": "EA1A81E06C7FF321D1EA98D648CBD461ED3BF7E6E61C802F9F337FE5FE5D1DCB",
+  "size_bytes": 113507,
+  "filename": "HardwareCheck_UPDATE_v3.76_to_v3.77_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.76_to_v3.77_pythonzip.zip",
+  "created_at": "2026-07-15T11:49:05Z",
+  "notes": "v3.77: Der auf dem echten HardwareCheck-Teststick gepruefte ModelFinder-artige Finder ist jetzt stabil. Er vergleicht ein bis vier Datenbankmodelle mit optionalen Live-Geraetedaten, erlaubt den direkten Vergleich per Trefferklick, markiert aktive Vergleichsmodelle mit Sternen, sucht anhand gewaehlter Optionen nach vergleichbaren Modellen und blendet die Bildschirmtastatur nur bei Bedarf ein. 1000/1024-GB-Kapazitaeten gelten als gleichwertig, NVMe und SATA bleiben getrennt."
 }
