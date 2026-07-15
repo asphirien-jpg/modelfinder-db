@@ -54943,5 +54943,32 @@
     "asset_status": "Config",
     "software": "",
     "note": "HP (17,3 Zoll) Notebook (Intel i3-1005G1, 8GB RAM, 512 GB SSD, DVD±RW, Intel HD 600, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 10"
+  },
+  {
+    "model_id": "8653",
+    "product_number": "4H3M9EA#ABD",
+    "product_number_2": "17-cn0142ng",
+    "vendor": "HP",
+    "cpu": "Intel Core i5 1135G7",
+    "ram_onboard": 0,
+    "ram_slot1": 4,
+    "ram_slot2": 16,
+    "ram_total": 20,
+    "ram_type": "DDR4",
+    "ram_layout": "1x4 + 1x16",
+    "ssd": 1000,
+    "storage_type": "NVMe",
+    "ssd_2": 0,
+    "storage_type_2": "",
+    "optical_drive": "None",
+    "inch": 17.3,
+    "display_type": "Full HD",
+    "operating_system": "Windows 11 Professional 64-Bit",
+    "keyboard_layout": "DE",
+    "condition": "REF",
+    "color": "Black",
+    "asset_status": "Config",
+    "software": "",
+    "note": "HP i5 Gaming (17,3 Zoll) Full-HD Notebook (Intel Core i5 1135G7 8-Thread CPU 4.20 GHz, 20GB DDR4, 1 TB SSD, Intel® Iris® Xe, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 11"
   }
 ]
