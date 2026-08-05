@@ -31,12 +31,14 @@ Die aktuellen Versions- und Datenbankstaende stehen zuerst in `modelfinder-db`:
 - `model_manifest.json`
 - `latest_modelfinder.json`
 - `latest_hardwarecheck.json`
+- `latest_hardwarecheck_v5.json`
 
-Stand beim letzten Vertragsupdate: 2026-07-03
+Stand beim letzten Vertragsupdate: 2026-08-05
 
-- DB: `2026.07.03.6`
+- DB: `2026.08.05.2`
 - ModelFinder: `V4.41`
-- HardwareCheck: `v3.74`
+- HardwareCheck: `v5.0`
+- HardwareCheck-Migration: `v3.78` -> `v4.99` (Bruecke) -> `v5.0`
 
 Handover-Dateien in anderen Repos koennen aelter sein. Wenn sie abweichen, gilt zuerst das Manifest in `modelfinder-db`; danach die jeweilige Source-Version pruefen.
 
@@ -104,7 +106,8 @@ Wichtige aktuelle Felder:
 
 ### Programmupdates
 
-`latest_modelfinder.json` und `latest_hardwarecheck.json` muessen enthalten:
+`latest_modelfinder.json`, `latest_hardwarecheck.json` und
+`latest_hardwarecheck_v5.json` muessen enthalten:
 
 - `manifest_version`
 - `app`
@@ -120,6 +123,17 @@ Wichtige aktuelle Felder:
 - `notes`
 
 SHA256 und Groesse muessen zum hochgeladenen ZIP passen.
+
+HardwareCheck verwendet ab v5 zwei getrennte Manifestpfade:
+
+- `latest_hardwarecheck.json` bleibt auf der Ein-Datei-Bruecke `v4.99`, damit
+  alte v3.78-Sticks auch spaeter noch die erweiterte Allowlist erhalten.
+- Bruecke und v5 lesen `latest_hardwarecheck_v5.json`. Dieses Manifest liefert
+  v5.0 und alle kuenftigen v5-Programmupdates aus.
+
+Die Bruecke darf nur `hardwarecheck_fast_gui.py` ersetzen. Erst danach darf das
+v5-Paket zusaetzlich `hardwarecheck_v5_gui.py` installieren. Lokale Daten bleiben
+in beiden Manifesten unter `preserve_paths` geschuetzt.
 
 ### Updatepakete
 

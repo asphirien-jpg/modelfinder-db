@@ -1,0 +1,14 @@
+{
+  "manifest_version": 1,
+  "app": "HardwareCheck",
+  "version": "v5.0",
+  "platform": "debian-live",
+  "package_type": "program-update",
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v4.99_to_v5.0_pythonzip.zip",
+  "sha256": "70948563ADFC88A20859BAEA919491301B37B9E3F221A68B4189DD13A40033DB",
+  "size_bytes": 158705,
+  "filename": "HardwareCheck_UPDATE_v4.99_to_v5.0_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v4.99_to_v5.0_pythonzip.zip",
+  "created_at": "2026-08-05T07:38:01Z",
+  "notes": "HardwareCheck v5.0: neue native GTK-Oberflaeche mit modernem Dashboard, erweitertem ModelFinder, Akku-Test, WLAN-Schnellauswahl, Drucken, Reports und Legacy-Rueckfall. DB- und Programmupdates zeigen auffaellige Hinweise sowie Prozentfortschritt; Ein/Aus-Aktionen werden nach der Menueauswahl direkt ausgefuehrt. Lokale Betriebsdaten bleiben geschuetzt."
+}

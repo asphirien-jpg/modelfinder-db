@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v3.75",
+  "version": "v4.99",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.74_to_v3.75_pythonzip.zip",
-  "sha256": "B7994F54AD2AE215459F693F52E633AA75DEFBAC1621D795982C9F3FD6C6B147",
-  "size_bytes": 100199,
-  "filename": "HardwareCheck_UPDATE_v3.74_to_v3.75_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.74_to_v3.75_pythonzip.zip",
-  "created_at": "2026-07-08T12:57:16Z",
-  "notes": "v3.75: Modell-Details stabilisiert: Prozentanzeige wird auf 0-100% begrenzt, Detailfenster nutzt mehr Bildschirmflaeche. Aktueller v3.74-Teststand wird als Stable veroeffentlicht."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.78_to_v4.99_bridge_pythonzip.zip",
+  "sha256": "6337D0475C8B830F9274B55967FBC95DEEDE53BFD3774DFBCC301A98E2253867",
+  "size_bytes": 122508,
+  "filename": "HardwareCheck_UPDATE_v3.78_to_v4.99_bridge_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.78_to_v4.99_bridge_pythonzip.zip",
+  "created_at": "2026-08-05T07:38:01Z",
+  "notes": "Kompatibilitaetsbruecke fuer bestehende HardwareCheck-v3.78-Sticks. Ersetzt nur die bereits erlaubte Hauptdatei, behaelt die Legacy-Oberflaeche als sicheren Zwischenschritt und meldet danach das separate v5.0-Update. Lokale WLANs, Druckerprofile, Datenbank, Reports, Geraeteidentitaet und Status-Token bleiben erhalten."
 }
