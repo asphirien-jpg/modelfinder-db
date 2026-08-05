@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v3.78",
+  "version": "v4.99",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.77_to_v3.78_pythonzip.zip",
-  "sha256": "8DB4A00CB5D1E35D9312347AEA9D3D31704F0716D3087D3AAA0B83728871286F",
-  "size_bytes": 119372,
-  "filename": "HardwareCheck_UPDATE_v3.77_to_v3.78_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.77_to_v3.78_pythonzip.zip",
-  "created_at": "2026-07-31T11:36:21Z",
-  "notes": "v3.78: Der auf echten Notebooks und dem HardwareCheck-Teststick gepruefte Akku-Test ist jetzt stabil. Das Dashboard zeigt Akkustand, Kapazitaetsgesundheit, Leistung, Ladezyklen, Verlauf und Zeitprognosen ohne zusaetzliche Abhaengigkeiten. Controller-Kapazitaetswert und beobachtete Ladefunktion werden getrennt bewertet: unplausible Telemetrie wie 1.1 V gilt nicht mehr als gesund, ein Lade-Test unter 95 Prozent meldet nach 15 Minuten ohne Anstieg deutlich 'laedt nicht', und plausible Werte knapp ueber 100 Prozent werden bei neuen Akkus erklaert. TXT- und HTML-Akku-Reports verwenden dieselbe Bewertung; lokale Battery Reports und Einstellungen bleiben geschuetzt."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v3.78_to_v4.99_bridge_pythonzip.zip",
+  "sha256": "6337D0475C8B830F9274B55967FBC95DEEDE53BFD3774DFBCC301A98E2253867",
+  "size_bytes": 122508,
+  "filename": "HardwareCheck_UPDATE_v3.78_to_v4.99_bridge_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v3.78_to_v4.99_bridge_pythonzip.zip",
+  "created_at": "2026-08-05T07:38:01Z",
+  "notes": "Kompatibilitaetsbruecke fuer bestehende HardwareCheck-v3.78-Sticks. Ersetzt nur die bereits erlaubte Hauptdatei, behaelt die Legacy-Oberflaeche als sicheren Zwischenschritt und meldet danach das separate v5.0-Update. Lokale WLANs, Druckerprofile, Datenbank, Reports, Geraeteidentitaet und Status-Token bleiben erhalten."
 }

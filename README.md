@@ -16,7 +16,9 @@ Beide Tools duerfen lokal Kopien nutzen, aber die veroeffentlichte Wahrheit lieg
 - `model.json`: gemeinsame Modelldatenbank.
 - `model_manifest.json`: Version, Modellanzahl und Hashes der Modelldatenbank.
 - `latest_modelfinder.json`: aktuelles ModelFinder-Programmpaket.
-- `latest_hardwarecheck.json`: aktuelles HardwareCheck-Programmpaket.
+- `latest_hardwarecheck.json`: dauerhafte Kompatibilitaetsbruecke fuer bestehende
+  HardwareCheck-v3.78-Sticks.
+- `latest_hardwarecheck_v5.json`: aktuelles HardwareCheck-v5-Programmpaket.
 - `updates/modelfinder/`: ModelFinder-Update-ZIPs.
 - `updates/hardwarecheck/`: HardwareCheck-Update-ZIPs.
 - `MODEL_SUITE_CONTRACT.md`: Schnittstellenvertrag fuer alle beteiligten Repos.
