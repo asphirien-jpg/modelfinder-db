@@ -37980,13 +37980,13 @@
     "optical_drive": "None",
     "inch": 17.3,
     "display_type": "HD+",
-    "operating_system": "Windows 10 Pro",
+    "operating_system": "Windows 11 Professional 64-Bit",
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Black",
     "asset_status": "Config",
     "software": "",
-    "note": "[REFURBISHED] HP (17,3 Zoll) HD+ Notebook (Intel Core i3 10110U 4-Thread CPU, 8GB DDR4, 256 GB SSD, Intel UHD, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, MS Office, Windows 10 Prof. 64 Bit)"
+    "note": "[REFURBISHED] HP (17,3 Zoll) HD+ Notebook (Intel Core i3 10110U 4-Thread CPU, 8GB DDR4, 256 GB SSD, Intel UHD, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, MS Office, Windows 11 Prof. 64 Bit)"
   },
   {
     "model_id": "6465",
@@ -54970,5 +54970,32 @@
     "asset_status": "Config",
     "software": "",
     "note": "HP i5 Gaming (17,3 Zoll) Full-HD Notebook (Intel Core i5 1135G7 8-Thread CPU 4.20 GHz, 20GB DDR4, 1 TB SSD, Intel® Iris® Xe, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 11"
+  },
+  {
+    "model_id": "8661",
+    "product_number": "8KX62EA#ABD",
+    "product_number_2": "17-BY2105ng",
+    "vendor": "HP",
+    "cpu": "Intel Core i3 10110U",
+    "ram_onboard": 0,
+    "ram_slot1": 8,
+    "ram_slot2": 8,
+    "ram_total": 16,
+    "ram_type": "DDR4",
+    "ram_layout": "1x8 + 1x8",
+    "ssd": 256,
+    "storage_type": "NVMe",
+    "ssd_2": 0,
+    "storage_type_2": "",
+    "optical_drive": "None",
+    "inch": 17.3,
+    "display_type": "HD+",
+    "operating_system": "Windows 11 Professional 64-Bit",
+    "keyboard_layout": "DE",
+    "condition": "REF",
+    "color": "Black",
+    "asset_status": "Config",
+    "software": "",
+    "note": "[REFURBISHED] HP (17,3 Zoll) HD+ Notebook (Intel Core i3 10110U 4-Thread CPU, 16GB DDR4, 256 GB SSD, Intel UHD, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, MS Office, Windows 11 Prof. 64 Bit)"
   }
 ]
