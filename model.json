@@ -75,8 +75,8 @@
     "operating_system": "Windows 11 Professional 64-Bit",
     "keyboard_layout": "DE",
     "condition": "REF",
-    "color": "Gray",
-    "asset_status": "",
+    "color": "Black",
+    "asset_status": "Config",
     "software": "",
     "note": "[REFURBISHED] Lenovo (15,6 Zoll) Notebook (AMD A4-9125 Dual Core 2x2.6 GHz, 8GB DDR4 RAM, 512GB SSD, Radeon R3, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 11 Prof. 64 Bit, MS Office 2010 Starter)"
   },
