@@ -34858,7 +34858,7 @@
   },
   {
     "model_id": "6308",
-    "product_number": "5405U mit V340-17I",
+    "product_number": "V340-17IWL",
     "product_number_2": "",
     "vendor": "Lenovo",
     "cpu": "Intel Pentium 5405U",
@@ -34872,16 +34872,16 @@
     "storage_type": "SATA SSD 2.5",
     "ssd_2": 0,
     "storage_type_2": "",
-    "optical_drive": "None",
+    "optical_drive": "DVD-RW",
     "inch": 17.3,
-    "display_type": "HD",
-    "operating_system": "Windows 10 Pro",
+    "display_type": "HD+",
+    "operating_system": "Windows 11 Professional 64-Bit",
     "keyboard_layout": "DE",
     "condition": "REF",
-    "color": "",
-    "asset_status": "",
+    "color": "Gray/Black",
+    "asset_status": "Config",
     "software": "",
-    "note": "[REFURBISHED] Lenovo (17,3 Zoll) Notebook (Intel Pentium 5405U 4-Thread CPU, 2.30 GHz, 8GB DDR4 RAM, 512GB SSD, Intel HD 610, HDMI, Webcam, Bluetooth, USB3.0, WLAN, Win 10"
+    "note": "[REFURBISHED] Lenovo (17,3 Zoll) Notebook (Intel Pentium 5405U 4-Thread CPU, 2.30 GHz, 8GB DDR4 RAM, 512GB SSD, Intel HD 610, HDMI, Webcam, Bluetooth, USB3.0, WLAN, Win 11 + DVD Bonus"
   },
   {
     "model_id": "6309",
