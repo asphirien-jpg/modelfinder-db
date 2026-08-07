@@ -3252,7 +3252,7 @@
     "ram_type": "DDR4",
     "ram_layout": "1x16",
     "ssd": 512,
-    "storage_type": "NVMe",
+    "storage_type": "SATA SSD 2.5",
     "ssd_2": 0,
     "storage_type_2": "",
     "optical_drive": "None",
@@ -3264,7 +3264,7 @@
     "color": "Black",
     "asset_status": "Config + Image",
     "software": "G-DATA Internet Security Halbjahreslizenz",
-    "note": "Lenovo (15,6 Zoll Full-HD Notebook (Intel® Quad N5100 4x2.80 GHz, 16GB DDR4, 512 GB SSD, Intel UHD, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 11 Prof. 64"
+    "note": "Lenovo (15,6 Zoll Full-HD Notebook (Intel® Quad N6000 4x2.80 GHz, 16GB DDR4, 512 GB SSD, Intel UHD, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 11 Prof. 64 POZOR! STARY VERZE = 5100 NOVY VERZE = N6000!!"
   },
   {
     "model_id": "7614",
