@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.1",
+  "version": "v5.3",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.0_to_v5.1_pythonzip.zip",
-  "sha256": "FE62B1291ED1372F7D5E8B4E979AF42CBBF7A13F937F5F1847B18E74220A5881",
-  "size_bytes": 175822,
-  "filename": "HardwareCheck_UPDATE_v5.0_to_v5.1_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.0_to_v5.1_pythonzip.zip",
-  "created_at": "2026-08-06T09:00:03Z",
-  "notes": "HardwareCheck v5.1: adaptiver Akku-Werkstatttest mit 30- bis 60-Minuten-Auswertung, klarer Gesamtbewertung, Handlungsempfehlung, Live-Verlauf und verstaendlichem kompaktem Druckbericht. Der neue Versionsverlauf dokumentiert die sichtbaren Meilensteine von V1 bis V5.1 in DE/EN/CZ. Lokale WLANs, Druckerprofile, Datenbank, Reports und Geraeteidentitaet bleiben geschuetzt."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.2_to_v5.3_pythonzip.zip",
+  "sha256": "8C6125586A5FC28B2507F9CF03BA8CEE8012BFD5F1C5F65C81A1256DF02D128F",
+  "size_bytes": 214940,
+  "filename": "HardwareCheck_UPDATE_v5.2_to_v5.3_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.2_to_v5.3_pythonzip.zip",
+  "created_at": "2026-08-12T13:32:58Z",
+  "notes": "HardwareCheck v5.3: Magic Image ergaenzt die bestehende Hardware- und Modellerkennung um bewusste Config-, Image- und Zielauswahl, Clonezilla als gepruefte Hintergrund-Engine, Abweichungswarnungen, Restore-Fortschritt und automatischen Windows-Handoff. Der bewaehrte Treiber-/Config-Ablauf bleibt erhalten. Das Paket ist direkt mit dem v5.2-Updater kompatibel; lokale WLANs, Druckerprofile, Datenbank, Reports, Backups und Geraeteidentitaet bleiben geschuetzt. Acronis ist noch nicht freigegeben."
 }

@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.2",
+  "version": "v5.3",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.1_to_v5.2_pythonzip.zip",
-  "sha256": "91DAE0E04731B0B4AD6B63429DD7CA66355E3F08ED23118D55C0A47CA3BEBDF1",
-  "size_bytes": 191844,
-  "filename": "HardwareCheck_UPDATE_v5.1_to_v5.2_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.1_to_v5.2_pythonzip.zip",
-  "created_at": "2026-08-07T12:58:50Z",
-  "notes": "HardwareCheck v5.2: sieben waehlbare Oberflaechen mit speicherbaren Akzentfarben. Studio Panels bietet kompakte Modellkarten, optimierte ModelFinder-Auswahl, CPU-sichere Trefferbewertung sowie eine eigenstaendige Akku-Darstellung mit Live-Verlauf und animiertem Ring. Der Versionsverlauf ist in DE/EN/CZ aktualisiert. Lokale WLANs, Druckerprofile, Datenbank, Reports und Geraeteidentitaet bleiben geschuetzt."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.2_to_v5.3_pythonzip.zip",
+  "sha256": "8C6125586A5FC28B2507F9CF03BA8CEE8012BFD5F1C5F65C81A1256DF02D128F",
+  "size_bytes": 214940,
+  "filename": "HardwareCheck_UPDATE_v5.2_to_v5.3_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.2_to_v5.3_pythonzip.zip",
+  "created_at": "2026-08-12T13:32:58Z",
+  "notes": "HardwareCheck v5.3: Magic Image ergaenzt die bestehende Hardware- und Modellerkennung um bewusste Config-, Image- und Zielauswahl, Clonezilla als gepruefte Hintergrund-Engine, Abweichungswarnungen, Restore-Fortschritt und automatischen Windows-Handoff. Der bewaehrte Treiber-/Config-Ablauf bleibt erhalten. Das Paket ist direkt mit dem v5.2-Updater kompatibel; lokale WLANs, Druckerprofile, Datenbank, Reports, Backups und Geraeteidentitaet bleiben geschuetzt. Acronis ist noch nicht freigegeben."
 }
