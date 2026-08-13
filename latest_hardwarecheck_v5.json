@@ -1,14 +1,14 @@
 {
-  "manifest_version": 1,
-  "app": "HardwareCheck",
-  "version": "v5.3.2",
-  "platform": "debian-live",
-  "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.3.1_to_v5.3.2_pythonzip.zip",
-  "sha256": "9E02669634F81D6F39CF25EA6851CC07B5217E2A8AA3E9363907716A32B32207",
-  "size_bytes": 203246,
-  "filename": "HardwareCheck_UPDATE_v5.3.1_to_v5.3.2_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.3.1_to_v5.3.2_pythonzip.zip",
-  "created_at": "2026-08-13T10:45:00Z",
-  "notes": "HardwareCheck v5.3.2: Layout-Randkorrektur fuer alle Oberflaechen. Kopfzeile und Navigation koennen auf kleineren Aufloesungen weiter schrumpfen; breite Seiten bleiben horizontal erreichbar statt am rechten Rand abgeschnitten zu werden. Das Batterie-Diagramm erzeugt keine starre Mindestbreite. Magic Image, Acronis, Windows-Handoff sowie lokale Daten bleiben unveraendert."
+    "manifest_version":  1,
+    "app":  "HardwareCheck",
+    "version":  "v5.3.6",
+    "platform":  "debian-live",
+    "package_type":  "program-update",
+    "download_url":  "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.3.1_to_v5.3.6_pythonzip.zip",
+    "sha256":  "84260345AE99F8EBAEF2BEB65604033630C887BBD98E17AFC1CB4F9DA537ABCB",
+    "size_bytes":  203692,
+    "filename":  "HardwareCheck_UPDATE_v5.3.1_to_v5.3.6_pythonzip.zip",
+    "repo_path":  "updates/hardwarecheck/HardwareCheck_UPDATE_v5.3.1_to_v5.3.6_pythonzip.zip",
+    "created_at":  "2026-08-13T13:50:00Z",
+    "notes":  "HardwareCheck v5.3.6: stabile, auf echter Testhardware geprüfte Layout-Korrektur für HD, HD+ und Full HD. Alle Oberflächen bleiben erreichbar; die Kopfzeile nutzt bei 1600 × 900 lesbareren Platz. Die Akku-Übersicht wird korrekt groß dargestellt. Der leuchtende Ring animiert ausschließlich während eines bewusst gestarteten Akku-Lade- oder Entlade-Tests. Magic Image, Acronis, Windows-Handoff sowie lokale Daten bleiben unverändert."
 }
