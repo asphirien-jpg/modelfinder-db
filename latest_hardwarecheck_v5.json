@@ -1,14 +1,14 @@
 {
     "manifest_version":  1,
     "app":  "HardwareCheck",
-    "version":  "v5.3.6",
+    "version":  "v5.3.7",
     "platform":  "debian-live",
     "package_type":  "program-update",
-    "download_url":  "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.3.1_to_v5.3.6_pythonzip.zip",
-    "sha256":  "84260345AE99F8EBAEF2BEB65604033630C887BBD98E17AFC1CB4F9DA537ABCB",
-    "size_bytes":  203692,
-    "filename":  "HardwareCheck_UPDATE_v5.3.1_to_v5.3.6_pythonzip.zip",
-    "repo_path":  "updates/hardwarecheck/HardwareCheck_UPDATE_v5.3.1_to_v5.3.6_pythonzip.zip",
-    "created_at":  "2026-08-13T13:50:00Z",
-    "notes":  "HardwareCheck v5.3.6: stabile, auf echter Testhardware geprüfte Layout-Korrektur für HD, HD+ und Full HD. Alle Oberflächen bleiben erreichbar; die Kopfzeile nutzt bei 1600 × 900 lesbareren Platz. Die Akku-Übersicht wird korrekt groß dargestellt. Der leuchtende Ring animiert ausschließlich während eines bewusst gestarteten Akku-Lade- oder Entlade-Tests. Magic Image, Acronis, Windows-Handoff sowie lokale Daten bleiben unverändert."
+    "download_url":  "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.3.1_to_v5.3.7_pythonzip.zip",
+    "sha256":  "49F0D20A2B170B818CBF7ABD01397F82F8D6A64319C145CECEBF23BEF4D8CD2B",
+    "size_bytes":  217371,
+    "filename":  "HardwareCheck_UPDATE_v5.3.1_to_v5.3.7_pythonzip.zip",
+    "repo_path":  "updates/hardwarecheck/HardwareCheck_UPDATE_v5.3.1_to_v5.3.7_pythonzip.zip",
+    "created_at":  "2026-08-13T14:10:00Z",
+    "notes":  "HardwareCheck v5.3.7: Reparatur für ältere v5-Sticks. Das geprüfte Update liefert das fehlende Magic-Image-Modul einmalig im Payload nach und installiert es nur, wenn es auf dem Stick fehlt. Vorhandene Magic-Image-Dateien werden nicht überschrieben. v5 startet danach wieder direkt in der neuen GTK-Oberfläche. Die geprüften Layout-, Akku- und Auflösungsverbesserungen aus v5.3.6 bleiben enthalten."
 }
