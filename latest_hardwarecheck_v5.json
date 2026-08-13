@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.3",
+  "version": "v5.3.1",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.2_to_v5.3_pythonzip.zip",
-  "sha256": "8C6125586A5FC28B2507F9CF03BA8CEE8012BFD5F1C5F65C81A1256DF02D128F",
-  "size_bytes": 214940,
-  "filename": "HardwareCheck_UPDATE_v5.2_to_v5.3_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.2_to_v5.3_pythonzip.zip",
-  "created_at": "2026-08-12T13:32:58Z",
-  "notes": "HardwareCheck v5.3: Magic Image ergaenzt die bestehende Hardware- und Modellerkennung um bewusste Config-, Image- und Zielauswahl, Clonezilla als gepruefte Hintergrund-Engine, Abweichungswarnungen, Restore-Fortschritt und automatischen Windows-Handoff. Der bewaehrte Treiber-/Config-Ablauf bleibt erhalten. Das Paket ist direkt mit dem v5.2-Updater kompatibel; lokale WLANs, Druckerprofile, Datenbank, Reports, Backups und Geraeteidentitaet bleiben geschuetzt. Acronis ist noch nicht freigegeben."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.3_to_v5.3.1_pythonzip.zip",
+  "sha256": "344F4BD3451A5F90EFC0020EA732CAFB904CA49D04DB3A978A2F29E208CDE2E1",
+  "size_bytes": 202812,
+  "filename": "HardwareCheck_UPDATE_v5.3_to_v5.3.1_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.3_to_v5.3.1_pythonzip.zip",
+  "created_at": "2026-08-13T09:00:00Z",
+  "notes": "HardwareCheck v5.3.1: Darstellungs-Hotfix fuer HD-, HD+- und Full-HD-Displays. Die Oberflaeche passt sich an die verfuegbare Pixelgroesse an; Kopfzeile und Navigation werden auf kleineren Aufloesungen kompakter, und alle Seiten bleiben erreichbar. Das Paket ersetzt ausschliesslich die beiden Programmoberflaechen. Magic Image, Acronis, Windows-Handoff sowie lokale Daten bleiben unveraendert."
 }
