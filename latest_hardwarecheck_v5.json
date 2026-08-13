@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.3.1",
+  "version": "v5.3.2",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.3_to_v5.3.1_pythonzip.zip",
-  "sha256": "344F4BD3451A5F90EFC0020EA732CAFB904CA49D04DB3A978A2F29E208CDE2E1",
-  "size_bytes": 202812,
-  "filename": "HardwareCheck_UPDATE_v5.3_to_v5.3.1_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.3_to_v5.3.1_pythonzip.zip",
-  "created_at": "2026-08-13T09:00:00Z",
-  "notes": "HardwareCheck v5.3.1: Darstellungs-Hotfix fuer HD-, HD+- und Full-HD-Displays. Die Oberflaeche passt sich an die verfuegbare Pixelgroesse an; Kopfzeile und Navigation werden auf kleineren Aufloesungen kompakter, und alle Seiten bleiben erreichbar. Das Paket ersetzt ausschliesslich die beiden Programmoberflaechen. Magic Image, Acronis, Windows-Handoff sowie lokale Daten bleiben unveraendert."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.3.1_to_v5.3.2_pythonzip.zip",
+  "sha256": "9E02669634F81D6F39CF25EA6851CC07B5217E2A8AA3E9363907716A32B32207",
+  "size_bytes": 203246,
+  "filename": "HardwareCheck_UPDATE_v5.3.1_to_v5.3.2_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.3.1_to_v5.3.2_pythonzip.zip",
+  "created_at": "2026-08-13T10:45:00Z",
+  "notes": "HardwareCheck v5.3.2: Layout-Randkorrektur fuer alle Oberflaechen. Kopfzeile und Navigation koennen auf kleineren Aufloesungen weiter schrumpfen; breite Seiten bleiben horizontal erreichbar statt am rechten Rand abgeschnitten zu werden. Das Batterie-Diagramm erzeugt keine starre Mindestbreite. Magic Image, Acronis, Windows-Handoff sowie lokale Daten bleiben unveraendert."
 }
