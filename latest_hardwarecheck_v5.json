@@ -1,14 +1,14 @@
 {
     "manifest_version":  1,
     "app":  "HardwareCheck",
-    "version":  "v5.3.7",
+    "version":  "v5.4",
     "platform":  "debian-live",
     "package_type":  "program-update",
-    "download_url":  "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.3.1_to_v5.3.7_pythonzip.zip",
-    "sha256":  "49F0D20A2B170B818CBF7ABD01397F82F8D6A64319C145CECEBF23BEF4D8CD2B",
-    "size_bytes":  217371,
-    "filename":  "HardwareCheck_UPDATE_v5.3.1_to_v5.3.7_pythonzip.zip",
-    "repo_path":  "updates/hardwarecheck/HardwareCheck_UPDATE_v5.3.1_to_v5.3.7_pythonzip.zip",
-    "created_at":  "2026-08-13T14:10:00Z",
-    "notes":  "HardwareCheck v5.3.7: Reparatur für ältere v5-Sticks. Das geprüfte Update liefert das fehlende Magic-Image-Modul einmalig im Payload nach und installiert es nur, wenn es auf dem Stick fehlt. Vorhandene Magic-Image-Dateien werden nicht überschrieben. v5 startet danach wieder direkt in der neuen GTK-Oberfläche. Die geprüften Layout-, Akku- und Auflösungsverbesserungen aus v5.3.6 bleiben enthalten."
+    "download_url":  "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.3.7_to_v5.4_pythonzip.zip",
+    "sha256":  "5E71A126DB0B30155A7B25898034329EBED427BE45DC773F83998C10023A60A1",
+    "size_bytes":  229130,
+    "filename":  "HardwareCheck_UPDATE_v5.3.7_to_v5.4_pythonzip.zip",
+    "repo_path":  "updates/hardwarecheck/HardwareCheck_UPDATE_v5.3.7_to_v5.4_pythonzip.zip",
+    "created_at":  "2026-08-17T12:00:00Z",
+    "notes":  "HardwareCheck v5.4: geprüfte Magic-Image-Weiterentwicklung mit deutlicher Config-/Hardwarewarnung, klassischem Acronis-Hinweis und universellerer Anzeige- und Akku-Darstellung. Das Paket ersetzt nur Programmdateien; lokale Daten, Einstellungen, Reports und Backups bleiben erhalten."
 }
