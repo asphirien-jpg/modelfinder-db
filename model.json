@@ -42472,8 +42472,8 @@
   },
   {
     "model_id": "6840",
-    "product_number": "V17-IIL 17.3 Zoll - i3-1005G1",
-    "product_number_2": "",
+    "product_number": "82GX008XGE",
+    "product_number_2": "V17-IIL",
     "vendor": "Lenovo",
     "cpu": "Intel Core i3 1005G1",
     "ram_onboard": 0,
@@ -42489,13 +42489,13 @@
     "optical_drive": "None",
     "inch": 17.3,
     "display_type": "Full HD",
-    "operating_system": "Windows 10 Pro",
+    "operating_system": "Windows 11 Professional 64-Bit",
     "keyboard_layout": "DE",
     "condition": "REF",
-    "color": "",
-    "asset_status": "",
+    "color": "Gray/Black",
+    "asset_status": "Config",
     "software": "",
-    "note": "[REFURBISHED] Lenovo (17,3 Zoll) HD+ Notebook (Intel Core i3 1005G1 4-Thread CPU 3.40 GHz, 8GB DDR4, 512 GB SSD, Intel UHD, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 10)"
+    "note": "[REFURBISHED] Lenovo (17,3 Zoll) HD+ Notebook (Intel Core i3 1005G1 4-Thread CPU 3.40 GHz, 8GB DDR4, 512 GB SSD, Intel UHD, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 11) Pozor HD+ & FHD!"
   },
   {
     "model_id": "6841",
