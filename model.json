@@ -6211,8 +6211,8 @@
   },
   {
     "model_id": "8087",
-    "product_number": "X1704VA-AU901",
-    "product_number_2": "",
+    "product_number": "X1704VA",
+    "product_number_2": "X1704VA-AU901",
     "vendor": "Asus",
     "cpu": "Intel Core i3 1315U",
     "ram_onboard": 8,
