@@ -46090,10 +46090,10 @@
   },
   {
     "model_id": "7281",
-    "product_number": "ASUS Laptop",
-    "product_number_2": "",
+    "product_number": "F705MA-BX169",
+    "product_number_2": "F705MA",
     "vendor": "Asus",
-    "cpu": "Intel Celeron N4000",
+    "cpu": "Intel Celeron N4020",
     "ram_onboard": 0,
     "ram_slot1": 4,
     "ram_slot2": 4,
@@ -46111,9 +46111,9 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "",
-    "asset_status": "",
+    "asset_status": "Config",
     "software": "",
-    "note": "[REFURBISHED] ASUS (17,3 Zoll) HD+ Notebook (Intel N4000 Dual Core 2x2.60 GHz, 8GB DDR4, 512 GB SSD, Intel UHD, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 11 Prof. 64 Bit)"
+    "note": "[REFURBISHED] ASUS (17,3 Zoll) HD+ Notebook (Intel N4020 Dual Core 2x2.60 GHz, 8GB DDR4, 512 GB SSD, Intel UHD, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 11 Prof. 64 Bit)"
   },
   {
     "model_id": "7282",
