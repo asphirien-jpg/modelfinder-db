@@ -21,6 +21,10 @@ Beide Tools duerfen lokal Kopien nutzen, aber die veroeffentlichte Wahrheit lieg
 - `latest_hardwarecheck_v5.json`: aktuelles HardwareCheck-v5-Programmpaket.
 - `updates/modelfinder/`: ModelFinder-Update-ZIPs.
 - `updates/hardwarecheck/`: HardwareCheck-Update-ZIPs.
+- `updates/magic-image-solo/`: Programm-Updates für das eigenständige Produkt
+  **Magic Image v1.0**. Der technische Pfad `magic-image-solo` bleibt für
+  bereits verteilte Installations-SSDs bestehen; er ist kein Hinweis darauf,
+  dass Magic Image Teil von HardwareCheck wäre.
 - `MODEL_SUITE_CONTRACT.md`: Schnittstellenvertrag fuer alle beteiligten Repos.
 
 ## Vor jedem Release pruefen
