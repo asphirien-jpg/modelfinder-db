@@ -33616,7 +33616,7 @@
   },
   {
     "model_id": "6233",
-    "product_number": "ASUS Laptop 15 F509UA-EJ176 FHD",
+    "product_number": "F509UA-EJ176",
     "product_number_2": "",
     "vendor": "Asus",
     "cpu": "Intel Pentium Gold 4417U",
@@ -33633,10 +33633,10 @@
     "optical_drive": "None",
     "inch": 15.6,
     "display_type": "Full HD",
-    "operating_system": "Windows 10 Pro",
+    "operating_system": "Windows 11 Professional 64-Bit",
     "keyboard_layout": "DE",
     "condition": "",
-    "color": "",
+    "color": "Silver",
     "asset_status": "",
     "software": "",
     "note": "ASUS (15,6 Zoll) Full-HD Notebook (Intel Pentium Gold 4417U 4-Thread CPU, 8GB DDR4, 256GB SSD, Intel HD 610, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 10"
@@ -35722,7 +35722,7 @@
   },
   {
     "model_id": "6344",
-    "product_number": "ASUS Laptop 15 F509UA-EJ176 FHD",
+    "product_number": "F509UA-EJ176",
     "product_number_2": "",
     "vendor": "Asus",
     "cpu": "Intel Pentium Gold 4417U",
@@ -35739,13 +35739,13 @@
     "optical_drive": "None",
     "inch": 15.6,
     "display_type": "Full HD",
-    "operating_system": "Windows 10 Pro",
+    "operating_system": "Windows 11 Professional 64-Bit",
     "keyboard_layout": "DE",
     "condition": "REF",
-    "color": "",
-    "asset_status": "",
+    "color": "Silver",
+    "asset_status": "Config",
     "software": "",
-    "note": "[REFURBISHED] ASUS (15,6 Zoll) Full-HD Notebook (Intel Pentium Gold 4417U 4-Thread CPU, 8GB DDR4, 256GB SSD, Intel HD 610, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 10"
+    "note": "[REFURBISHED] ASUS (15,6 Zoll) Full-HD Notebook (Intel Pentium Gold 4417U 4-Thread CPU, 8GB DDR4, 256GB SSD, Intel HD 610, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 11"
   },
   {
     "model_id": "6346",
@@ -38821,7 +38821,7 @@
     "keyboard_layout": "DE",
     "condition": "REF",
     "color": "Blue",
-    "asset_status": "Image",
+    "asset_status": "Config",
     "software": "",
     "note": "[REFURBISHED] ASUS Intel Quad N5000 (17,3 Zoll HD+) Notebook (Intel N5000, 8GB DDR4, 512 GB SSD, Intel HD, HDMI, Windows 11"
   },
