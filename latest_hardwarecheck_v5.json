@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.4.3",
+  "version": "v5.4.4",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.1_to_v5.4.3_pythonzip.zip",
-  "sha256": "CDF12B1B7684FAD0FC0B0ED4A56891AAF52568934634E24E227A7BF2748598E7",
-  "size_bytes": 238367,
-  "filename": "HardwareCheck_UPDATE_v5.4.1_to_v5.4.3_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.1_to_v5.4.3_pythonzip.zip",
-  "created_at": "2026-09-02T12:30:00Z",
-  "notes": "HardwareCheck v5.4.3: Die interne Magic-Image-Seite prüft moderne Configs sofort; klassische Acronis-Images werden erst bei einer fehlenden Config gezielt für diese eine Config gelesen. Der Config-Hinweis zeigt die Abweichungen jetzt als klare Karten. Zusätzlich kann optional eine zweite interne HDD erst nach erfolgreichem Restore sicher als leere NTFS-Datenplatte vorbereitet werden. Das Paket ersetzt nur Programmdateien; lokale Daten, Einstellungen, Reports und Backups bleiben erhalten."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.3_to_v5.4.4_pythonzip.zip",
+  "sha256": "B4AE4374751A632EE687C3ABBFDDB11228F11B39C61D886A4FDC6753FE985ED2",
+  "size_bytes": 241100,
+  "filename": "HardwareCheck_UPDATE_v5.4.3_to_v5.4.4_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.3_to_v5.4.4_pythonzip.zip",
+  "created_at": "2026-09-02T13:00:00Z",
+  "notes": "HardwareCheck v5.4.4: Die komplette sichtbare Magic-Image-Oberfläche im HardwareCheck übersetzt jetzt auch dynamische Backend-Statusmeldungen, Image-Hinweise, Sicherheitszusammenfassungen und Fortschrittsmeldungen vollständig nach Tschechisch bzw. Englisch. Technische Rohdetails bleiben im Protokoll. Das Paket ersetzt nur Programmdateien; lokale Daten, Einstellungen, Reports und Backups bleiben erhalten."
 }
