@@ -1,6 +1,6 @@
 {
-  "app": "magic-image-solo",
-  "version": "v1.0.7",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.0.7/MagicImageSolo-v1.0.7.zip",
-  "sha256": "8a4d4a4dd089e2be6541b30b1749586b795c1b7eb2d89e75fc3cc3caa60db594"
+    "app":  "magic-image-solo",
+    "version":  "v1.0.9",
+    "download_url":  "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.0.9/MagicImageSolo-v1.0.9.zip",
+    "sha256":  "2b3f9023d1b2531ce0f779d816d09fa754dba12c58c8e7ff436309f7517268a1"
 }
