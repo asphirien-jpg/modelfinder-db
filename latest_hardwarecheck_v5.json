@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.4.5",
+  "version": "v5.4.6",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.4_to_v5.4.5_pythonzip.zip",
-  "sha256": "BE211EB38689D975AE1D18396E529496E2399A24FA52BF8B7980BD6E2236AA81",
-  "size_bytes": 243163,
-  "filename": "HardwareCheck_UPDATE_v5.4.4_to_v5.4.5_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.4_to_v5.4.5_pythonzip.zip",
-  "created_at": "2026-09-02T15:00:00Z",
-  "notes": "HardwareCheck v5.4.5: Der manuelle Acronis-Start markiert nur noch die aktuell per UEFI gestartete GRUB-Partition und entfernt alte Marker auf der anderen Bootpartition. Die Acronis-Startdatei wird bei Bedarf kurz nur-lesend geprüft. Das Paket ersetzt nur Programmdateien; lokale Daten, Einstellungen, Reports und Backups bleiben erhalten."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.5_to_v5.4.6_pythonzip.zip",
+  "sha256": "F0EB466AFD667B38C05D38BD2DBAA96C3ABB4FC9B075B78FF3AEBEC518A5F495",
+  "size_bytes": 245914,
+  "filename": "HardwareCheck_UPDATE_v5.4.5_to_v5.4.6_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.5_to_v5.4.6_pythonzip.zip",
+  "created_at": "2026-09-04T12:00:00Z",
+  "notes": "HardwareCheck v5.4.6: Magic Image nutzt für den Display-Abgleich die bestätigte physische Panelgröße aus physical-display-size.txt. Der alte, auf 96-DPI basierende Auflösungswert (z. B. 22,9 Zoll bei Full HD) wird nicht mehr als Bildschirmgröße verwendet. Das Paket ersetzt nur Programmdateien; lokale Daten, Einstellungen, Reports und Backups bleiben erhalten."
 }
