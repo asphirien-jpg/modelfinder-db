@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.4.6",
+  "version": "v5.4.8",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.5_to_v5.4.6_pythonzip.zip",
-  "sha256": "F0EB466AFD667B38C05D38BD2DBAA96C3ABB4FC9B075B78FF3AEBEC518A5F495",
-  "size_bytes": 245914,
-  "filename": "HardwareCheck_UPDATE_v5.4.5_to_v5.4.6_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.5_to_v5.4.6_pythonzip.zip",
-  "created_at": "2026-09-04T12:00:00Z",
-  "notes": "HardwareCheck v5.4.6: Magic Image nutzt für den Display-Abgleich die bestätigte physische Panelgröße aus physical-display-size.txt. Der alte, auf 96-DPI basierende Auflösungswert (z. B. 22,9 Zoll bei Full HD) wird nicht mehr als Bildschirmgröße verwendet. Das Paket ersetzt nur Programmdateien; lokale Daten, Einstellungen, Reports und Backups bleiben erhalten."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.6_to_v5.4.8_pythonzip.zip",
+  "sha256": "CD6DC6A9BC138111C456BEF6EF31D45FFDC6907C54F4A6A786C87EC55E8E7E6C",
+  "size_bytes": 248545,
+  "filename": "HardwareCheck_UPDATE_v5.4.6_to_v5.4.8_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.6_to_v5.4.8_pythonzip.zip",
+  "created_at": "2026-09-04T23:30:00Z",
+  "notes": "HardwareCheck v5.4.8: Nach einem erfolgreichen Clonezilla-Restore startet ein ASUS-Gerät einmalig über die verifizierte Windows-UEFI-Partition der wiederhergestellten Ziel-SSD. Die dauerhafte UEFI-Bootreihenfolge bleibt unverändert. Zusätzlich bleibt der geprüfte Abgleich der physischen Displaygröße aktiv. Das Paket ersetzt nur Programmdateien; lokale Daten, Einstellungen, Reports und Backups bleiben erhalten."
 }
