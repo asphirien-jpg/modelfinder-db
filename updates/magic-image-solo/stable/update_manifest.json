@@ -1,7 +1,7 @@
 {
   "app": "magic-image-solo",
-  "version": "v1.0.14",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.0.14/MagicImageSolo-v1.0.14.zip",
-  "sha256": "465fe5a63cb081b4710bf14e44e1852db9a622f3a24a8329ae989c2c850d50a1",
-  "notes": "Clonezilla-Komplettimages in vorhandenen Hersteller-/Modellordnern; Configs haben Vorrang. Eingebetteter Windows-ModelCheck ohne Config-Handoff. HardwareCheck v5.4.10 mit enthalten. Erster Restore-Praxistest mit konvertiertem Image steht aus."
+  "version": "v1.0.15",
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.0.15/MagicImageSolo-v1.0.15.zip",
+  "sha256": "3f8674c6faeffb4efa0b4035b9d245ddb6c555b3dcc3b14fb420d6cf41c04ea8",
+  "notes": "ASUS-Neustart nach der Installation: expliziter Windows-EFI-Loader auf der gewählten Ziel-SSD und Rückprüfung von UEFI BootNext; erfolgreich an Modell/Config 8085 getestet. HardwareCheck v5.4.11 enthalten. Bestehende Config- und Clonezilla-Komplettimage-Funktionen bleiben erhalten; erster Restore-Praxistest mit einem konvertierten Komplettimage steht weiterhin aus."
 }
