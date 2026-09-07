@@ -1,6 +1,7 @@
 {
   "app": "magic-image-solo",
-  "version": "v1.0.13",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.0.13/MagicImageSolo-v1.0.13.zip",
-  "sha256": "2f452223d978656784dd25b2c820db45baf8ba503e54a56c443d39faf3a76207"
+  "version": "v1.0.14",
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.0.14/MagicImageSolo-v1.0.14.zip",
+  "sha256": "465fe5a63cb081b4710bf14e44e1852db9a622f3a24a8329ae989c2c850d50a1",
+  "notes": "Clonezilla-Komplettimages in vorhandenen Hersteller-/Modellordnern; Configs haben Vorrang. Eingebetteter Windows-ModelCheck ohne Config-Handoff. HardwareCheck v5.4.10 mit enthalten. Erster Restore-Praxistest mit konvertiertem Image steht aus."
 }

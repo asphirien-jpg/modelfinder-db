@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.4.9",
+  "version": "v5.4.10",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.8_to_v5.4.9_pythonzip.zip",
-  "sha256": "321CAB63872B6EDEF2556A748AC99A8FE65C1CC97F129F821BB029CE87D17C1A",
-  "size_bytes": 254802,
-  "filename": "HardwareCheck_UPDATE_v5.4.8_to_v5.4.9_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.8_to_v5.4.9_pythonzip.zip",
-  "created_at": "2026-09-07T07:12:12Z",
-  "notes": "HardwareCheck v5.4.9: Behebt den V5-Start auf USB-Sticks und USB-SSDs, wenn das Modul config_server_sync.py fehlt. Das Update liefert das Modul mit und installiert es vor dem Start der V5-Oberfläche aus dem geprüften Update-Paket. Der einmalige ASUS-Windows-UEFI-Start nach einem erfolgreichen Clonezilla-Restore und der geprüfte Abgleich der physischen Displaygröße bleiben erhalten. Die dauerhafte UEFI-Bootreihenfolge bleibt unverändert. Das Paket ersetzt nur Programmdateien; lokale Daten, Einstellungen, Reports und Backups bleiben erhalten."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.9_to_v5.4.10_pythonzip.zip",
+  "sha256": "92B8F4F5FAD38F4020567A68CF3552B4FD1DF5C8FD319F62ECE9BAFD5FB3FC9F",
+  "size_bytes": 258568,
+  "filename": "HardwareCheck_UPDATE_v5.4.9_to_v5.4.10_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.9_to_v5.4.10_pythonzip.zip",
+  "created_at": "2026-09-07T08:57:04Z",
+  "notes": "HardwareCheck v5.4.10: Modellgebundene Clonezilla-Komplettimages in bestehenden Hersteller-/Modellordnern. Config-Installationen haben weiter Vorrang; danach Komplettimage, zuletzt Acronis. Komplettimages verwenden ihren eingebetteten Windows-ModelCheck ohne Config-Handoff oder externe Treiberkopie. Zielschutz, Daten-HDD und einmaliger Windows-Start bleiben erhalten. DE/EN/CZ. USB-Stick-/SSD-Startreparatur aus v5.4.9 enthalten. Nur Programmdateien, keine Configs oder Images. Softwaretests bestanden; erster Restore mit konvertiertem Image steht noch aus."
 }
