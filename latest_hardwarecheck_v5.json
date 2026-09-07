@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.4.8",
+  "version": "v5.4.9",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.6_to_v5.4.8_pythonzip.zip",
-  "sha256": "CD6DC6A9BC138111C456BEF6EF31D45FFDC6907C54F4A6A786C87EC55E8E7E6C",
-  "size_bytes": 248545,
-  "filename": "HardwareCheck_UPDATE_v5.4.6_to_v5.4.8_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.6_to_v5.4.8_pythonzip.zip",
-  "created_at": "2026-09-04T23:30:00Z",
-  "notes": "HardwareCheck v5.4.8: Nach einem erfolgreichen Clonezilla-Restore startet ein ASUS-Gerät einmalig über die verifizierte Windows-UEFI-Partition der wiederhergestellten Ziel-SSD. Die dauerhafte UEFI-Bootreihenfolge bleibt unverändert. Zusätzlich bleibt der geprüfte Abgleich der physischen Displaygröße aktiv. Das Paket ersetzt nur Programmdateien; lokale Daten, Einstellungen, Reports und Backups bleiben erhalten."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.8_to_v5.4.9_pythonzip.zip",
+  "sha256": "321CAB63872B6EDEF2556A748AC99A8FE65C1CC97F129F821BB029CE87D17C1A",
+  "size_bytes": 254802,
+  "filename": "HardwareCheck_UPDATE_v5.4.8_to_v5.4.9_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.8_to_v5.4.9_pythonzip.zip",
+  "created_at": "2026-09-07T07:12:12Z",
+  "notes": "HardwareCheck v5.4.9: Behebt den V5-Start auf USB-Sticks und USB-SSDs, wenn das Modul config_server_sync.py fehlt. Das Update liefert das Modul mit und installiert es vor dem Start der V5-Oberfläche aus dem geprüften Update-Paket. Der einmalige ASUS-Windows-UEFI-Start nach einem erfolgreichen Clonezilla-Restore und der geprüfte Abgleich der physischen Displaygröße bleiben erhalten. Die dauerhafte UEFI-Bootreihenfolge bleibt unverändert. Das Paket ersetzt nur Programmdateien; lokale Daten, Einstellungen, Reports und Backups bleiben erhalten."
 }
