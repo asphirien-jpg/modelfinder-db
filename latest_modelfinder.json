@@ -1,14 +1,14 @@
 {
     "manifest_version": 1,
     "app": "ModelFinder",
-    "version": "V4.41",
+    "version": "V4.42",
     "platform": "windows",
     "package_type": "program-update",
-    "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/modelfinder/ModelFinder_update_V4.41.zip",
-    "sha256": "1941433DC3C32A3B2B1399ACFE6D5B0C09742CF543942553B76A317BBFA17D6E",
-    "size_bytes": 66882904,
-    "filename": "ModelFinder_update_V4.41.zip",
-    "repo_path": "updates/modelfinder/ModelFinder_update_V4.41.zip",
-    "created_at": "2026-07-03T10:18:28Z",
-    "notes": "ModelFinder V4.41: Optische Laufwerke wie DVD-RW werden in Speicher-/Festplattenanzeigen mit angezeigt."
+    "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/modelfinder/ModelFinder_update_V4.42.zip",
+    "sha256": "4DA79EF8F6F89EF1D514FA51A13D740ADB6D968A6D0E6288A170F0287346B244",
+    "size_bytes": 84461044,
+    "filename": "ModelFinder_update_V4.42.zip",
+    "repo_path": "updates/modelfinder/ModelFinder_update_V4.42.zip",
+    "created_at": "2026-09-10T08:48:19Z",
+    "notes": "ModelFinder V4.42: Mehr als vier Modelle vergleichen, horizontal scrollen und weitere Treffer ohne Ersetzen eingegebener Modelle hinzufuegen."
 }
