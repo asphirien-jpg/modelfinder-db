@@ -1,14 +1,14 @@
 {
     "manifest_version": 1,
     "app": "ModelFinder",
-    "version": "V4.41",
+    "version": "V4.43",
     "platform": "windows",
     "package_type": "program-update",
-    "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/modelfinder/ModelFinder_update_V4.41.zip",
-    "sha256": "1941433DC3C32A3B2B1399ACFE6D5B0C09742CF543942553B76A317BBFA17D6E",
-    "size_bytes": 66882904,
-    "filename": "ModelFinder_update_V4.41.zip",
-    "repo_path": "updates/modelfinder/ModelFinder_update_V4.41.zip",
-    "created_at": "2026-07-03T10:18:28Z",
-    "notes": "ModelFinder V4.41: Optische Laufwerke wie DVD-RW werden in Speicher-/Festplattenanzeigen mit angezeigt."
+    "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/modelfinder/ModelFinder_update_V4.43.zip",
+    "sha256": "09C3100F2CAB97701D5B1EED381697E3BA020A0028D4A1B4612EAAF491177DE6",
+    "size_bytes": 93823656,
+    "filename": "ModelFinder_update_V4.43.zip",
+    "repo_path": "updates/modelfinder/ModelFinder_update_V4.43.zip",
+    "created_at": "2026-09-10T09:06:58Z",
+    "notes": "ModelFinder V4.43: Behebt den QtCore-DLL-Startfehler nach V4.42 durch konsistente Qt-Laufzeitdateien und Windows-ICU. Horizontaler Vergleich fuer mehr als vier Modelle bleibt enthalten."
 }
