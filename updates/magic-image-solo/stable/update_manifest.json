@@ -1,7 +1,7 @@
 {
   "app": "magic-image-solo",
-  "version": "v1.0.18",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.0.18/MagicImageSolo-v1.0.18.zip",
-  "sha256": "671aabb513b53f168cef7178dc4eaf1f7e942baf2725be20d925cb98fa32fb41",
-  "notes": "Windows-Bootprioritaet nach erfolgreicher Installation, verifizierte doppelte Windows-Eintraege und geraetegebundene USB-Weiterleitung mit Diagnose. HardwareCheck v5.4.14 enthalten. Teststand test4 an ASUS 8663, 8085 und 8509 erfolgreich erprobt. Images, Configs und Einstellungen bleiben erhalten."
+  "version": "v1.0.19",
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.0.19/MagicImageSolo-v1.0.19.zip",
+  "sha256": "f67c7007d59aaa12a9e631a00c19bf9c03a2468e91aef3f4f5975f5cd8f01537",
+  "notes": "Automatische Programmpruefung alle 24 Stunden bleibt bei wechselndem Geraetedatum funktionsfaehig. Zukuenftige Zeitstempel sperren Updates nicht mehr. Fehlerwartezeit zehn Minuten, manuelle Suche ohne Wartefrist. HardwareCheck v5.4.14 enthalten; Images und Einstellungen bleiben erhalten."
 }
