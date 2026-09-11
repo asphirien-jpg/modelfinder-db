@@ -39772,7 +39772,7 @@
   },
   {
     "model_id": "6571",
-    "product_number": "ASUS Laptop",
+    "product_number": "D712D",
     "product_number_2": "",
     "vendor": "Asus",
     "cpu": "AMD Ryzen 5 3500U",
@@ -39789,11 +39789,11 @@
     "optical_drive": "None",
     "inch": 17.3,
     "display_type": "HD+",
-    "operating_system": "Windows 10 Pro",
+    "operating_system": "Windows 11 Professional 64-Bit",
     "keyboard_layout": "DE",
     "condition": "REF",
-    "color": "",
-    "asset_status": "",
+    "color": "Silver",
+    "asset_status": "Config",
     "software": "",
     "note": "[REFURBISHED] ASUS Ultra Ryzen5 SSD (17,3 Zoll HD++) Notebook (AMD Ryzen5 3500U, 20 GB DDR4, 1000 GB SSD, 4GB Radeon Vega 8 Graphics, HDMI, Windows 10"
   },
