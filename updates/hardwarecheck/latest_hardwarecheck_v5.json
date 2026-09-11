@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.3",
+  "version": "v5.4.14",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.2_to_v5.3_pythonzip.zip",
-  "sha256": "8C6125586A5FC28B2507F9CF03BA8CEE8012BFD5F1C5F65C81A1256DF02D128F",
-  "size_bytes": 214940,
-  "filename": "HardwareCheck_UPDATE_v5.2_to_v5.3_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.2_to_v5.3_pythonzip.zip",
-  "created_at": "2026-08-12T13:32:58Z",
-  "notes": "HardwareCheck v5.3: Magic Image ergaenzt die bestehende Hardware- und Modellerkennung um bewusste Config-, Image- und Zielauswahl, Clonezilla als gepruefte Hintergrund-Engine, Abweichungswarnungen, Restore-Fortschritt und automatischen Windows-Handoff. Der bewaehrte Treiber-/Config-Ablauf bleibt erhalten. Das Paket ist direkt mit dem v5.2-Updater kompatibel; lokale WLANs, Druckerprofile, Datenbank, Reports, Backups und Geraeteidentitaet bleiben geschuetzt. Acronis ist noch nicht freigegeben."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.12_to_v5.4.14_pythonzip.zip",
+  "sha256": "A72E9EC6B1DA73428EEED0AC5B15BA769EFF7906664697C7CED6CF54CCE5B46B",
+  "size_bytes": 261896,
+  "filename": "HardwareCheck_UPDATE_v5.4.12_to_v5.4.14_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.12_to_v5.4.14_pythonzip.zip",
+  "created_at": "2026-09-10T20:00:00Z",
+  "notes": "Windows nach erfolgreichem Restore zuerst in UEFI BootOrder und einmalig via BootNext; verifizierte doppelte Windows-Eintraege blockieren nicht mehr. Geraetegebundener USB-Fallback mit Diagnose. ASUS-Tests 8663, 8085, 8509 erfolgreich; keine Garantie fuer jede Firmware. Images und Einstellungen bleiben erhalten."
 }

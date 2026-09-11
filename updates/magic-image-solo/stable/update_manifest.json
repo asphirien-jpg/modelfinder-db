@@ -1,7 +1,7 @@
 {
   "app": "magic-image-solo",
-  "version": "v1.0.16",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.0.16/MagicImageSolo-v1.0.16.zip",
-  "sha256": "4e1a5736e6cdc85d6ca0c6435d9374d5831d4af3acd4cfcd15643a35159ce353",
-  "notes": "Clonezilla-Komplettimages werden jetzt übersichtlich angezeigt: kurze grüne Fundmeldung und nur Hersteller-/Config-Ordner statt des vollständigen langen Imagenamens. Der vollständige Pfad bleibt intern unverändert. Der erste echte Restore für Config 8509 war erfolgreich. HardwareCheck v5.4.12 ist enthalten. Configs und Images werden vom Update nicht verändert."
+  "version": "v1.0.18",
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.0.18/MagicImageSolo-v1.0.18.zip",
+  "sha256": "671aabb513b53f168cef7178dc4eaf1f7e942baf2725be20d925cb98fa32fb41",
+  "notes": "Windows-Bootprioritaet nach erfolgreicher Installation, verifizierte doppelte Windows-Eintraege und geraetegebundene USB-Weiterleitung mit Diagnose. HardwareCheck v5.4.14 enthalten. Teststand test4 an ASUS 8663, 8085 und 8509 erfolgreich erprobt. Images, Configs und Einstellungen bleiben erhalten."
 }
