@@ -1,7 +1,7 @@
 {
   "app": "magic-image-solo",
-  "version": "v1.0.19",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.0.19/MagicImageSolo-v1.0.19.zip",
-  "sha256": "f67c7007d59aaa12a9e631a00c19bf9c03a2468e91aef3f4f5975f5cd8f01537",
-  "notes": "Automatische Programmpruefung alle 24 Stunden bleibt bei wechselndem Geraetedatum funktionsfaehig. Zukuenftige Zeitstempel sperren Updates nicht mehr. Fehlerwartezeit zehn Minuten, manuelle Suche ohne Wartefrist. HardwareCheck v5.4.14 enthalten; Images und Einstellungen bleiben erhalten."
+  "version": "v1.0.20",
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.0.20/MagicImageSolo-v1.0.20.zip",
+  "sha256": "c0372685fe68432ce5288b1cbcea708683ee57fd83049e6f6c62930bef81ea18",
+  "notes": "Automatischer NTP-Zeitabgleich im Live-System: DNS wird bei WLAN vorbereitet, der Abgleich wird im Hintergrund wiederholt und Europe/Berlin einschliesslich Sommerzeit gesetzt. Die manuelle Updatesuche gleicht sofort ab. Keine RTC-Aenderung. HardwareCheck v5.4.15 enthalten; Images und Einstellungen bleiben erhalten."
 }
