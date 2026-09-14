@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.4.16",
+  "version": "v5.4.17",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.15_to_v5.4.16_pythonzip.zip",
-  "sha256": "1792AE8B66A240424F4CD235F7804FF4E104AD1C0C13A441022DC3D2C68E6F59",
-  "size_bytes": 264208,
-  "filename": "HardwareCheck_UPDATE_v5.4.15_to_v5.4.16_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.15_to_v5.4.16_pythonzip.zip",
-  "created_at": "2026-09-14T12:00:00Z",
-  "notes": "Magic Image zeigt bei den drei generischen Basisimages nur noch den kurzen Betreiberordner (Magic Image France, Universal oder VMD Asus). Der technische Clonezilla-Unterordner bleibt intern erhalten. Images, Configs und lokale Einstellungen bleiben unverändert."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.16_to_v5.4.17_pythonzip.zip",
+  "sha256": "577EB83F9DB5358B64C4CA3CF1BA0BA135D9F3A8F449E0A2EAEBB0FC5A3A2BED",
+  "size_bytes": 264534,
+  "filename": "HardwareCheck_UPDATE_v5.4.16_to_v5.4.17_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.16_to_v5.4.17_pythonzip.zip",
+  "created_at": "2026-09-14T14:30:00Z",
+  "notes": "Korrektur für die drei generischen Magic-Image-Ordner: Der kurze Betreiberordner bleibt sichtbar, wird beim Restore aber als sicherer Clonezilla-Repository-Pfad verwendet. Images, Configs und Einstellungen bleiben unverändert."
 }

@@ -1,7 +1,7 @@
 {
   "app": "magic-image-solo",
-  "version": "v1.0.21",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.0.21/MagicImageSolo-v1.0.21.zip",
-  "sha256": "b0308eba02ea9ae6ec2dd619d12fd592272c03d44fdca636a6b4fb2a4db87c55",
-  "notes": "Die drei generischen Basisimages zeigen in Auswahl und Bestätigung nur noch den kurzen Betreiberordner: Magic Image France, Magic Image Universal oder Magic Image VMD Asus. Der lange technische Clonezilla-Unterordner bleibt ausschließlich intern für den Restore erhalten. HardwareCheck v5.4.16 ist enthalten; Images, Configs und lokale Einstellungen bleiben unverändert."
+  "version": "v1.0.22",
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.0.22/MagicImageSolo-v1.0.22.zip",
+  "sha256": "af3fea361566d04ad0bf9a82ba6cd97658aad250a147e051e2a4cab15e98b750",
+  "notes": "Korrektur für Magic Image France, Universal und VMD Asus: Die kurzen Betreiberordner bleiben in der Auswahl sichtbar und werden beim Restore als sicherer Clonezilla-Repository-Pfad verwendet. HardwareCheck v5.4.17 ist enthalten; Images, Configs und lokale Einstellungen bleiben unverändert."
 }
