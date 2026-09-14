@@ -55024,5 +55024,32 @@
     "asset_status": "",
     "software": "",
     "note": "ASUS (FullHD 17,3 Zoll) Gaming Notebook (Intel® Core™ i9 13900H 14 Kern CPU, 5.4 GHz, 40 GB DDR4, 2000 GB SSD, Intel® Iris® Xe 3D, HDMI, BT, USB 3.0, WLAN, Windows 11"
+  },
+  {
+    "model_id": "8687",
+    "product_number": "4QW24ES",
+    "product_number_2": "",
+    "vendor": "HP",
+    "cpu": "Intel Pentium N5000",
+    "ram_onboard": 0,
+    "ram_slot1": 4,
+    "ram_slot2": 4,
+    "ram_total": 8,
+    "ram_type": "DDR4",
+    "ram_layout": "1x4 + 1x4",
+    "ssd": 512,
+    "storage_type": "SATA SSD 2.5",
+    "ssd_2": 0,
+    "storage_type_2": "",
+    "optical_drive": "None",
+    "inch": 15.6,
+    "display_type": "Full HD",
+    "operating_system": "Windows 11 Professional 64-Bit",
+    "keyboard_layout": "DE",
+    "condition": "REF",
+    "color": "Silver",
+    "asset_status": "",
+    "software": "",
+    "note": "HP G6 (15,6 Zoll HD) Notebook (Intel N5000, 8GB DDR4, 512 GB SSD, Intel HD Grafik, Bluetooth, WLAN, USB 3.0, Windows 11 Prof, MS Office 2010"
   }
 ]
