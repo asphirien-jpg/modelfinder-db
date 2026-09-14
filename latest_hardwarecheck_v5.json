@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.4.17",
+  "version": "v5.4.18",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.16_to_v5.4.17_pythonzip.zip",
-  "sha256": "577EB83F9DB5358B64C4CA3CF1BA0BA135D9F3A8F449E0A2EAEBB0FC5A3A2BED",
-  "size_bytes": 264534,
-  "filename": "HardwareCheck_UPDATE_v5.4.16_to_v5.4.17_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.16_to_v5.4.17_pythonzip.zip",
-  "created_at": "2026-09-14T14:30:00Z",
-  "notes": "Korrektur für die drei generischen Magic-Image-Ordner: Der kurze Betreiberordner bleibt sichtbar, wird beim Restore aber als sicherer Clonezilla-Repository-Pfad verwendet. Images, Configs und Einstellungen bleiben unverändert."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.17_to_v5.4.18_pythonzip.zip",
+  "sha256": "915FCCDE40EFD32F294157D3CB794622FE7B1755FFE79976838C99E3EACB8A74",
+  "size_bytes": 264792,
+  "filename": "HardwareCheck_UPDATE_v5.4.17_to_v5.4.18_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.17_to_v5.4.18_pythonzip.zip",
+  "created_at": "2026-09-14T16:30:00Z",
+  "notes": "Gespeicherte WLANs können jetzt jederzeit über „Passwort ändern“ mit einem neuen Kennwort überschrieben und sofort neu verbunden werden."
 }

@@ -1,7 +1,7 @@
 {
   "app": "magic-image-solo",
-  "version": "v1.0.22",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.0.22/MagicImageSolo-v1.0.22.zip",
-  "sha256": "af3fea361566d04ad0bf9a82ba6cd97658aad250a147e051e2a4cab15e98b750",
-  "notes": "Korrektur für Magic Image France, Universal und VMD Asus: Die kurzen Betreiberordner bleiben in der Auswahl sichtbar und werden beim Restore als sicherer Clonezilla-Repository-Pfad verwendet. HardwareCheck v5.4.17 ist enthalten; Images, Configs und lokale Einstellungen bleiben unverändert."
+  "version": "v1.0.23",
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.0.23/MagicImageSolo-v1.0.23.zip",
+  "sha256": "37b0d6f9d0095c00f2aece70f27e09777fee3526b449f27b51946845ea56355a",
+  "notes": "Gespeicherte WLANs haben nun in Magic Image einen eigenen Button „Passwort ändern“. Das neue Kennwort wird gespeichert und sofort für die Verbindung verwendet. HardwareCheck v5.4.18 ist enthalten; Images, Configs und lokale Einstellungen bleiben unverändert."
 }
