@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.4.15",
+  "version": "v5.4.16",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.14_to_v5.4.15_pythonzip.zip",
-  "sha256": "7164CCC9FB03C6824FA2D12AB604A3D0DA4CE2A4A054FFB5BF906EF94DD16756",
-  "size_bytes": 263953,
-  "filename": "HardwareCheck_UPDATE_v5.4.14_to_v5.4.15_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.14_to_v5.4.15_pythonzip.zip",
-  "created_at": "2026-09-07T13:15:58Z",
-  "notes": "Automatischer NTP-Zeitabgleich im Live-System mit lokaler Zeitzone Europe/Berlin. Bei WLAN wird DNS vorbereitet und der Abgleich wiederholt; manuelle Updatesuche gleicht sofort ab. Keine RTC-Aenderung. Images und Einstellungen bleiben erhalten."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.15_to_v5.4.16_pythonzip.zip",
+  "sha256": "1792AE8B66A240424F4CD235F7804FF4E104AD1C0C13A441022DC3D2C68E6F59",
+  "size_bytes": 264208,
+  "filename": "HardwareCheck_UPDATE_v5.4.15_to_v5.4.16_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.15_to_v5.4.16_pythonzip.zip",
+  "created_at": "2026-09-14T12:00:00Z",
+  "notes": "Magic Image zeigt bei den drei generischen Basisimages nur noch den kurzen Betreiberordner (Magic Image France, Universal oder VMD Asus). Der technische Clonezilla-Unterordner bleibt intern erhalten. Images, Configs und lokale Einstellungen bleiben unverändert."
 }

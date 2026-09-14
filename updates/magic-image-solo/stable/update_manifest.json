@@ -1,7 +1,7 @@
 {
   "app": "magic-image-solo",
-  "version": "v1.0.20",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.0.20/MagicImageSolo-v1.0.20.zip",
-  "sha256": "c0372685fe68432ce5288b1cbcea708683ee57fd83049e6f6c62930bef81ea18",
-  "notes": "Automatischer NTP-Zeitabgleich im Live-System: DNS wird bei WLAN vorbereitet, der Abgleich wird im Hintergrund wiederholt und Europe/Berlin einschliesslich Sommerzeit gesetzt. Die manuelle Updatesuche gleicht sofort ab. Keine RTC-Aenderung. HardwareCheck v5.4.15 enthalten; Images und Einstellungen bleiben erhalten."
+  "version": "v1.0.21",
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.0.21/MagicImageSolo-v1.0.21.zip",
+  "sha256": "b0308eba02ea9ae6ec2dd619d12fd592272c03d44fdca636a6b4fb2a4db87c55",
+  "notes": "Die drei generischen Basisimages zeigen in Auswahl und Bestätigung nur noch den kurzen Betreiberordner: Magic Image France, Magic Image Universal oder Magic Image VMD Asus. Der lange technische Clonezilla-Unterordner bleibt ausschließlich intern für den Restore erhalten. HardwareCheck v5.4.16 ist enthalten; Images, Configs und lokale Einstellungen bleiben unverändert."
 }
