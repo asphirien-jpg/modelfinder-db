@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.4.19",
+  "version": "v5.4.20",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.18_to_v5.4.19_pythonzip.zip",
-  "sha256": "492204E583DB946A6C39194D7E3ADC6A1E10FC6A3F92ED87C4786B1D7181E3A1",
-  "size_bytes": 264691,
-  "filename": "HardwareCheck_UPDATE_v5.4.18_to_v5.4.19_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.18_to_v5.4.19_pythonzip.zip",
-  "created_at": "2026-09-15T12:00:00Z",
-  "notes": "Magic Image nutzt für den Hardwareabgleich ausschließlich die Werte aus #configs: CPU, RAM, RAM-Modulanzahl, SSD-Größe, Auflösung und hinterlegte Displaygröße. Windows-nutzbarer RAM wird für reservierten Grafik-/Firmware- Speicher auf die physische Standardgröße normalisiert. model.json bleibt unverändert für HardwareCheck/ModelFinder."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.19_to_v5.4.20_pythonzip.zip",
+  "sha256": "D5D0D40D29252E4336D526E30D46977F5C28D84AA4DD974BEF7E2C639ACE01A3",
+  "size_bytes": 264907,
+  "filename": "HardwareCheck_UPDATE_v5.4.19_to_v5.4.20_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.19_to_v5.4.20_pythonzip.zip",
+  "created_at": "2026-09-15T14:00:00Z",
+  "notes": "FAT32-sicheres Programmupdate: jede Programmdatei wird nach dem Tausch synchronisiert und rückgelesen; Python-Bytecode-Caches werden auf dem Live-Medium nicht mehr geschrieben."
 }

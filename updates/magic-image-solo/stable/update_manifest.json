@@ -1,7 +1,7 @@
 {
   "app": "magic-image-solo",
-  "version": "v1.0.24",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.0.24/MagicImageSolo-v1.0.24.zip",
-  "sha256": "54ffe15a2044e12673283c1fb6b9acfe66ea5bcef2220b235c07ef9e38646906",
-  "notes": "Magic Image prüft jetzt ausschließlich die konkreten Werte aus #configs: CPU, RAM, RAM-Modulanzahl, SSD-Größe, Auflösung und hinterlegte Displaygröße. Windows-nutzbarer RAM wird bei reserviertem Grafik-/Firmware-Speicher auf die physische Standardgröße normalisiert. model.json bleibt für HardwareCheck/ModelFinder unverändert. Die kurzen Magic-Image-Ordner bleiben in der Auswahl sichtbar."
+  "version": "v1.0.25",
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.0.25/MagicImageSolo-v1.0.25.zip",
+  "sha256": "8266b1b87a0faf3eef55d8a14343992c376679ab7a1782aa5b9bd7c643046145",
+  "notes": "FAT32-sicheres Programmupdate: Jede ersetzte Programmdatei wird nach dem Tausch auf das Medium synchronisiert und vollständig rückgelesen. Python-Bytecode-Caches werden auf dem Live-Medium nicht mehr geschrieben. Das verhindert die bisher beobachtete Beschädigung der MISODEBIAN-Partition nach einem Update."
 }
