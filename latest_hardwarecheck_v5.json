@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.4.18",
+  "version": "v5.4.19",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.17_to_v5.4.18_pythonzip.zip",
-  "sha256": "915FCCDE40EFD32F294157D3CB794622FE7B1755FFE79976838C99E3EACB8A74",
-  "size_bytes": 264792,
-  "filename": "HardwareCheck_UPDATE_v5.4.17_to_v5.4.18_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.17_to_v5.4.18_pythonzip.zip",
-  "created_at": "2026-09-14T16:30:00Z",
-  "notes": "Gespeicherte WLANs können jetzt jederzeit über „Passwort ändern“ mit einem neuen Kennwort überschrieben und sofort neu verbunden werden."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.18_to_v5.4.19_pythonzip.zip",
+  "sha256": "492204E583DB946A6C39194D7E3ADC6A1E10FC6A3F92ED87C4786B1D7181E3A1",
+  "size_bytes": 264691,
+  "filename": "HardwareCheck_UPDATE_v5.4.18_to_v5.4.19_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.18_to_v5.4.19_pythonzip.zip",
+  "created_at": "2026-09-15T12:00:00Z",
+  "notes": "Magic Image nutzt für den Hardwareabgleich ausschließlich die Werte aus #configs: CPU, RAM, RAM-Modulanzahl, SSD-Größe, Auflösung und hinterlegte Displaygröße. Windows-nutzbarer RAM wird für reservierten Grafik-/Firmware- Speicher auf die physische Standardgröße normalisiert. model.json bleibt unverändert für HardwareCheck/ModelFinder."
 }
