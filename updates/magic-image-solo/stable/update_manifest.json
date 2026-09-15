@@ -1,7 +1,7 @@
 {
   "app": "magic-image-solo",
-  "version": "v1.0.26",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.0.26/MagicImageSolo-v1.0.26.zip",
-  "sha256": "6e9c4b04930fa21216005ce21cd6756677384a0bc50a67233fb3eef625602ece",
-  "notes": "Die Vorauswahl nach dem Restore bleibt unverändert. Während Clonezilla schreibt, können zwei Acronis-artige Häkchen jederzeit auf Neustart, Herunterfahren oder beide leer (= Tool bleibt geöffnet) geändert werden."
+  "version": "v1.0.27",
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.0.27/MagicImageSolo-v1.0.27.zip",
+  "sha256": "39ce30669dd5671f5023164364f6b19cd880e627873924c03455f98d0909d34d",
+  "notes": "Korrektur: Die während eines Restore änderbaren Häkchen für Neustart und Herunterfahren werden sichtbar unter dem Fortschrittsbalken angezeigt."
 }

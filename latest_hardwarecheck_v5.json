@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.4.21",
+  "version": "v5.4.22",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.20_to_v5.4.21_pythonzip.zip",
-  "sha256": "905FC45E21B9913204C40EDDD8D4BFCE863D3A007175068CFFB56EECA52404D7",
-  "size_bytes": 265378,
-  "filename": "HardwareCheck_UPDATE_v5.4.20_to_v5.4.21_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.20_to_v5.4.21_pythonzip.zip",
-  "created_at": "2026-09-15T15:00:00Z",
-  "notes": "Während eines laufenden Restore kann die Aktion danach jederzeit auf Neustart, Herunterfahren oder keine Aktion geändert werden."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.21_to_v5.4.22_pythonzip.zip",
+  "sha256": "06E095FF4A45E28B7944509D5E8772E6A2A061AD36F3927AC1FE7177FC417C57",
+  "size_bytes": 265381,
+  "filename": "HardwareCheck_UPDATE_v5.4.21_to_v5.4.22_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.21_to_v5.4.22_pythonzip.zip",
+  "created_at": "2026-09-15T15:30:00Z",
+  "notes": "Die Häkchen für die nachträgliche Abschlussaktion werden während des Restore sichtbar angezeigt."
 }
