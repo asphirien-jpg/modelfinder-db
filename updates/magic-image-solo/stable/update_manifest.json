@@ -1,7 +1,7 @@
 {
   "app": "magic-image-solo",
-  "version": "v1.0.27",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.0.27/MagicImageSolo-v1.0.27.zip",
-  "sha256": "39ce30669dd5671f5023164364f6b19cd880e627873924c03455f98d0909d34d",
-  "notes": "Korrektur: Die während eines Restore änderbaren Häkchen für Neustart und Herunterfahren werden sichtbar unter dem Fortschrittsbalken angezeigt."
+  "version": "v1.0.28",
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.0.28/MagicImageSolo-v1.0.28.zip",
+  "sha256": "6c197a3656111598aafbcfe3b2c04a1b6bb80327264a12fcdc132ef1128fc563",
+  "notes": "Nach einem Restore ohne Abschlussaktion erscheint ein schließbares Erfolgsfenster in der Bildschirmmitte."
 }
