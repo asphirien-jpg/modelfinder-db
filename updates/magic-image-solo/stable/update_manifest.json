@@ -1,7 +1,7 @@
 {
   "app": "magic-image-solo",
-  "version": "v1.0.25",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.0.25/MagicImageSolo-v1.0.25.zip",
-  "sha256": "8266b1b87a0faf3eef55d8a14343992c376679ab7a1782aa5b9bd7c643046145",
-  "notes": "FAT32-sicheres Programmupdate: Jede ersetzte Programmdatei wird nach dem Tausch auf das Medium synchronisiert und vollständig rückgelesen. Python-Bytecode-Caches werden auf dem Live-Medium nicht mehr geschrieben. Das verhindert die bisher beobachtete Beschädigung der MISODEBIAN-Partition nach einem Update."
+  "version": "v1.0.26",
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.0.26/MagicImageSolo-v1.0.26.zip",
+  "sha256": "6e9c4b04930fa21216005ce21cd6756677384a0bc50a67233fb3eef625602ece",
+  "notes": "Die Vorauswahl nach dem Restore bleibt unverändert. Während Clonezilla schreibt, können zwei Acronis-artige Häkchen jederzeit auf Neustart, Herunterfahren oder beide leer (= Tool bleibt geöffnet) geändert werden."
 }
