@@ -55051,5 +55051,32 @@
     "asset_status": "",
     "software": "",
     "note": "HP G6 (15,6 Zoll HD) Notebook (Intel N5000, 8GB DDR4, 512 GB SSD, Intel HD Grafik, Bluetooth, WLAN, USB 3.0, Windows 11 Prof, MS Office 2010"
+  },
+  {
+    "model_id": "8676",
+    "product_number": "X1704VA-AU1367",
+    "product_number_2": "",
+    "vendor": "Asus",
+    "cpu": "Intel Core 3 100U",
+    "ram_onboard": 0,
+    "ram_slot1": 16,
+    "ram_slot2": 0,
+    "ram_total": 16,
+    "ram_type": "DDR4",
+    "ram_layout": "1x16",
+    "ssd": 256,
+    "storage_type": "NVMe",
+    "ssd_2": 0,
+    "storage_type_2": "",
+    "optical_drive": "",
+    "inch": 17.3,
+    "display_type": "Full HD",
+    "operating_system": "Windows 11 Professional 64-Bit",
+    "keyboard_layout": "DE",
+    "condition": "",
+    "color": "Blue",
+    "asset_status": "Achtung 45W USB-C Netzteil beilegen !",
+    "software": "",
+    "note": "ASUS i3 Laptop 17,3 Zoll FullHD (Intel® Core™ 3 Prozessor 100U, 6 Kerne, 4.70 GHz, 16 GB DDR4 RAM, 256 GB NVME SSD, HDMI, BT, Webcam, USB-C/3.0, WLAN, Windows 11"
   }
 ]
