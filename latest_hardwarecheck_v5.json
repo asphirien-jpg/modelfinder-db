@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.4.23",
+  "version": "v5.4.24",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.22_to_v5.4.23_pythonzip.zip",
-  "sha256": "3DFEE0DC94AD8A6249B4E71E4DC2F56507741611ABC2F36F6ABDA0FCB15E012D",
-  "size_bytes": 265600,
-  "filename": "HardwareCheck_UPDATE_v5.4.22_to_v5.4.23_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.22_to_v5.4.23_pythonzip.zip",
-  "created_at": "2026-09-15T16:00:00Z",
-  "notes": "Bei keiner Abschlussaktion bestätigt ein schließbares Erfolgsfenster den Restore."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.23_to_v5.4.24_pythonzip.zip",
+  "sha256": "E4DA81FFF8E641C05557DF6E5958CE02FE63DD704E12D93F8E6D6D9DCC2AA707",
+  "size_bytes": 274488,
+  "filename": "HardwareCheck_UPDATE_v5.4.23_to_v5.4.24_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.23_to_v5.4.24_pythonzip.zip",
+  "created_at": "2026-09-23T14:00:00Z",
+  "notes": "CompactCheck ergänzt Festplatten-Test, HDD/SSD-Status und NVMe-Lese-/Schreibzähler."
 }
