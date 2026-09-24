@@ -1,7 +1,7 @@
 {
   "app": "magic-image-solo",
-  "version": "v1.0.31",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.0.31/MagicImageSolo-v1.0.31.zip",
-  "sha256": "6e412e97f0a4e52549f3f4f3cc7d728439c8657a2d503736d01839dc4c4a779c",
-  "notes": "WLAN respektiert nun die DNS-Verwaltung des Live-Systems und trennt eine aktive Verbindung nicht mehr beim Öffnen oder Suchen von Netzwerken."
+  "version": "v1.0.33",
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.0.33/MagicImageSolo-v1.0.33.zip",
+  "sha256": "17e19440ea0cf2a79f8010dc31cf5daf33c8fe97b6157c0f27d19025b33ee885",
+  "notes": "Der erkannte Grafikchip wird in Magic Image jetzt bei Notebooks und PCs als eigene Gerätezeile angezeigt. HardwareCheck v5.4.28 ist enthalten."
 }
