@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.4.30",
+  "version": "v5.4.31",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.28_to_v5.4.30_pythonzip.zip",
-  "sha256": "6C500C648B6D96A070FF5F482AD00F53C87DD8F30352056F022C619662889B32",
-  "size_bytes": 653483,
-  "filename": "HardwareCheck_UPDATE_v5.4.28_to_v5.4.30_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.28_to_v5.4.30_pythonzip.zip",
-  "created_at": "2026-09-24T15:00:00Z",
-  "notes": "Grafikkarten erhalten offline verständliche Namen aus einer kleinen, aus den zentralen Anzeige-Treiber-INF-Dateien erzeugten Datenbank. Keine Grafiktreiber werden auf die CompactCheck-Sticks kopiert. Die allgemeine PCI-ID-Datenbank wird ebenfalls aktualisiert."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.30_to_v5.4.31_pythonzip.zip",
+  "sha256": "C63A9CA4F70065A7ED0C9110ED94816071419A67C08964A168F52F54B5252D38",
+  "size_bytes": 654236,
+  "filename": "HardwareCheck_UPDATE_v5.4.30_to_v5.4.31_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.30_to_v5.4.31_pythonzip.zip",
+  "created_at": "2026-09-24T16:00:00Z",
+  "notes": "CompactCheck zeigt erkannte DVD/CD/Blu-ray-Laufwerke in einer eigenen Kachel. Ohne optisches Laufwerk bleibt die Grafik-Kachel breit. Redundante PCI-Herstellerpräfixe der Grafikbezeichnung werden gekürzt; es werden keine Monitor- oder Xorg-Einstellungen verändert."
 }
