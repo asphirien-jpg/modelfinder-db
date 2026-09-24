@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.4.25",
+  "version": "v5.4.27",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.24_to_v5.4.25_pythonzip.zip",
-  "sha256": "1F85290C7196708BFF0470C5AE3BFBD2FAE89D8A61395BB686B2CD95279E39AF",
-  "size_bytes": 274744,
-  "filename": "HardwareCheck_UPDATE_v5.4.24_to_v5.4.25_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.24_to_v5.4.25_pythonzip.zip",
-  "created_at": "2026-09-23T15:00:00Z",
-  "notes": "Drucker mit Tinte-, Toner- oder Papier-niedrig-Warnung bleiben druckbereit; echte Druckerfehler werden weiterhin sicher blockiert."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.25_to_v5.4.27_pythonzip.zip",
+  "sha256": "C7A4C481C6B2189C5892B2574A225BEA5D919EEA40AB9EC299F437AB7EF72991",
+  "size_bytes": 274989,
+  "filename": "HardwareCheck_UPDATE_v5.4.25_to_v5.4.27_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.25_to_v5.4.27_pythonzip.zip",
+  "created_at": "2026-09-24T09:00:00Z",
+  "notes": "CompactCheck: CPU, RAM, Speicher und Anzeige erhalten layoutgerechte Kacheln; der Akku-Test ist klar eingerahmt."
 }
