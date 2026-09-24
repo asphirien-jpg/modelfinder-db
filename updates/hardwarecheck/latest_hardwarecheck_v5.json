@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.4.36",
+  "version": "v5.4.37",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.35_to_v5.4.36_pythonzip.zip",
-  "sha256": "4D900D35727303EBBF82DE3FB9EB59B0FCAD9B6F4FB5EDF0EBFF2EA2B25C7729",
-  "size_bytes": 659131,
-  "filename": "HardwareCheck_UPDATE_v5.4.35_to_v5.4.36_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.35_to_v5.4.36_pythonzip.zip",
-  "created_at": "2026-09-24T20:00:00Z",
-  "notes": "Der Akku-Test hat jetzt einen eigenen Reiter Akku-Details mit allen vom Linux-Akkucontroller gemeldeten Daten: Hersteller, Modell, Seriennummer, Chemie, Auslegungs-, Voll- und aktuelle Kapazität, Gesundheit, Zyklen, Spannung, Strom, Leistung, Lade- und Netzteilstatus. Die Übersichtsseite und die Live-Verlaufsgrafik bleiben unverändert."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.36_to_v5.4.37_pythonzip.zip",
+  "sha256": "2EBBE67E9D05468D9B31D2674EE667322E71A9F01AAAA878B73ADC6586B86477",
+  "size_bytes": 659287,
+  "filename": "HardwareCheck_UPDATE_v5.4.36_to_v5.4.37_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.36_to_v5.4.37_pythonzip.zip",
+  "created_at": "2026-09-24T20:10:00Z",
+  "notes": "Korrigiert die Hintergrundfarbe der neuen Akku-Test-Reiter: Live-Test und Akku-Details verwenden jetzt den dunklen CompactCheck-Hintergrund statt der hellen GTK-Standardfläche."
 }
