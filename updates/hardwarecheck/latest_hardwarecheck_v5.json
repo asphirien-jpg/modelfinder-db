@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.4.14",
+  "version": "v5.4.32",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.12_to_v5.4.14_pythonzip.zip",
-  "sha256": "A72E9EC6B1DA73428EEED0AC5B15BA769EFF7906664697C7CED6CF54CCE5B46B",
-  "size_bytes": 261896,
-  "filename": "HardwareCheck_UPDATE_v5.4.12_to_v5.4.14_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.12_to_v5.4.14_pythonzip.zip",
-  "created_at": "2026-09-10T20:00:00Z",
-  "notes": "Windows nach erfolgreichem Restore zuerst in UEFI BootOrder und einmalig via BootNext; verifizierte doppelte Windows-Eintraege blockieren nicht mehr. Geraetegebundener USB-Fallback mit Diagnose. ASUS-Tests 8663, 8085, 8509 erfolgreich; keine Garantie fuer jede Firmware. Images und Einstellungen bleiben erhalten."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.31_to_v5.4.32_pythonzip.zip",
+  "sha256": "FA602626274A2B4B8DDA9FEEFCCF799409AC0355CFE19B69429657154F6008E6",
+  "size_bytes": 655433,
+  "filename": "HardwareCheck_UPDATE_v5.4.31_to_v5.4.32_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.31_to_v5.4.32_pythonzip.zip",
+  "created_at": "2026-09-24T17:00:00Z",
+  "notes": "Wenn CompactCheck keine interne Festplatte findet, speichert es automatisch Rohdaten zu Blockgeräten, NVMe/SMART-Tools, Storage-Controllern und Akku unter hardwarecheck-debug/storage-battery-diagnose.txt auf dem Stick. Keine Monitor-, Xorg- oder Auflösungsänderung."
 }
