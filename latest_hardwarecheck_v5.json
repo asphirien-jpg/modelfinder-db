@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.4.35",
+  "version": "v5.4.36",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.34_to_v5.4.35_pythonzip.zip",
-  "sha256": "D6308B839FA7395FA6FF5D25ACE8E40067B914B747CFE20BC3032563DEA330E7",
-  "size_bytes": 657081,
-  "filename": "HardwareCheck_UPDATE_v5.4.34_to_v5.4.35_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.34_to_v5.4.35_pythonzip.zip",
-  "created_at": "2026-09-24T19:00:00Z",
-  "notes": "Die Festplatten-Detailseite zeigt Seriennummer, Firmware, Schnittstelle, Controller-Standard, nachweisbare Funktionen, Kapazität und SMART-Quelle als eigene Kacheln. Alle Werte werden nur angezeigt, wenn sie vom Gerät oder dem Betriebssystem tatsächlich gemeldet werden."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.35_to_v5.4.36_pythonzip.zip",
+  "sha256": "4D900D35727303EBBF82DE3FB9EB59B0FCAD9B6F4FB5EDF0EBFF2EA2B25C7729",
+  "size_bytes": 659131,
+  "filename": "HardwareCheck_UPDATE_v5.4.35_to_v5.4.36_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.35_to_v5.4.36_pythonzip.zip",
+  "created_at": "2026-09-24T20:00:00Z",
+  "notes": "Der Akku-Test hat jetzt einen eigenen Reiter Akku-Details mit allen vom Linux-Akkucontroller gemeldeten Daten: Hersteller, Modell, Seriennummer, Chemie, Auslegungs-, Voll- und aktuelle Kapazität, Gesundheit, Zyklen, Spannung, Strom, Leistung, Lade- und Netzteilstatus. Die Übersichtsseite und die Live-Verlaufsgrafik bleiben unverändert."
 }
