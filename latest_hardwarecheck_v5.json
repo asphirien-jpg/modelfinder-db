@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.4.28",
+  "version": "v5.4.30",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.27_to_v5.4.28_pythonzip.zip",
-  "sha256": "8673BF2AA502430622A583510F8318B7C00917B1D11557F08504F8410B6AD934",
-  "size_bytes": 275959,
-  "filename": "HardwareCheck_UPDATE_v5.4.27_to_v5.4.28_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.27_to_v5.4.28_pythonzip.zip",
-  "created_at": "2026-09-24T13:00:00Z",
-  "notes": "Grafikchip-Erkennung für integrierte und dedizierte GPUs. CompactCheck zeigt die Grafik in einer eigenen Kachel und spart auf 14-Zoll-Displays Höhe: Der aktive Menüpunkt steht nun in der Kopfzeile."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.28_to_v5.4.30_pythonzip.zip",
+  "sha256": "6C500C648B6D96A070FF5F482AD00F53C87DD8F30352056F022C619662889B32",
+  "size_bytes": 653483,
+  "filename": "HardwareCheck_UPDATE_v5.4.28_to_v5.4.30_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.28_to_v5.4.30_pythonzip.zip",
+  "created_at": "2026-09-24T15:00:00Z",
+  "notes": "Grafikkarten erhalten offline verständliche Namen aus einer kleinen, aus den zentralen Anzeige-Treiber-INF-Dateien erzeugten Datenbank. Keine Grafiktreiber werden auf die CompactCheck-Sticks kopiert. Die allgemeine PCI-ID-Datenbank wird ebenfalls aktualisiert."
 }
