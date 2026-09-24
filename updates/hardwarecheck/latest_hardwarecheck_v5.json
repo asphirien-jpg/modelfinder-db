@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.4.33",
+  "version": "v5.4.34",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.32_to_v5.4.33_pythonzip.zip",
-  "sha256": "5C5E0C44E65B135F082A2E8FFC968C78480F57DE30159817A7CBB9D6CFDF6B30",
-  "size_bytes": 656313,
-  "filename": "HardwareCheck_UPDATE_v5.4.32_to_v5.4.33_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.32_to_v5.4.33_pythonzip.zip",
-  "created_at": "2026-09-24T18:00:00Z",
-  "notes": "CompactCheck erkennt Intel RST/RAID mit verstecktem NVMe-Laufwerk und zeigt eine eindeutige Warnung statt 'keine Festplatte'. Nicht verlässlich gemeldete Akku-Zyklen werden als 'nicht gemeldet' angezeigt. Keine Monitor-, Xorg- oder Auflösungsänderung."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.33_to_v5.4.34_pythonzip.zip",
+  "sha256": "FB3D3E07BDFCD7D2A50563D4D5D39F53D68CE5C8D1D86E306AB534786F7A2D86",
+  "size_bytes": 656426,
+  "filename": "HardwareCheck_UPDATE_v5.4.33_to_v5.4.34_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.33_to_v5.4.34_pythonzip.zip",
+  "created_at": "2026-09-24T18:30:00Z",
+  "notes": "Der Festplatten-Test zeigt gelesene und geschriebene Daten in GB/TB statt technischer NVMe-Befehlszähler. Betriebsstunden, Einschaltvorgänge, Temperatur und SMART-Warnungen bleiben sichtbar; Rohwerte bleiben im Detailbericht."
 }
