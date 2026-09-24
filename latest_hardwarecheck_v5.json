@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.4.34",
+  "version": "v5.4.35",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.33_to_v5.4.34_pythonzip.zip",
-  "sha256": "FB3D3E07BDFCD7D2A50563D4D5D39F53D68CE5C8D1D86E306AB534786F7A2D86",
-  "size_bytes": 656426,
-  "filename": "HardwareCheck_UPDATE_v5.4.33_to_v5.4.34_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.33_to_v5.4.34_pythonzip.zip",
-  "created_at": "2026-09-24T18:30:00Z",
-  "notes": "Der Festplatten-Test zeigt gelesene und geschriebene Daten in GB/TB statt technischer NVMe-Befehlszähler. Betriebsstunden, Einschaltvorgänge, Temperatur und SMART-Warnungen bleiben sichtbar; Rohwerte bleiben im Detailbericht."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.34_to_v5.4.35_pythonzip.zip",
+  "sha256": "D6308B839FA7395FA6FF5D25ACE8E40067B914B747CFE20BC3032563DEA330E7",
+  "size_bytes": 657081,
+  "filename": "HardwareCheck_UPDATE_v5.4.34_to_v5.4.35_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.34_to_v5.4.35_pythonzip.zip",
+  "created_at": "2026-09-24T19:00:00Z",
+  "notes": "Die Festplatten-Detailseite zeigt Seriennummer, Firmware, Schnittstelle, Controller-Standard, nachweisbare Funktionen, Kapazität und SMART-Quelle als eigene Kacheln. Alle Werte werden nur angezeigt, wenn sie vom Gerät oder dem Betriebssystem tatsächlich gemeldet werden."
 }
