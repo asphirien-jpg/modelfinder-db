@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.4.37",
+  "version": "v5.4.38",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.36_to_v5.4.37_pythonzip.zip",
-  "sha256": "2EBBE67E9D05468D9B31D2674EE667322E71A9F01AAAA878B73ADC6586B86477",
-  "size_bytes": 659287,
-  "filename": "HardwareCheck_UPDATE_v5.4.36_to_v5.4.37_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.36_to_v5.4.37_pythonzip.zip",
-  "created_at": "2026-09-24T20:10:00Z",
-  "notes": "Korrigiert die Hintergrundfarbe der neuen Akku-Test-Reiter: Live-Test und Akku-Details verwenden jetzt den dunklen CompactCheck-Hintergrund statt der hellen GTK-Standardfläche."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.37_to_v5.4.38_pythonzip.zip",
+  "sha256": "75AD5CBF26415CFA0E397D3E9CD88DB816C96E551F504048C650E9BCBA49C33F",
+  "size_bytes": 660977,
+  "filename": "HardwareCheck_UPDATE_v5.4.37_to_v5.4.38_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.37_to_v5.4.38_pythonzip.zip",
+  "created_at": "2026-09-25T12:20:00Z",
+  "notes": "Erweitert den Akku-Test um geprüfte Unterstützung für mehrere physische Akkus: Die Übersicht zeigt gewichtete Gesamtwerte für Kapazität, Gesundheit und Leistung. In Akku-Details werden die einzelnen Akkus mit Modell, Seriennummer, Kapazität und Ladezyklen separat angezeigt. Auf Geräten mit einem Akku bleibt die bisherige Anzeige erhalten."
 }
