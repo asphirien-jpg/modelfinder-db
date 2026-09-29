@@ -1,7 +1,7 @@
 {
   "app": "magic-image-solo",
-  "version": "v1.0.33",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.0.33/MagicImageSolo-v1.0.33.zip",
-  "sha256": "17e19440ea0cf2a79f8010dc31cf5daf33c8fe97b6157c0f27d19025b33ee885",
-  "notes": "Der erkannte Grafikchip wird in Magic Image jetzt bei Notebooks und PCs als eigene Gerätezeile angezeigt. HardwareCheck v5.4.28 ist enthalten."
+  "version": "v1.0.34",
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.0.34/MagicImageSolo-v1.0.34.zip",
+  "sha256": "fe2153bc301362c8e5e29dc9e5af73633336cfe51343d35fe06fb9e85577cac9",
+  "notes": "Freigegebener Werkstattstand: Der Arbeitsmodus bietet jetzt auch CompactCheck und wechselt ohne PC-Neustart direkt in das gewählte Tool. Die Programmaktualisierung erlaubt anschließend geprüfte gemeinsame Hilfsmodule. Images, Configs, lokale Einstellungen und Reports bleiben unverändert. Moduswechsel und ein Clonezilla-Restore mit automatischem Neustart wurden auf Testnotebooks geprüft."
 }
