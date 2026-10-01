@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.4.38",
+  "version": "v5.4.39",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.37_to_v5.4.38_pythonzip.zip",
-  "sha256": "75AD5CBF26415CFA0E397D3E9CD88DB816C96E551F504048C650E9BCBA49C33F",
-  "size_bytes": 660977,
-  "filename": "HardwareCheck_UPDATE_v5.4.37_to_v5.4.38_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.37_to_v5.4.38_pythonzip.zip",
-  "created_at": "2026-09-25T12:20:00Z",
-  "notes": "Erweitert den Akku-Test um geprüfte Unterstützung für mehrere physische Akkus: Die Übersicht zeigt gewichtete Gesamtwerte für Kapazität, Gesundheit und Leistung. In Akku-Details werden die einzelnen Akkus mit Modell, Seriennummer, Kapazität und Ladezyklen separat angezeigt. Auf Geräten mit einem Akku bleibt die bisherige Anzeige erhalten."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.38_to_v5.4.39_pythonzip.zip",
+  "sha256": "7B385E93942903E77F7D563408614F316346252308A78A542F5860766A3BB025",
+  "size_bytes": 662802,
+  "filename": "HardwareCheck_UPDATE_v5.4.38_to_v5.4.39_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.38_to_v5.4.39_pythonzip.zip",
+  "created_at": "2026-09-29T12:00:00Z",
+  "notes": "Freigegebener Werkstattstand: CompactCheck, HardwareCheck und Magic Image können im Arbeitsmodus ohne PC-Neustart direkt ineinander wechseln. Magic Image erkennt passende Clonezilla-Configs, zeigt Abweichungen vor einer Installation an und bewahrt den Acronis-Fallback. Der gemeinsame Magic-Image-Kern wurde in geprüfte Hilfsmodule aufgeteilt; lokale Images, Configs, Einstellungen, Reports und Backups bleiben unverändert. Getestet wurden Moduswechsel sowie ein erfolgreicher Clonezilla-Restore mit automatischem Neustart auf einem ASUS-Testnotebook."
 }

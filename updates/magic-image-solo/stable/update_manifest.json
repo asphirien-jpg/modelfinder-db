@@ -1,7 +1,7 @@
 {
   "app": "magic-image-solo",
-  "version": "v1.0.34",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.0.34/MagicImageSolo-v1.0.34.zip",
-  "sha256": "fe2153bc301362c8e5e29dc9e5af73633336cfe51343d35fe06fb9e85577cac9",
-  "notes": "Freigegebener Werkstattstand: Der Arbeitsmodus bietet jetzt auch CompactCheck und wechselt ohne PC-Neustart direkt in das gewählte Tool. Die Programmaktualisierung erlaubt anschließend geprüfte gemeinsame Hilfsmodule. Images, Configs, lokale Einstellungen und Reports bleiben unverändert. Moduswechsel und ein Clonezilla-Restore mit automatischem Neustart wurden auf Testnotebooks geprüft."
+  "version": "v1.0.35",
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.0.35/MagicImageSolo-v1.0.35.zip",
+  "sha256": "3a2b85c3c935d05228d9db2041a43768684f9ba8e5431bd55bc570bd2ab20123",
+  "notes": "Freigegebene Updater-Brücke: bereitet vorhandene Magic-Image-Solo-Sticks auf die geprüften gemeinsamen Magic-Image-Hilfsmodule vor. Bilder, Configs, lokale Einstellungen, Reports und der bestehende Installationsablauf bleiben unverändert."
 }
