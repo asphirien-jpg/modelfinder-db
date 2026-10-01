@@ -1,7 +1,7 @@
 {
   "app": "magic-image-solo",
-  "version": "v1.0.35",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.0.35/MagicImageSolo-v1.0.35.zip",
-  "sha256": "3a2b85c3c935d05228d9db2041a43768684f9ba8e5431bd55bc570bd2ab20123",
-  "notes": "Freigegebene Updater-Brücke: bereitet vorhandene Magic-Image-Solo-Sticks auf die geprüften gemeinsamen Magic-Image-Hilfsmodule vor. Bilder, Configs, lokale Einstellungen, Reports und der bestehende Installationsablauf bleiben unverändert."
+  "version": "v1.0.36",
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.0.36/MagicImageSolo-v1.0.36.zip",
+  "sha256": "99602bab5e137a532c348a5dbaadc4c63d8e1c66ae63832499d76b72b24f8cfb",
+  "notes": "Freigegebener modularer Magic-Image-Kern: gemeinsame, rein lesende Module für Image-Pfade und Config-Sollwerte. Config-Vergleich, Clonezilla-Erkennung, Acronis-Fallback, Images, Configs, lokale Einstellungen und Reports bleiben unverändert."
 }
