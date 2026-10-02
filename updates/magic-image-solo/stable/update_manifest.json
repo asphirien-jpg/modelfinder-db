@@ -1,7 +1,7 @@
 {
   "app": "magic-image-solo",
-  "version": "v1.0.36",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.0.36/MagicImageSolo-v1.0.36.zip",
-  "sha256": "99602bab5e137a532c348a5dbaadc4c63d8e1c66ae63832499d76b72b24f8cfb",
-  "notes": "Freigegebener modularer Magic-Image-Kern: gemeinsame, rein lesende Module für Image-Pfade und Config-Sollwerte. Config-Vergleich, Clonezilla-Erkennung, Acronis-Fallback, Images, Configs, lokale Einstellungen und Reports bleiben unverändert."
+  "version": "v1.0.48",
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.0.48/MagicImageSolo-v1.0.48.zip",
+  "sha256": "39388a882fd8551172812a19165120e16c92c4ae69d297231b7a1800ae442c24",
+  "notes": "Freigegebene Eingabe-Verbesserung: Touchpad-Tippen ist aktiv und Num Lock wird beim Start von Magic Image geprüft sowie bei Bedarf zuverlässig aktiviert. Images, Configs, lokale Einstellungen und Reports bleiben unverändert."
 }
