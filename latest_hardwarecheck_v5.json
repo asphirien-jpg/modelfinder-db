@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.4.48",
+  "version": "v5.4.53",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.40_to_v5.4.48_pythonzip.zip",
-  "sha256": "3978BBEE04F2BA4EC2AC066A12A96A51EBFABA219E5061F91C3FC9A4F6F81544",
-  "size_bytes": 247511,
-  "filename": "HardwareCheck_UPDATE_v5.4.40_to_v5.4.48_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.40_to_v5.4.48_pythonzip.zip",
-  "created_at": "2026-10-02T12:00:00Z",
-  "notes": "Freigegebene SSD-/HDD-Station: erkennt externe Teststationen und interne Ziel-SSDs, liest verfügbare SMART- und Controllerwerte und entfernt bei freigegebener Bereinigung Partitionen sowie Dateisystemsignaturen. Tool- und Boot-Medien bleiben ausgeblendet und gesperrt; interne Datenträger verlangen die Eingabe OK. Oberfläche und neu erzeugte Berichte folgen DE/EN/CZ. Keine Images, Configs, Restore-, UEFI/Boot- oder Firmware-Dateien werden geändert."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.48_to_v5.4.53_pythonzip.zip",
+  "sha256": "8AE43307D010E2442B9030C109F2FCC38C8395FCFDA58F42D3E55B50BC47036E",
+  "size_bytes": 251187,
+  "filename": "HardwareCheck_UPDATE_v5.4.48_to_v5.4.53_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.48_to_v5.4.53_pythonzip.zip",
+  "created_at": "2026-10-02T14:00:00Z",
+  "notes": "Freigegebene SSD-/HDD-Station mit USB-SATA/NVMe-Bridge-Erkennung, SMART-Details und permanenter Partitionsansicht für die gerade verwendete Teststation. Tool-/Boot-Medien bleiben ausgeblendet und gesperrt; interne Datenträger verlangen OK. Aktiviert zudem Tap-to-click für erkannte Laptop-Touchpads in der aktuellen Live-Sitzung. Keine Images, Configs, Datenträger, Restore-, UEFI/Boot- oder Firmware-Dateien werden geändert."
 }
