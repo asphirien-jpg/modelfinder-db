@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.4.48",
+  "version": "v5.4.54",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/refs/heads/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.40_to_v5.4.48_pythonzip.zip",
-  "sha256": "3978BBEE04F2BA4EC2AC066A12A96A51EBFABA219E5061F91C3FC9A4F6F81544",
-  "size_bytes": 247511,
-  "filename": "HardwareCheck_UPDATE_v5.4.40_to_v5.4.48_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.40_to_v5.4.48_pythonzip.zip",
-  "created_at": "2026-10-02T12:00:00Z",
-  "notes": "Freigegebene SSD-/HDD-Station: erkennt externe Teststationen und interne Ziel-SSDs, liest verfügbare SMART- und Controllerwerte und entfernt bei freigegebener Bereinigung Partitionen sowie Dateisystemsignaturen. Tool- und Boot-Medien bleiben ausgeblendet und gesperrt; interne Datenträger verlangen die Eingabe OK. Oberfläche und neu erzeugte Berichte folgen DE/EN/CZ. Keine Images, Configs, Restore-, UEFI/Boot- oder Firmware-Dateien werden geändert."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.53_to_v5.4.54_pythonzip.zip",
+  "sha256": "309160c77421c0772be7dc7609bb82fdbfd87bca3dc443cc6f1470e67655b88e",
+  "size_bytes": 296905,
+  "filename": "HardwareCheck_UPDATE_v5.4.53_to_v5.4.54_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.53_to_v5.4.54_pythonzip.zip",
+  "created_at": "2026-10-05T16:30:00Z",
+  "notes": "Korrigiert die Erkennung der Display-Angabe HD+ als 1600 × 900 in Magic Image. Es werden ausschließlich Programmdateien aktualisiert; Images, Configs, lokale Einstellungen, Reports und Datenträger bleiben unverändert."
 }
