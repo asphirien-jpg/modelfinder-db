@@ -55078,32 +55078,5 @@
     "asset_status": "Achtung 45W USB-C Netzteil beilegen !",
     "software": "",
     "note": "ASUS i3 Laptop 17,3 Zoll FullHD (Intel® Core™ 3 Prozessor 100U, 6 Kerne, 4.70 GHz, 16 GB DDR4 RAM, 256 GB NVME SSD, HDMI, BT, Webcam, USB-C/3.0, WLAN, Windows 11"
-  },
-  {
-    "model_id": "1111",
-    "product_number": "",
-    "product_number_2": "",
-    "vendor": "Lenovo",
-    "cpu": "i5 1315",
-    "ram_onboard": 4,
-    "ram_slot1": 0,
-    "ram_slot2": 0,
-    "ram_total": 4,
-    "ram_type": "DDR4",
-    "ram_layout": "1x4",
-    "ssd": 512,
-    "storage_type": "NVMe",
-    "ssd_2": 0,
-    "storage_type_2": "",
-    "optical_drive": "None",
-    "inch": 15.6,
-    "display_type": "Full HD",
-    "operating_system": "",
-    "keyboard_layout": "DE",
-    "condition": "",
-    "color": "",
-    "asset_status": "",
-    "software": "",
-    "note": "Hi Dan"
   }
 ]
