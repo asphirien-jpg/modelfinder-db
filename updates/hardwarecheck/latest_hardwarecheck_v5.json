@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.5.1",
+  "version": "v5.5.2",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.40_to_v5.5.1_bridge_pythonzip.zip",
-  "sha256": "59a48d3f7823b7bf8c81c9ac59e40110092bd9c3a02f635e83ea4f1d62bcebfb",
-  "size_bytes": 297631,
-  "filename": "HardwareCheck_UPDATE_v5.4.40_to_v5.5.1_bridge_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.40_to_v5.5.1_bridge_pythonzip.zip",
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.40_to_v5.5.2_suite_bridge_pythonzip.zip",
+  "sha256": "04892ef7aa1df8a354ad9099cc92baf16d521b1c2056753956b3983e5979651c",
+  "size_bytes": 357239,
+  "filename": "HardwareCheck_UPDATE_v5.4.40_to_v5.5.2_suite_bridge_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.40_to_v5.5.2_suite_bridge_pythonzip.zip",
   "created_at": "2026-10-06T12:00:00Z",
-  "notes": "Kompatible V5-Brücke: Auch ältere HardwareCheck-Sticks übernehmen zunächst nur ihren freigegebenen Kern; fehlende reine Hilfsmodule werden danach aus dem bereits geprüften Staging sicher ergänzt. Der dunkle Installationsmodus zeigt den Fortschritt und startet wieder in die zuvor verwendete V5-Oberfläche. Es werden ausschließlich Programmdateien aktualisiert."
+  "notes": "Suite-Brücke 2026.10.06.1: Jeder Einstieg (HardwareCheck, CompactCheck oder Magic Image) übernimmt danach den vollständigen, zusammenpassenden Werkzeugstand aus einem SHA-256-geprüften Paket. Einstellungen, Images, Configs und Reports bleiben unverändert."
 }
