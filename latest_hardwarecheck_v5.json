@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.4.54",
+  "version": "v5.4.55",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.53_to_v5.4.54_pythonzip.zip",
-  "sha256": "309160c77421c0772be7dc7609bb82fdbfd87bca3dc443cc6f1470e67655b88e",
-  "size_bytes": 296905,
-  "filename": "HardwareCheck_UPDATE_v5.4.53_to_v5.4.54_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.53_to_v5.4.54_pythonzip.zip",
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.54_to_v5.4.55_pythonzip.zip",
+  "sha256": "7fca428662152d717177dac9db9867849048e661778dcf75c58cca63c52a3345",
+  "size_bytes": 297359,
+  "filename": "HardwareCheck_UPDATE_v5.4.54_to_v5.4.55_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.54_to_v5.4.55_pythonzip.zip",
   "created_at": "2026-10-05T16:30:00Z",
   "notes": "Korrigiert die Erkennung der Display-Angabe HD+ als 1600 × 900 in Magic Image. Es werden ausschließlich Programmdateien aktualisiert; Images, Configs, lokale Einstellungen, Reports und Datenträger bleiben unverändert."
 }
