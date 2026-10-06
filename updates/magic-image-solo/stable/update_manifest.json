@@ -1,7 +1,7 @@
 {
   "app": "magic-image-solo",
-  "version": "v1.0.50",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.0.49/MagicImageSolo-v1.0.50.zip",
-  "sha256": "c67aaa4a2242adf825ffa23a6bc12336a8b195af9f04596b4c2347925e5eab5c",
-  "notes": "Korrigiert die Erkennung der Display-Angabe HD+ als 1600 × 900. Es werden ausschließlich Programmdateien aktualisiert; Images, Configs, lokale Einstellungen und Reports bleiben unverändert."
+  "version": "v1.1.0",
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.1.0/MagicImageSolo-v1.1.0.zip",
+  "sha256": "99f0a535a97c3fa5c540dd199613da95da0276392e3314d81120bb75da3bd7f8",
+  "notes": "Updates werden vollständig heruntergeladen und geprüft. Die Installation läuft danach in einem eindeutigen dunklen Fortschrittsmodus und startet wieder in Magic Image. Es werden ausschließlich Programmdateien aktualisiert; Images, Configs, lokale Einstellungen und Reports bleiben unverändert."
 }
