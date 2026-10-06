@@ -1,7 +1,7 @@
 {
   "app": "magic-image-solo",
-  "version": "v1.1.0",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.1.0/MagicImageSolo-v1.1.0.zip",
-  "sha256": "99f0a535a97c3fa5c540dd199613da95da0276392e3314d81120bb75da3bd7f8",
-  "notes": "Updates werden vollständig heruntergeladen und geprüft. Die Installation läuft danach in einem eindeutigen dunklen Fortschrittsmodus und startet wieder in Magic Image. Es werden ausschließlich Programmdateien aktualisiert; Images, Configs, lokale Einstellungen und Reports bleiben unverändert."
+  "version": "v1.1.1",
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.1.1/MagicImageSolo-v1.1.1.zip",
+  "sha256": "b67fa735494edff7488792f7fbbf734f710026252443956ec6f8590f31f3a2e7",
+  "notes": "Magic-Image-Update: vollständig herunterladen, prüfen und anschließend im dunklen Fortschrittsmodus installieren. Dieses Paket aktualisiert ausschließlich Magic Image und seine gemeinsamen Hilfsmodule – den HardwareCheck-/CompactCheck-Kern aktualisiert nur dessen eigener geprüfter Updater. Images, Configs, lokale Einstellungen und Reports bleiben unverändert."
 }
