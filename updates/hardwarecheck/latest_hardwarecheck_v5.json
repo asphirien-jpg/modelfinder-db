@@ -4,11 +4,11 @@
   "version": "v5.5.0",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.55_to_v5.5.0_pythonzip.zip",
-  "sha256": "220f2a6ff6f03641f660f29d92f2c33950a581d02810a254a62356fb0e22e9c8",
-  "size_bytes": 297699,
-  "filename": "HardwareCheck_UPDATE_v5.4.55_to_v5.5.0_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.55_to_v5.5.0_pythonzip.zip",
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.40_to_v5.5.0_bridge_pythonzip.zip",
+  "sha256": "19301f6014f2d131d3a03801d17e512dd3465b7a7ff66a90553c1c4269bf6560",
+  "size_bytes": 297631,
+  "filename": "HardwareCheck_UPDATE_v5.4.40_to_v5.5.0_bridge_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.40_to_v5.5.0_bridge_pythonzip.zip",
   "created_at": "2026-10-06T12:00:00Z",
-  "notes": "Updates werden erst vollständig heruntergeladen und geprüft. Der dunkle Installationsmodus zeigt den Fortschritt und startet danach wieder in die zuvor verwendete V5-Oberfläche. Es werden ausschließlich Programmdateien aktualisiert."
+  "notes": "Kompatible V5-Brücke: Auch ältere HardwareCheck-Sticks übernehmen zunächst nur ihren freigegebenen Kern; fehlende reine Hilfsmodule werden danach aus dem bereits geprüften Staging sicher ergänzt. Der dunkle Installationsmodus zeigt den Fortschritt und startet wieder in die zuvor verwendete V5-Oberfläche. Es werden ausschließlich Programmdateien aktualisiert."
 }
