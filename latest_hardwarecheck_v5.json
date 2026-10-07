@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.5.2",
+  "version": "v5.5.3",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.40_to_v5.5.2_suite_bridge_pythonzip.zip",
-  "sha256": "04892ef7aa1df8a354ad9099cc92baf16d521b1c2056753956b3983e5979651c",
-  "size_bytes": 357239,
-  "filename": "HardwareCheck_UPDATE_v5.4.40_to_v5.5.2_suite_bridge_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.40_to_v5.5.2_suite_bridge_pythonzip.zip",
-  "created_at": "2026-10-06T12:00:00Z",
-  "notes": "Suite-Brücke 2026.10.06.1: Jeder Einstieg (HardwareCheck, CompactCheck oder Magic Image) übernimmt danach den vollständigen, zusammenpassenden Werkzeugstand aus einem SHA-256-geprüften Paket. Einstellungen, Images, Configs und Reports bleiben unverändert."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.5.2_to_v5.5.3_boot_metadata_clean_pythonzip.zip",
+  "sha256": "e5d43538068a8c3264a340e448bb78cf75c710eb529f49a626fd90f7c0efdd16",
+  "size_bytes": 358189,
+  "filename": "HardwareCheck_UPDATE_v5.5.2_to_v5.5.3_boot_metadata_clean_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.5.2_to_v5.5.3_boot_metadata_clean_pythonzip.zip",
+  "created_at": "2026-10-07T12:00:00Z",
+  "notes": "v5.5.3: Bereinigung externer SSDs löscht zusätzlich die MBR-, GPT- und Boot-Metadaten am Anfang und Ende des Datenträgers. Magic Image und die übrigen Suite-Dateien entsprechen bytegenau dem veröffentlichten v5.5.2-Stand."
 }
