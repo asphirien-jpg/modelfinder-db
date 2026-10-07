@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.5.3",
+  "version": "v5.5.4",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.5.2_to_v5.5.3_boot_metadata_clean_pythonzip.zip",
-  "sha256": "e5d43538068a8c3264a340e448bb78cf75c710eb529f49a626fd90f7c0efdd16",
-  "size_bytes": 358189,
-  "filename": "HardwareCheck_UPDATE_v5.5.2_to_v5.5.3_boot_metadata_clean_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.5.2_to_v5.5.3_boot_metadata_clean_pythonzip.zip",
-  "created_at": "2026-10-07T12:00:00Z",
-  "notes": "v5.5.3: Bereinigung externer SSDs löscht zusätzlich die MBR-, GPT- und Boot-Metadaten am Anfang und Ende des Datenträgers. Magic Image und die übrigen Suite-Dateien entsprechen bytegenau dem veröffentlichten v5.5.2-Stand."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.5.3_to_v5.5.4_batch_station_progress_pythonzip.zip",
+  "sha256": "efe7071e51262b161aca53f83a12b88d884ec81a65f1d52dc0decea72bbc3dae",
+  "size_bytes": 361410,
+  "filename": "HardwareCheck_UPDATE_v5.5.3_to_v5.5.4_batch_station_progress_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.5.3_to_v5.5.4_batch_station_progress_pythonzip.zip",
+  "created_at": "2026-10-07T14:55:00Z",
+  "notes": "v5.5.4: SSD-/HDD-Station kann mehrere externe Teststationen nacheinander ohne Zusatzabfrage bereinigen. Der grüne Sammelbutton, Fortschritt in Prozent und Haken je SSD zeigen den Ablauf; interne, Boot- und Tool-Datenträger bleiben geschützt."
 }
