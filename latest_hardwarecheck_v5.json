@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.6.0",
-  "suite_version": "v5.6.0",
+  "version": "v5.6.1",
+  "suite_version": "v5.6.1",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/suite/v5.6.0/HardwareCheck_Suite_v5.6.0.zip",
-  "repo_path": "updates/suite/v5.6.0/HardwareCheck_Suite_v5.6.0.zip",
-  "filename": "HardwareCheck_Suite_v5.6.0.zip",
-  "sha256": "d9c1b0c64837fd3a0279bc1b4f916661aaf603c65b25ae481fff9408236b77ab",
-  "size_bytes": 361989,
-  "created_at": "2026-10-08T14:00:00Z",
-  "notes": "Suite v5.6.0: Ein Programm-Update aus HardwareCheck, CompactCheck oder Magic Image vereinheitlicht alle drei Werkzeuge. Lokale Modelle, Images, Einstellungen und Reports bleiben unverändert."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/suite/v5.6.1/HardwareCheck_Suite_v5.6.1.zip",
+  "repo_path": "updates/suite/v5.6.1/HardwareCheck_Suite_v5.6.1.zip",
+  "filename": "HardwareCheck_Suite_v5.6.1.zip",
+  "sha256": "a5295af91334d68208ecbb421ceb4c51e6e7e85c63b199d5813c2c6b2d8733db",
+  "size_bytes": 361971,
+  "created_at": "2026-10-08T14:15:00Z",
+  "notes": "Suite v5.6.1: Korrigiert den Magic-Image-Updateablauf. Ein Update wird auch bei ausgewählter Config sicher übernommen und startet danach wieder Magic Image. Alle drei Werkzeuge bleiben auf derselben Suite-Version; lokale Modelle, Images, Einstellungen und Reports bleiben unverändert."
 }
