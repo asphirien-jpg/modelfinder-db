@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.5.2",
+  "version": "v5.5.5",
   "platform": "debian-live",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.40_to_v5.5.2_suite_bridge_pythonzip.zip",
-  "sha256": "04892ef7aa1df8a354ad9099cc92baf16d521b1c2056753956b3983e5979651c",
-  "size_bytes": 357239,
-  "filename": "HardwareCheck_UPDATE_v5.4.40_to_v5.5.2_suite_bridge_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.4.40_to_v5.5.2_suite_bridge_pythonzip.zip",
-  "created_at": "2026-10-06T12:00:00Z",
-  "notes": "Suite-Brücke 2026.10.06.1: Jeder Einstieg (HardwareCheck, CompactCheck oder Magic Image) übernimmt danach den vollständigen, zusammenpassenden Werkzeugstand aus einem SHA-256-geprüften Paket. Einstellungen, Images, Configs und Reports bleiben unverändert."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.5.4_to_v5.5.5_amd_gpu_names_pythonzip.zip",
+  "sha256": "478e7b09a4c14e0a2019df48fa880dc99c31b812f56d0d33c3a0cfcc547d433d",
+  "size_bytes": 374555,
+  "filename": "HardwareCheck_UPDATE_v5.5.4_to_v5.5.5_amd_gpu_names_pythonzip.zip",
+  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.5.4_to_v5.5.5_amd_gpu_names_pythonzip.zip",
+  "created_at": "2026-10-08T12:15:00Z",
+  "notes": "v5.5.5: AMD/ATI-Grafikkarten werden über 1.146 Offline-PCI-IDs genauso wie NVIDIA und Intel mit Namen erkannt. Sonstige Programmfunktionen bleiben unverändert."
 }
