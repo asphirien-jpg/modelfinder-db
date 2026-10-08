@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.6.3",
-  "suite_version": "v5.6.3",
+  "version": "v5.6.4",
+  "suite_version": "v5.6.4",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/suite/v5.6.3/HardwareCheck_Suite_v5.6.3.zip",
-  "repo_path": "updates/suite/v5.6.3/HardwareCheck_Suite_v5.6.3.zip",
-  "filename": "HardwareCheck_Suite_v5.6.3.zip",
-  "sha256": "22f67ad2b6f13b8309af795642dc4bb161efc4a387f0b76d53e34d3ed6466ef5",
-  "size_bytes": 360704,
-  "created_at": "2026-10-08T15:25:00Z",
-  "notes": "Suite v5.6.3: Der PC-Grafikkartenvergleich ignoriert harmlose PCI-/Treiberzusätze wie '(rev 06)', Herstellerzusätze und (R)/(TM), prüft aber weiterhin die tatsächliche Grafikmodellbezeichnung. Alle drei Werkzeuge bleiben auf derselben Suite-Version; lokale Modelle, Images, Einstellungen und Reports bleiben unverändert."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/suite/v5.6.4/HardwareCheck_Suite_v5.6.4.zip",
+  "repo_path": "updates/suite/v5.6.4/HardwareCheck_Suite_v5.6.4.zip",
+  "filename": "HardwareCheck_Suite_v5.6.4.zip",
+  "sha256": "aeb0c956b908b3e9c934964cc8a897db697ed1d1ac2773675befb229a51d14d2",
+  "size_bytes": 360776,
+  "created_at": "2026-10-08T16:00:00Z",
+  "notes": "Suite v5.6.4: Der Wechsel von Magic Image zu CompactCheck oder HardwareCheck startet den gemeinsamen Launcher sofort. Normale Magic-Neustarts nach Programmupdates bleiben weiterhin im Magic-Startweg."
 }
