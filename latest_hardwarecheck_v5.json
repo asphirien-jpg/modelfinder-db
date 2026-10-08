@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.5.4",
-  "platform": "debian-live",
+  "version": "v5.6.0",
+  "suite_version": "v5.6.0",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/hardwarecheck/HardwareCheck_UPDATE_v5.5.3_to_v5.5.4_batch_station_progress_pythonzip.zip",
-  "sha256": "efe7071e51262b161aca53f83a12b88d884ec81a65f1d52dc0decea72bbc3dae",
-  "size_bytes": 361410,
-  "filename": "HardwareCheck_UPDATE_v5.5.3_to_v5.5.4_batch_station_progress_pythonzip.zip",
-  "repo_path": "updates/hardwarecheck/HardwareCheck_UPDATE_v5.5.3_to_v5.5.4_batch_station_progress_pythonzip.zip",
-  "created_at": "2026-10-07T14:55:00Z",
-  "notes": "v5.5.4: SSD-/HDD-Station kann mehrere externe Teststationen nacheinander ohne Zusatzabfrage bereinigen. Der grüne Sammelbutton, Fortschritt in Prozent und Haken je SSD zeigen den Ablauf; interne, Boot- und Tool-Datenträger bleiben geschützt."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/suite/v5.6.0/HardwareCheck_Suite_v5.6.0.zip",
+  "repo_path": "updates/suite/v5.6.0/HardwareCheck_Suite_v5.6.0.zip",
+  "filename": "HardwareCheck_Suite_v5.6.0.zip",
+  "sha256": "d9c1b0c64837fd3a0279bc1b4f916661aaf603c65b25ae481fff9408236b77ab",
+  "size_bytes": 361989,
+  "created_at": "2026-10-08T14:00:00Z",
+  "notes": "Suite v5.6.0: Ein Programm-Update aus HardwareCheck, CompactCheck oder Magic Image vereinheitlicht alle drei Werkzeuge. Lokale Modelle, Images, Einstellungen und Reports bleiben unverändert."
 }
