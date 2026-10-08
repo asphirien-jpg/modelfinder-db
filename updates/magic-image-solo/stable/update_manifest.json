@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "magic-image-solo",
-  "version": "v5.6.1",
-  "suite_version": "v5.6.1",
+  "version": "v5.6.3",
+  "suite_version": "v5.6.3",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/suite/v5.6.1/MagicImageSolo_Suite_v5.6.1.zip",
-  "repo_path": "updates/suite/v5.6.1/MagicImageSolo_Suite_v5.6.1.zip",
-  "filename": "MagicImageSolo_Suite_v5.6.1.zip",
-  "sha256": "b210168055f2832e44e7fba843b0c680f2ad7fac32a48e8512f3f3a36161a4bb",
-  "size_bytes": 362021,
-  "created_at": "2026-10-08T14:15:00Z",
-  "notes": "Suite v5.6.1: Korrigiert den Magic-Image-Updateablauf. Ein Update wird auch bei ausgewählter Config sicher übernommen und startet danach wieder Magic Image. Alle drei Werkzeuge bleiben auf derselben Suite-Version; lokale Modelle, Images, Einstellungen und Reports bleiben unverändert."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/suite/v5.6.3/MagicImageSolo_Suite_v5.6.3.zip",
+  "repo_path": "updates/suite/v5.6.3/MagicImageSolo_Suite_v5.6.3.zip",
+  "filename": "MagicImageSolo_Suite_v5.6.3.zip",
+  "sha256": "4896b97381f4cce5c4529f5007a5cef7dbeb257a6b872616adac82577657e26b",
+  "size_bytes": 360754,
+  "created_at": "2026-10-08T15:25:00Z",
+  "notes": "Suite v5.6.3: Der PC-Grafikkartenvergleich ignoriert harmlose PCI-/Treiberzusätze wie '(rev 06)', Herstellerzusätze und (R)/(TM), prüft aber weiterhin die tatsächliche Grafikmodellbezeichnung. Alle drei Werkzeuge bleiben auf derselben Suite-Version; lokale Modelle, Images, Einstellungen und Reports bleiben unverändert."
 }
