@@ -1,7 +1,7 @@
 {
   "app": "magic-image-solo",
-  "version": "v1.1.2",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.1.2/MagicImageSolo-v1.1.2.zip",
-  "sha256": "1667bf159731790d9489a2c9259c8e380dd8c5f01c9c5c2bafc9eca321958999",
-  "notes": "Suite-Brücke 2026.10.06.1: Magic Image startet die vollständige, geprüfte Aktualisierung für Magic Image, HardwareCheck und CompactCheck gemeinsam. Images, Configs, lokale Einstellungen und Reports bleiben unverändert."
+  "version": "v1.1.3",
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/magic-image-solo/v1.1.3/MagicImageSolo-v1.1.3.zip",
+  "sha256": "e65defff16c4c38b376de1bb5c53bf5f353aa3b84d6cb48399a939c94e129f69",
+  "notes": "PC-Erweiterung: Computer-Modus prüft CPU, RAM, SSD und – falls in der Config vorhanden – die Grafikkarte. Display-Prüfungen gelten weiterhin nur für Notebooks. Tschechische Prüfhinweise sind vollständig übersetzt. Images, Configs, lokale Einstellungen und Reports bleiben unverändert."
 }
