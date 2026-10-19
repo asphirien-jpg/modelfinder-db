@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "magic-image-solo",
-  "version": "v5.6.4",
-  "suite_version": "v5.6.4",
+  "version": "v5.6.5",
+  "suite_version": "v5.6.5",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/suite/v5.6.4/MagicImageSolo_Suite_v5.6.4.zip",
-  "repo_path": "updates/suite/v5.6.4/MagicImageSolo_Suite_v5.6.4.zip",
-  "filename": "MagicImageSolo_Suite_v5.6.4.zip",
-  "sha256": "19731e2aeb14b23598be17df4ea31410a9095d96ca5a5bcf4a24973714ee2e89",
-  "size_bytes": 360824,
-  "created_at": "2026-10-08T16:00:00Z",
-  "notes": "Suite v5.6.4: Der Wechsel von Magic Image zu CompactCheck oder HardwareCheck startet den gemeinsamen Launcher sofort. Normale Magic-Neustarts nach Programmupdates bleiben weiterhin im Magic-Startweg."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/suite/v5.6.5/MagicImageSolo_Suite_v5.6.5.zip",
+  "repo_path": "updates/suite/v5.6.5/MagicImageSolo_Suite_v5.6.5.zip",
+  "filename": "MagicImageSolo_Suite_v5.6.5.zip",
+  "sha256": "2a1eb1c0bad19f6f303e25bab9080aa072873fcd12975644e4c08d83c3480766",
+  "size_bytes": 361192,
+  "created_at": "2026-10-19T12:00:00Z",
+  "notes": "Suite v5.6.5: Nach einem erfolgreichen Clonezilla-Restore wartet Magic Image bis zu 30 Sekunden auf die erneut eingelesene Windows-NTFS-Partition. Der strenge Handoff- und Bootschutz bleibt aktiv."
 }
