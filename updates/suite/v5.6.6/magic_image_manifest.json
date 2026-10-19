@@ -1,0 +1,14 @@
+{
+  "manifest_version": 1,
+  "app": "magic-image-solo",
+  "version": "v5.6.6",
+  "suite_version": "v5.6.6",
+  "package_type": "program-update",
+  "filename": "MagicImageSolo_Suite_v5.6.6.zip",
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/suite/v5.6.6/MagicImageSolo_Suite_v5.6.6.zip",
+  "repo_path": "updates/suite/v5.6.6/MagicImageSolo_Suite_v5.6.6.zip",
+  "sha256": "4ea9d1896b990520b59b7d75f114e18d1f3b0700bb5281820f999830537c1592",
+  "size_bytes": 361308,
+  "created_at": "2026-10-19T14:00:00Z",
+  "notes": "Suite v5.6.6: Opt-in Beta-Test-Kanal. Ohne aktiviertes Häkchen bleiben Programmupdates vollständig im Live-Kanal; Images, Configs, Treiber und Boot-Dateien werden nicht verändert."
+}
