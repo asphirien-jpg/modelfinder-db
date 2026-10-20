@@ -7,7 +7,7 @@
   "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/suite/v5.6.11/HardwareCheck_Suite_v5.6.11.zip",
   "repo_path": "updates/suite/v5.6.11/HardwareCheck_Suite_v5.6.11.zip",
   "filename": "HardwareCheck_Suite_v5.6.11.zip",
-  "sha256": "34f718605b46231c06a2f12cfc5d31040554ac90c1076c78c345d8e212822cfb",
-  "size_bytes": 257331,
+  "sha256": "a8ffc7b3d3f545dfca7e9dcb3bb4c9b7a11d4264fbfc7f54bee25fd34cac7c56",
+  "size_bytes": 257483,
   "notes": "CompactCheck-Stable-Feed: geprüfter v5.6.9-Umschaltkern mit Versionsstand v5.6.11; keine Magic-Image-Komponenten."
 }
