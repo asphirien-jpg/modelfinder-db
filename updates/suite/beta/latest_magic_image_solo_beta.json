@@ -1,13 +1,13 @@
 {
   "manifest_version": 1,
   "app": "magic-image-solo",
-  "version": "v5.6.11",
-  "suite_version": "v5.6.11",
+  "version": "v5.6.9",
+  "suite_version": "v5.6.9",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/suite/v5.6.11/MagicImageSolo_Suite_v5.6.11.zip",
-  "repo_path": "updates/suite/v5.6.11/MagicImageSolo_Suite_v5.6.11.zip",
-  "filename": "MagicImageSolo_Suite_v5.6.11.zip",
-  "sha256": "b935f45b7c6b66b622de6d686def073ef815351bccaf8b28bb448efe75e7e803",
-  "size_bytes": 86767,
-  "notes": "Beta-Kanal vorbereitet; derzeit derselbe geprüfte Basisstand wie Live."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/suite/v5.6.9/MagicImageSolo_Suite_v5.6.9.zip",
+  "repo_path": "updates/suite/v5.6.9/MagicImageSolo_Suite_v5.6.9.zip",
+  "filename": "MagicImageSolo_Suite_v5.6.9.zip",
+  "sha256": "470a08aaf5309d85aa902a560268b4b62aec7ca451b43720c2be424575255acb",
+  "size_bytes": 43358,
+  "notes": "Beta-Kanal vorbereitet. Derzeit enthält er noch keine experimentelle Programmversion."
 }
