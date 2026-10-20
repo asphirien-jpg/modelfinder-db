@@ -1,13 +1,13 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.7",
-  "suite_version": "v5.7",
+  "version": "v5.7.1",
+  "suite_version": "v5.7.1",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/suite/v5.7/CompactCheck_Suite_v5.7.zip",
-  "repo_path": "updates/suite/v5.7/CompactCheck_Suite_v5.7.zip",
-  "filename": "CompactCheck_Suite_v5.7.zip",
-  "sha256": "dfd30ccac3e4ff6255bc95b3d36ccf6d5928498869d5aacc57fa6d8e24152014",
-  "size_bytes": 257353,
-  "notes": "v5.7 Beta für CompactCheck-Sticks: aktualisiert HardwareCheck und CompactCheck, enthält keine Magic-Image-Komponente."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/suite/v5.7.1/CompactCheck_Suite_v5.7.1.zip",
+  "repo_path": "updates/suite/v5.7.1/CompactCheck_Suite_v5.7.1.zip",
+  "filename": "CompactCheck_Suite_v5.7.1.zip",
+  "sha256": "9a0dd8ee2c6eb5d0af7d4e5b707795673e9e3728d9eae15545079541925e5427",
+  "size_bytes": 257359,
+  "notes": "v5.7.1 Beta für CompactCheck-Sticks: aktualisiert HardwareCheck und CompactCheck, enthält keine Magic-Image-Komponente."
 }

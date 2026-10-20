@@ -1,13 +1,13 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.7",
-  "suite_version": "v5.7",
+  "version": "v5.7.1",
+  "suite_version": "v5.7.1",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/suite/v5.7/HardwareCheck_Suite_v5.7.zip",
-  "repo_path": "updates/suite/v5.7/HardwareCheck_Suite_v5.7.zip",
-  "filename": "HardwareCheck_Suite_v5.7.zip",
-  "sha256": "252432e157c7f40204032ed6ca3c5b1fd57f2e572aa1e1c0880eba6b8dd0fca4",
-  "size_bytes": 367367,
-  "notes": "v5.7 Beta: vollständiger gemeinsamer SSD-Kern. Einstellungen, Modelle, Images, Treiber und Backups bleiben geschützt."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/suite/v5.7.1/HardwareCheck_Suite_v5.7.1.zip",
+  "repo_path": "updates/suite/v5.7.1/HardwareCheck_Suite_v5.7.1.zip",
+  "filename": "HardwareCheck_Suite_v5.7.1.zip",
+  "sha256": "a3b0b6dbe7ede128378f4024b24effad1e1b537b120bde1bc1d07c6dd25ce9eb",
+  "size_bytes": 367404,
+  "notes": "v5.7.1 Beta: vollständiger gemeinsamer SSD-Kern. Einstellungen, Modelle, Images, Treiber und Backups bleiben geschützt."
 }

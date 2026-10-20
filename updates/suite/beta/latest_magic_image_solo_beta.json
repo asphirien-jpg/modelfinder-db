@@ -1,13 +1,13 @@
 {
   "manifest_version": 1,
   "app": "magic-image-solo",
-  "version": "v5.7",
-  "suite_version": "v5.7",
+  "version": "v5.7.1",
+  "suite_version": "v5.7.1",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/suite/v5.7/MagicImageSolo_Suite_v5.7.zip",
-  "repo_path": "updates/suite/v5.7/MagicImageSolo_Suite_v5.7.zip",
-  "filename": "MagicImageSolo_Suite_v5.7.zip",
-  "sha256": "3a2398cc7b82d3e316d6fe213c3b4fea0e0a076ca3377e32c0e8fd92ffa933f0",
-  "size_bytes": 367862,
-  "notes": "v5.7 Beta: gemeinsames SSD-Update für Magic Image, HardwareCheck und CompactCheck. Einstellungen, Modelle, Images, Treiber und Backups bleiben geschützt."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/suite/v5.7.1/MagicImageSolo_Suite_v5.7.1.zip",
+  "repo_path": "updates/suite/v5.7.1/MagicImageSolo_Suite_v5.7.1.zip",
+  "filename": "MagicImageSolo_Suite_v5.7.1.zip",
+  "sha256": "95591ca88ab8bb40a08e549bf9219378bd33eede8e203277d7290d42e3411a8d",
+  "size_bytes": 367899,
+  "notes": "v5.7.1 Beta: gemeinsames SSD-Update übernimmt nach der bewussten Magic-Bestätigung alle drei Tools als geprüften Satz. Einstellungen, Modelle, Images, Treiber und Backups bleiben geschützt."
 }
