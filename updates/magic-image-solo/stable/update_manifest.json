@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "magic-image-solo",
-  "version": "v5.6.7",
-  "suite_version": "v5.6.7",
+  "version": "v5.6.9",
+  "suite_version": "v5.6.9",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/suite/v5.6.7/MagicImageSolo_Suite_v5.6.7.zip",
-  "repo_path": "updates/suite/v5.6.7/MagicImageSolo_Suite_v5.6.7.zip",
-  "filename": "MagicImageSolo_Suite_v5.6.7.zip",
-  "sha256": "6d928e0bb73bc69531306cf5b455c7a47dcf821b6bf3659044183fb5b1e1aedc",
-  "size_bytes": 361397,
-  "created_at": "2026-10-19T14:00:00Z",
-  "notes": "Suite v5.6.7: Hotfix für den Magic-Image-Optionen-Dialog sowie Opt-in Beta-Test-Kanal. Ohne aktiviertes Häkchen bleiben Programmupdates vollständig im Live-Kanal; Images, Configs, Treiber und Boot-Dateien werden nicht verändert."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/suite/v5.6.9/MagicImageSolo_Suite_v5.6.9.zip",
+  "repo_path": "updates/suite/v5.6.9/MagicImageSolo_Suite_v5.6.9.zip",
+  "filename": "MagicImageSolo_Suite_v5.6.9.zip",
+  "sha256": "470a08aaf5309d85aa902a560268b4b62aec7ca451b43720c2be424575255acb",
+  "size_bytes": 43358,
+  "created_at": "2026-10-20T10:00:00Z",
+  "notes": "Stabilitaetsfix: alte liegengebliebene Update-Stufen werden nicht mehr beim Start automatisch uebernommen. Das Paket ersetzt nur Magic Image; Images, Configs, Treiber und Boot-Dateien bleiben unveraendert."
 }

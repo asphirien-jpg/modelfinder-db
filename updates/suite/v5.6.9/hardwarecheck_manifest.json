@@ -1,0 +1,11 @@
+{
+  "manifest_version": 1,
+  "app": "HardwareCheck",
+  "version": "v5.6.9",
+  "suite_version": "v5.6.9",
+  "package_type": "program-update",
+  "filename": "HardwareCheck_Suite_v5.6.9.zip",
+  "sha256": "728413f42cce4696624af6a268d777d7252741995020871bba59987b5f0f0c8f",
+  "size_bytes": 255310,
+  "notes": "Stabilitaetsfix fuer Medienerkennung und Werkzeugwechsel."
+}

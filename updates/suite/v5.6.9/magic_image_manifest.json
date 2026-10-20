@@ -1,0 +1,11 @@
+{
+  "manifest_version": 1,
+  "app": "magic-image-solo",
+  "version": "v5.6.9",
+  "suite_version": "v5.6.9",
+  "package_type": "program-update",
+  "filename": "MagicImageSolo_Suite_v5.6.9.zip",
+  "sha256": "470a08aaf5309d85aa902a560268b4b62aec7ca451b43720c2be424575255acb",
+  "size_bytes": 43358,
+  "notes": "Stabilitaetsfix gegen die automatische Uebernahme alter Update-Stufen."
+}

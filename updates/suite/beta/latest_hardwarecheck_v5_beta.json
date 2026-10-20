@@ -1,14 +1,14 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.6.8",
-  "suite_version": "v5.6.8",
+  "version": "v5.6.9",
+  "suite_version": "v5.6.9",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/suite/v5.6.8/HardwareCheck_Suite_v5.6.8.zip",
-  "repo_path": "updates/suite/v5.6.8/HardwareCheck_Suite_v5.6.8.zip",
-  "filename": "HardwareCheck_Suite_v5.6.8.zip",
-  "sha256": "b9452b899599f84ba84d37b62b0d7f038630dc89957188749b82253f7faa51f2",
-  "size_bytes": 255334,
-  "created_at": "2026-10-19T15:35:00Z",
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/suite/v5.6.9/HardwareCheck_Suite_v5.6.9.zip",
+  "repo_path": "updates/suite/v5.6.9/HardwareCheck_Suite_v5.6.9.zip",
+  "filename": "HardwareCheck_Suite_v5.6.9.zip",
+  "sha256": "728413f42cce4696624af6a268d777d7252741995020871bba59987b5f0f0c8f",
+  "size_bytes": 255310,
+  "created_at": "2026-10-20T10:00:00Z",
   "notes": "Beta-Kanal ist vorbereitet; derzeit derselbe sichere Basisstand wie Live. Experimentelle Treiberoptimierung bleibt weiterhin getrennt und unveroeffentlicht."
 }
