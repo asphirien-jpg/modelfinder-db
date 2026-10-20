@@ -1,13 +1,13 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.6.9",
-  "suite_version": "v5.6.9",
+  "version": "v5.6.11",
+  "suite_version": "v5.6.11",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/suite/v5.6.9/HardwareCheck_Suite_v5.6.9.zip",
-  "repo_path": "updates/suite/v5.6.9/HardwareCheck_Suite_v5.6.9.zip",
-  "filename": "HardwareCheck_Suite_v5.6.9.zip",
-  "sha256": "728413f42cce4696624af6a268d777d7252741995020871bba59987b5f0f0c8f",
-  "size_bytes": 255310,
-  "notes": "Stabilitaetsfix: sichere Umschaltung zwischen den drei Werkzeugen auf SSD-Medien und klare CompactCheck-Trennung auf USB-Sticks. Das Paket ersetzt ausschliesslich die zwei gemeinsamen HardwareCheck-Dateien; Images, Configs und Treiberablaeufe bleiben unveraendert."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/suite/v5.6.11/HardwareCheck_Suite_v5.6.11.zip",
+  "repo_path": "updates/suite/v5.6.11/HardwareCheck_Suite_v5.6.11.zip",
+  "filename": "HardwareCheck_Suite_v5.6.11.zip",
+  "sha256": "34f718605b46231c06a2f12cfc5d31040554ac90c1076c78c345d8e212822cfb",
+  "size_bytes": 257331,
+  "notes": "v5.6.11: geprüfter Umschaltkern auf Basis v5.6.9 für HardwareCheck und CompactCheck. Keine Änderung von Images, Configs oder Treiberabläufen."
 }
