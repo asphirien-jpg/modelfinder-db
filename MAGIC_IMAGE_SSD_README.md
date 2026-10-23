@@ -21,7 +21,9 @@ Programm- und Datenbank-Updates sind getrennt. Das Programm lädt nur über das 
 
 ## TreiberTrainer – Testfunktion, kein Live-Standard
 
-Der TreiberTrainer ist eine optionale Testfunktion und ersetzt das Original-Treiberskript nicht. Nach einem erfolgreichen Durchlauf kann er je Config einen Lernplan in `#configs/<Config>/driver-plan-test.json` ablegen. Beim nächsten gleichen Gerät werden bewährte INF-Treiber zuerst gezielt versucht. Anschließend läuft immer das unveränderte Originalskript als Sicherheitsnachlauf.
+Der TreiberTrainer ist eine optionale Testfunktion und ersetzt den bewährten ersten Originallauf nicht. Er lernt erst nach einem vollständig erfolgreichen Originallauf die von Windows tatsächlich gebundene Treiber-INF je Gerät (Windows-`oemXX.inf` plus konkreter INF-Pfad aus dem Originallog). Die Zuordnung wird als Schema-5-Plan in `#configs/<Config>/driver-plan-test.json` gespeichert.
+
+Beim nächsten Gerät mit exakt passenden Hardware-IDs werden nur diese validierten INF-Dateien gezielt installiert. Bleiben danach Geräte offen, ist der Plan ungültig, fehlt ein Pfad oder meldet die Installation einen Fehler, folgt das unveränderte Originalskript als Sicherheitsnachlauf. Sind alle Geräte nach dem gezielten Lauf versorgt, wird der zeitaufwändige Originallauf nicht erneut gestartet. Für Config 8567 ergab der Test am 20.03.2026 16:28 Minuten im ersten Lauf und 6:02 Minuten im validierten zweiten Lauf.
 
 Dadurch bleiben neue oder geänderte Hardware sowie offene Geräte durch den Originalablauf abgesichert. Eine allgemeine Live-Freigabe erfolgt erst nach Zustimmung des ursprünglichen Programmierers und weiteren Tests.
 
