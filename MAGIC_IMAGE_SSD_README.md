@@ -19,13 +19,13 @@ Die Oberfläche zeigt den Anschluss des Installationsmediums an. `USB 3.x SuperS
 
 Programm- und Datenbank-Updates sind getrennt. Das Programm lädt nur über das offizielle HTTPS-Manifest und akzeptiert Pakete erst nach SHA-256-Prüfung. Images, `#configs`, Treiber, WLAN-Profile und lokale Einstellungen werden nicht überschrieben.
 
-## TreiberTrainer – Testfunktion, kein Live-Standard
+## TreiberTrainer – optionale Live-Funktion
 
-Der TreiberTrainer ist eine optionale Testfunktion und ersetzt den bewährten ersten Originallauf nicht. Er lernt erst nach einem vollständig erfolgreichen Originallauf die von Windows tatsächlich gebundene Treiber-INF je Gerät (Windows-`oemXX.inf` plus konkreter INF-Pfad aus dem Originallog). Die Zuordnung wird als Schema-5-Plan lokal auf der jeweiligen SSD in `#driver-coach/<Config>/driver-plan.json` gespeichert. Der serververwaltete Ordner `#configs` enthält keine Lernpläne und bleibt damit für alle Gewerke gleich.
+Der TreiberTrainer ist eine optionale Live-Funktion und ersetzt den bewährten ersten Originallauf nicht. Er lernt erst nach einem vollständig erfolgreichen Originallauf die von Windows tatsächlich gebundene Treiber-INF je Gerät (Windows-`oemXX.inf` plus konkreter INF-Pfad aus dem Originallog). Die Zuordnung wird als Schema-5-Plan lokal auf der jeweiligen SSD in `#driver-coach/<Config>/driver-plan.json` gespeichert. Der serververwaltete Ordner `#configs` enthält keine Lernpläne und bleibt damit für alle Gewerke gleich.
 
 Beim nächsten Gerät mit exakt passenden Hardware-IDs werden nur diese validierten INF-Dateien gezielt installiert. Derselbe vollständige INF-Pfad wird dabei innerhalb eines Durchlaufs nur einmal aufgerufen; Windows bindet das Paket anschließend an alle dazu passenden Geräte. Bleiben danach Geräte offen, ist der Plan ungültig, fehlt ein Pfad oder meldet die Installation einen Fehler, folgt das unveränderte Originalskript als Sicherheitsnachlauf. Sind alle Geräte nach dem gezielten Lauf versorgt, wird der zeitaufwändige Originallauf nicht erneut gestartet. Für Config 8567 ergab der Test am 20.03.2026 16:28 Minuten im ersten Lauf und 6:02 Minuten im validierten zweiten Lauf.
 
-Dadurch bleiben neue oder geänderte Hardware sowie offene Geräte durch den Originalablauf abgesichert. Eine allgemeine Live-Freigabe erfolgt erst nach Zustimmung des ursprünglichen Programmierers und weiteren Tests.
+Dadurch bleiben neue oder geänderte Hardware sowie offene Geräte durch den Originalablauf abgesichert. Der TreiberTrainer ist bewusst optional: Ohne Auswahl im SSD-Ersteller bleibt der bisherige Originalablauf unverändert.
 
 ## Medienaufbau
 
