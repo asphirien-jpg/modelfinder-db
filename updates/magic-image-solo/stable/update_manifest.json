@@ -1,13 +1,13 @@
 {
   "manifest_version": 1,
   "app": "magic-image-solo",
-  "version": "v5.7.1",
-  "suite_version": "v5.7.1",
+  "version": "v5.7.2",
+  "suite_version": "v5.7.2",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/suite/v5.7.1/MagicImageSolo_Suite_v5.7.1.zip",
-  "repo_path": "updates/suite/v5.7.1/MagicImageSolo_Suite_v5.7.1.zip",
-  "filename": "MagicImageSolo_Suite_v5.7.1.zip",
-  "sha256": "95591ca88ab8bb40a08e549bf9219378bd33eede8e203277d7290d42e3411a8d",
-  "size_bytes": 367899,
-  "notes": "v5.7.1: gemeinsames Update für Magic Image, HardwareCheck und CompactCheck. Nach bewusster Bestätigung werden alle drei Tools als geprüfter Satz übernommen; Images, Configs, Treiber und Backups bleiben geschützt."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/suite/v5.7.2/MagicImageSolo_Suite_v5.7.2.zip",
+  "repo_path": "updates/suite/v5.7.2/MagicImageSolo_Suite_v5.7.2.zip",
+  "filename": "MagicImageSolo_Suite_v5.7.2.zip",
+  "sha256": "bb0afbcd6a2a8bf0264fb78c5a31828323b7ae04234df3b29e10c930129163f6",
+  "size_bytes": 369169,
+  "notes": "v5.7.2: Dell/SATA-Absicherung nach erfolgreichem Clonezilla-Restore. Die NTFS-Signatur wird nur bei fehlender Standarderkennung zus\u00e4tzlich gepr\u00fcft; der Sicherheits-Handoff bleibt unver\u00e4ndert."
 }
