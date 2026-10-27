@@ -1,6 +1,6 @@
 # Magic Image – Installations-SSD
 
-Stand: **v5.7.1**. Magic Image, HardwareCheck und CompactCheck verwenden den gemeinsamen freigegebenen Programmstand. Der SSD-Ersteller lädt vor jedem Aufbau das aktuelle GitHub-Manifest, prüft das Programmpaket per SHA-256 und kopiert diese aktuelle Dokumentation auf die Images-Partition.
+Stand: **v5.7.2**. Magic Image, HardwareCheck und CompactCheck verwenden den gemeinsamen freigegebenen Programmstand. Der SSD-Ersteller lädt vor jedem Aufbau das aktuelle GitHub-Manifest, prüft das Programmpaket per SHA-256 und kopiert diese aktuelle Dokumentation auf die Images-Partition.
 
 ## Ablauf
 
@@ -14,6 +14,12 @@ Stand: **v5.7.1**. Magic Image, HardwareCheck und CompactCheck verwenden den gem
 ## USB-Geschwindigkeit
 
 Die Oberfläche zeigt den Anschluss des Installationsmediums an. `USB 3.x SuperSpeed · 5000 Mbit/s` ist der normale schnelle Betrieb; `USB 2.0 High-Speed · 480 Mbit/s` kann Restore und Erkennung deutlich bremsen.
+
+## Restore-Sicherheit (v5.7.2)
+
+Nach einem erfolgreichen Clonezilla-Restore wartet Magic Image weiterhin auf die vom System gemeldete große NTFS-Windows-Partition. Bei einzelnen älteren Dell-/SATA-Controllern kann die Dateisystem-Erkennung jedoch noch leer sein, obwohl die Partition bereits vorhanden ist. Nur in diesem Sonderfall prüft v5.7.2 die NTFS-Signatur der großen Zielpartition zusätzlich direkt.
+
+Das lockert keine Schutzregel: Ohne echte NTFS-Signatur oder wenn das anschließende NTFS-Einhängen fehlschlägt, wird Windows weiterhin **nicht** gestartet.
 
 ## Updates
 
