@@ -25,6 +25,21 @@ Das lockert keine Schutzregel: Ohne echte NTFS-Signatur oder wenn das anschließ
 
 Programm- und Datenbank-Updates sind getrennt. Das Programm lädt nur über das offizielle HTTPS-Manifest und akzeptiert Pakete erst nach SHA-256-Prüfung. Images, `#configs`, Treiber, WLAN-Profile und lokale Einstellungen werden nicht überschrieben.
 
+## USB-Abschluss-Schutz (Medien-Ergänzung)
+
+Der getestete USB-Abschluss-Schutz verhindert, dass Windows während des
+Treiber-/Config-Abschlusses die drei Boot- und Systempartitionen der
+Magic-Image-SSD einhängt. Nur `MISOLOIMAGES` bleibt für den Ablauf sichtbar.
+Nach erfolgreichem Abschluss wird auch diese Datenpartition sauber getrennt
+und Windows zeigt eine deutsch/tschechische Bestätigung, dass die USB-SSD nun
+abgezogen werden kann.
+
+Der Schutz ändert keine Partitionstabellen, GPT-Attribute oder Kundendatenträger.
+Er ist als Medien-Ergänzung unter
+[`media/windows-usb-protection`](media/windows-usb-protection) versioniert.
+Bestehende SSDs werden kontrolliert einzeln aktualisiert; der derzeitige
+Programm-Updater verteilt diese drei Dateien noch nicht automatisch.
+
 ## TreiberTrainer – optionale Live-Funktion
 
 Der TreiberTrainer ist eine optionale Live-Funktion und ersetzt den bewährten ersten Originallauf nicht. Er lernt erst nach einem vollständig erfolgreichen Originallauf die von Windows tatsächlich gebundene Treiber-INF je Gerät (Windows-`oemXX.inf` plus konkreter INF-Pfad aus dem Originallog). Die Zuordnung wird als Schema-5-Plan lokal auf der jeweiligen SSD in `#driver-coach/<Config>/driver-plan.json` gespeichert. Der serververwaltete Ordner `#configs` enthält keine Lernpläne und bleibt damit für alle Gewerke gleich.
