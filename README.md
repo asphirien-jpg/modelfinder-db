@@ -1,5 +1,12 @@
 # modelfinder-db
 
+## Aktueller Veröffentlichungsstand
+
+Die maßgebliche Übersicht über die veröffentlichte Magic-Image-Suite,
+Testgrenzen und den technischen USB-Abschluss steht in
+[PROJECT_STATUS.md](PROJECT_STATUS.md). Die Anwender-/SSD-Dokumentation steht
+in [MAGIC_IMAGE_SSD_README.md](MAGIC_IMAGE_SSD_README.md).
+
 Dieses Repo ist die gemeinsame Update- und Datenquelle fuer die ModelSuite.
 
 ## Gemeinsame Wahrheit
