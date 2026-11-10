@@ -7,7 +7,7 @@
   "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/suite/v5.7.3/HardwareCheck_Suite_v5.7.3.zip",
   "repo_path": "updates/suite/v5.7.3/HardwareCheck_Suite_v5.7.3.zip",
   "filename": "HardwareCheck_Suite_v5.7.3.zip",
-  "sha256": "0486f3321df054b4c4c1e2e3a5d88840d135e1b798ff98360795217c722b916a",
+  "sha256": "57aad14e06c279777dcf13e46aad2eb996c2593f5fe51af73357fcd88c238bb8",
   "size_bytes": 264347,
   "notes": "v5.7.3: SSD-Station f\u00fcr externe Testmedien. Mehrere Datentr\u00e4ger werden nacheinander wie mit diskpart clean bereinigt (nur Partitions- und Dateisystemsignaturen, keine Formatierung). Die Pr\u00fcfung erfolgt direkt auf dem Datentr\u00e4ger und bleibt bei verz\u00f6gerten UAS-Updates stabil."
 }

@@ -1,13 +1,13 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.7.1",
-  "suite_version": "v5.7.1",
+  "version": "v5.7.3",
+  "suite_version": "v5.7.3",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/suite/v5.7.1/CompactCheck_Suite_v5.7.1.zip",
-  "repo_path": "updates/suite/v5.7.1/CompactCheck_Suite_v5.7.1.zip",
-  "filename": "CompactCheck_Suite_v5.7.1.zip",
-  "sha256": "9a0dd8ee2c6eb5d0af7d4e5b707795673e9e3728d9eae15545079541925e5427",
-  "size_bytes": 257359,
-  "notes": "v5.7.1 für CompactCheck-Sticks: aktualisiert HardwareCheck und CompactCheck, enthält keine Magic-Image-Komponente."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/suite/v5.7.3/CompactCheck_Suite_v5.7.3.zip",
+  "repo_path": "updates/suite/v5.7.3/CompactCheck_Suite_v5.7.3.zip",
+  "filename": "CompactCheck_Suite_v5.7.3.zip",
+  "sha256": "83eeac66b7b8d73b6277d8da71a9da2d5e8f62bb047bb84410872a302b447db0",
+  "size_bytes": 264535,
+  "notes": "v5.7.3: SSD-Station f\u00fcr externe Testmedien. Mehrere Datentr\u00e4ger werden nacheinander wie mit diskpart clean bereinigt (nur Partitions- und Dateisystemsignaturen, keine Formatierung). Die Pr\u00fcfung erfolgt direkt auf dem Datentr\u00e4ger und bleibt bei verz\u00f6gerten UAS-Updates stabil. Compact-Sticks behalten ihren kompatiblen Zwei-Dateien-Updater."
 }
