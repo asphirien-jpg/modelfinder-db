@@ -1,13 +1,13 @@
 {
   "manifest_version": 1,
   "app": "HardwareCheck",
-  "version": "v5.7.2",
-  "suite_version": "v5.7.2",
+  "version": "v5.7.3",
+  "suite_version": "v5.7.3",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/suite/v5.7.2/HardwareCheck_Suite_v5.7.2.zip",
-  "repo_path": "updates/suite/v5.7.2/HardwareCheck_Suite_v5.7.2.zip",
-  "filename": "HardwareCheck_Suite_v5.7.2.zip",
-  "sha256": "5db8e9717125e29d6f4775bbec858bc3a86877c6dacf8007b3de4ef9861306e0",
-  "size_bytes": 368649,
-  "notes": "v5.7.2: Dell/SATA-Absicherung nach erfolgreichem Clonezilla-Restore. Neue SSDs erhalten den Fix automatisch; alle bestehenden Sicherheitspr\u00fcfungen bleiben aktiv."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/suite/v5.7.3/HardwareCheck_Suite_v5.7.3.zip",
+  "repo_path": "updates/suite/v5.7.3/HardwareCheck_Suite_v5.7.3.zip",
+  "filename": "HardwareCheck_Suite_v5.7.3.zip",
+  "sha256": "72951ff97d863ea94d11337cc38771aaac6736f52671dde8689878f4d856b4ce",
+  "size_bytes": 373438,
+  "notes": "v5.7.3: SSD-Station f\u00fcr externe Testmedien. Mehrere Datentr\u00e4ger werden nacheinander wie mit diskpart clean bereinigt (nur Partitions- und Dateisystemsignaturen, keine Formatierung). Die Pr\u00fcfung erfolgt direkt auf dem Datentr\u00e4ger und bleibt bei verz\u00f6gerten UAS-Updates stabil."
 }

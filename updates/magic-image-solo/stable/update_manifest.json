@@ -1,13 +1,13 @@
 {
   "manifest_version": 1,
   "app": "magic-image-solo",
-  "version": "v5.7.2",
-  "suite_version": "v5.7.2",
+  "version": "v5.7.3",
+  "suite_version": "v5.7.3",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/suite/v5.7.2/MagicImageSolo_Suite_v5.7.2.zip",
-  "repo_path": "updates/suite/v5.7.2/MagicImageSolo_Suite_v5.7.2.zip",
-  "filename": "MagicImageSolo_Suite_v5.7.2.zip",
-  "sha256": "bb0afbcd6a2a8bf0264fb78c5a31828323b7ae04234df3b29e10c930129163f6",
-  "size_bytes": 369169,
-  "notes": "v5.7.2: Dell/SATA-Absicherung nach erfolgreichem Clonezilla-Restore. Die NTFS-Signatur wird nur bei fehlender Standarderkennung zus\u00e4tzlich gepr\u00fcft; der Sicherheits-Handoff bleibt unver\u00e4ndert."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/suite/v5.7.3/MagicImageSolo_Suite_v5.7.3.zip",
+  "repo_path": "updates/suite/v5.7.3/MagicImageSolo_Suite_v5.7.3.zip",
+  "filename": "MagicImageSolo_Suite_v5.7.3.zip",
+  "sha256": "f7f26edd91371292ff3bcda45fd1a9e660c755502d98a2c792929971666841c9",
+  "size_bytes": 373957,
+  "notes": "v5.7.3: SSD-Station f\u00fcr externe Testmedien. Mehrere Datentr\u00e4ger werden nacheinander wie mit diskpart clean bereinigt (nur Partitions- und Dateisystemsignaturen, keine Formatierung). Die Pr\u00fcfung erfolgt direkt auf dem Datentr\u00e4ger und bleibt bei verz\u00f6gerten UAS-Updates stabil."
 }
