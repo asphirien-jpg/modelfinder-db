@@ -1,13 +1,13 @@
 {
   "manifest_version": 1,
   "app": "magic-image-solo",
-  "version": "v5.7.3",
-  "suite_version": "v5.7.3",
+  "version": "v5.7.4",
+  "suite_version": "v5.7.4",
   "package_type": "program-update",
-  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/suite/v5.7.3/MagicImageSolo_Suite_v5.7.3.zip",
-  "repo_path": "updates/suite/v5.7.3/MagicImageSolo_Suite_v5.7.3.zip",
-  "filename": "MagicImageSolo_Suite_v5.7.3.zip",
-  "sha256": "f7f26edd91371292ff3bcda45fd1a9e660c755502d98a2c792929971666841c9",
-  "size_bytes": 373957,
-  "notes": "v5.7.3: SSD-Station f\u00fcr externe Testmedien. Mehrere Datentr\u00e4ger werden nacheinander wie mit diskpart clean bereinigt (nur Partitions- und Dateisystemsignaturen, keine Formatierung). Die Pr\u00fcfung erfolgt direkt auf dem Datentr\u00e4ger und bleibt bei verz\u00f6gerten UAS-Updates stabil."
+  "download_url": "https://raw.githubusercontent.com/asphirien-jpg/modelfinder-db/main/updates/suite/v5.7.4/MagicImageSolo_Suite_v5.7.4.zip",
+  "repo_path": "updates/suite/v5.7.4/MagicImageSolo_Suite_v5.7.4.zip",
+  "filename": "MagicImageSolo_Suite_v5.7.4.zip",
+  "sha256": "8e9be4ae49752499d761014d443354fd0aef912eb11e65587344e0b77fb6ead4",
+  "size_bytes": 374586,
+  "notes": "v5.7.4: Der Magic-Image-Handoff liegt nur noch unter C:\\Windows\\Addins\\MagicImage. Die Runtime erkennt den vorhandenen Addins-Ordner inklusive seiner tatsächlichen Schreibweise, legt keine parallele Addins-Struktur an und startet Windows bei einem fehlenden oder mehrdeutigen Addins-Ordner nicht. Der Windows-Abschluss entfernt nach Erfolg ausschließlich MagicImage. Für bereits vorhandene Anwender-SSDs wird zusätzlich der kontrollierte Medien-Updater benötigt, damit image-deploy.bat denselben Handoff-Pfad liest."
 }
